@@ -1,501 +1,501 @@
 audio_path,sentence,domain
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00000.wav,Hər kursun özünün proqramı vardır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00001.wav,Kursun proqramı qabaqcadan hazırlanmış video dərslərdən və hər dərsə aid olan tapşırıqlardan ibarətdir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00002.wav,Kursun gedişatı barəsində məlumat verən blok vasitəsilə kursda olan ümumi və başa vurulan materialların sayı barəsində məlumat əldə etmək mümkündür.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00003.wav,Ən azı 95% materialı başa vurulmuş kurs bitirilmiş kurs hesab edilir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00004.wav,Bitirilmiş kursun sertifikatını bu səhifədə yükləmək mümkündür.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00005.wav,Bitirilmiş kurs barəsində rəyi burada yazmaq mümkündür.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00006.wav,Kursun istənilən dərsini izləmək üçün həmin dərsin səhifəsinə daxil olmaq lazımdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00007.wav,Sona kimi izlənilmiş dərs bitirilmiş hesab edilir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00008.wav,Hər izlənilmiş dərs və hər həll edilmiş tapşırıq həmin tələbənin kursun materiallarını keçmə sayını və faizini artırır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00009.wav,Dərs barəsində yaranan sualları həmin dərsin səhifəsində yerləşdirmək mümkündür.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00010.wav,Dərs bitdikdən sonra əldə edilən bilikləri möhkəmləndirmək məqsədilə həmin dərsə aid olan tapşırıqlar yerinə yetirilməlidir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00011.wav,Tapşırıqlara dərsin səhifəsindən və ya kursun plan səhifəsindən keçid etmək mümkündür.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00012.wav,Tapşırıqlar üç cürdür:,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00013.wav,"Test, açıq və praktiki.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00014.wav,Test tipli tapşırıqları həll etmək üçün doğru cavabı seçib seçimi təsdiq etmək lazımdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00015.wav,Açıq tipli tapşırıqlarda variantlar olmadığından doğru hesab edilən cavab cavab sahəsinə daxil edilərək təsdiq edilməlidir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00016.wav,"Daxil edilən cavabın önündə və ya arxasında cavaba aid olmayan probel, vergül, nöqtə kimi artıq simvollar olmamalıdır.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00017.wav,Praktik tapşırığı həll etmək üçün tələb olunan nəticəni verən əmri əmrlər sahəsinə daxil edərək onu təsdiq etmək lazımdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00018.wav,"Daxil edilən əmr tələb olunan nəticəyə uyğun olarsa, tapşırıq həll olunmuş hesab edilir.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00019.wav,"Uyğun deyilsə, daxil edilən əmrin icra nəticəsi ilə gözlənilən nəticə arasında fərqi özündə əks etdirən hesabat cavab olaraq qaytarılacaq.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00020.wav,"Əgər əmrdə xəta olarsa, bu xətada öz növbəsində hesabatda yer alacaq.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00021.wav,Tapşırıq həll edildikdən sonra müəllimin həll variantı ilə də tanış olmaq mümkündür.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00022.wav,"Tapşırıq barəsində sual yaranarsa və yaxud onun həllində çətinlik olarsa, sual bölməsi vasitəsilə müəllimə sual vermək mümkündür.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00023.wav,"Suala hər hansısa proqramlaşdırma dilində tərtib edilmiş əmr əlavə etmək lazım gələrsə, əmrin daha aydın oxunulması məqsədilə həmin əmri həmin proqramlaşdırma dilinə uyğun mətn sahəsinə daxil etmək olar.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00024.wav,Hər bir suala görə ayrıca mövzu açılmalıdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00025.wav,Həmin suala aid olan cavablar həmin sualın altında daxil edilməlidir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00026.wav,"Suala həm müəllim, həm də digər iştirakçılar cavab verə bilərlər.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00027.wav,Tapşırıq həll edildikdən sonra irəli düyməsi vasitəsilə və ya tapşırıqların siyahısından növbəti tapşırığa keçid etmək mümkündür.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00028.wav,Həll edilən tapşırığın həll variantı məlumatlar bazasında saxlanılır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00029.wav,Nəticəni sıfırla düyməsi ilə tapşırığın həllini və onun həll edilməsi barəsində nəticəni sıfırlayaraq onu yenidən həll etmək mümkündür.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00030.wav,1991-ci ilin fevral ayında Hollandiya Riyaziyyat və Kompüter Elmləri Mərkəzinin əməkdaşı Qvido Van Rossum o zamanlar yeni olan Python proqramlaşdırma dilinin mənbə kodunu nəşr etdi.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00031.wav,Dilin yaradılması onun şəxsi təşəbbüsü olmuşdu.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00032.wav,Qvido Van Rossum Python dilini tərtib edərkən o zamanlar artıq mövcud olan digər proqramlaşdırma dillərinin ən yaxşı təcrübələrini Pythonda istifadə etmək qərarına gəldi.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00033.wav,"Məhz bu səbəbdən Lisp, Fortran, Java və digər proqramlaşdırma dillərinin ən yaxşı təcrübələri Python proqramlaşdırma dilinə daxil oldu.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00034.wav,Python proqramlaşdırma dilinə ən çox ABC və C dilləri təsir etdi.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00035.wav,ABC dilindən Pythona operatorlar qruplaşdırmaq üçün nəzərdə tutulan və Python kodunun yazılışını və oxunuşunu rahatlaşdıran abzass daxil oldu.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00036.wav,C dilindən isə Pythona sintaksis konstruksiyalar daxil edildi.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00037.wav,Üç il sonra 1994-cü ildə Pythonın birinci versiyası buraxıldı.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00038.wav,Altı ildən sonra 2000-ci ilin oktyabr ayında Pythonın ikinci versiyası buraxıldı.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00039.wav,Hər yeni versiya ilə Python yeni xüsusiyyətlər və funksiyalar əldə edirdi.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00040.wav,2008-ci ilin dekabrında uzun sınaqlardan sonra Pythonın üçüncü versiyası buraxıldı.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00041.wav,Hal-hazırda üçüncü versiya Pythonın aktual versiyası olduğundan proqramlaşmanı məhz bu versiya üzərində öyrənəcəyik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00042.wav,Bu mövzudan başlayaraq Python-da olan obyektlər ilə ayrı-ayrılıqda tanış olacağıq.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00043.wav,"Artıq biz kiçik də olsa, Python-da proqram tərtib etməyi bacarırıq.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00044.wav,Obyektlər mövzusuna keçməmişdən əvvəl gəlin Python proqramının nə olduğunu bir daha təkrarlayaq.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00045.wav,Python dilində tərtib edilmiş müəyyən əmrlər ardıcıllığından ibarət olan əmrlər toplusuna Python proqramı deyilir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00046.wav,Python proqramında olan hər sətir bir əmrdir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00047.wav,"Biz buna instuksiya, yəni təlimat da deyə bilərik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00048.wav,Hər əmrə uyğun olaraq da kompüter həmin əmrə uyğun olaraq əməliyyatlar yerinə yetirir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00049.wav,Misal olaraq ekranda gördüyünüz bu iki proqrama nəzər yetirək.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00050.wav,"Birinci proqram bir təlimatdan, yəni bir əmrdən ibarətdir.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00051.wav,İkinci proqram isə üç təlimatdan ibarətdir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00052.wav,Birinci proqrama ekrana salam sözünü çıxardan print funksiyasını daxil etmişik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00053.wav,"İkinci proqrama isə ekrana salam, mən Python dilini öyrənirəm və beş üstəgəlsin on riyazi əməliyyatın nəticəsini, yəni on beşi ekrana çıxardan üç print funksiyasını daxil etmişik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00054.wav,"Gördüyünüz kimi birinci proqramın icra nəticəsində ekrana salam sözü, ikinci proqramın icra nəticəsində isə ekrana salam, mən Python dilini öyrənirəm və beş üstəgəlsin on riyazi əməliyyatın nəticəsi olan on beş ədədi ekrana çap edildi.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00055.wav,"Baxmayaraq ki, birinci proqram bir, ikinci proqram üç əmrdən ibarətdir, bu iki proqram Python dilində tərtib edilmiş proqramdır.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00056.wav,Python-da bizim işimiz müxtəlif tip obyektlər üzərində əməliyyatlardan ibarət olacaq.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00057.wav,Python-da çoxlu obyekt tipləri mövcuddur.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00058.wav,Gördüyünüz bu siyahı ən çox rastlaşacağımız obyekt tiplərinin siyahısıdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00059.wav,İrəliləyən dərslərdə hər obyekt tipi ilə ayrı-ayrılıqda tanış olacağıq.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00060.wav,Onlar üzərində əməliyyatlar yerinə yetirəcəyik və onları bir tipdən başqa tipə çevirməyi öyrənəcəyik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00061.wav,"Bu mövzumuzda integer və float, yəni tam və kəsrli ədəd tipli obyektlərdən danışacağıq.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00062.wav,"Obyektlərin ingilis dilində adlarını bilməyimiz çox vacibdir,",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00063.wav,çünki biz dərslərimizdə obyektlərin ingilis dilində olan adlarından istifadə edəcəyik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00064.wav,Mənfidən müsbətə qədər sıfır daxil olmaqla bütün tam ədədlər Pythonda integer tipli obyektlərə aiddir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00065.wav,Float tipli obyektlərə isə kəsr hissəsi olan ədədlər daxildir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00066.wav,"Yəni misal üçün: -5.6, 0.78, 114.93.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00067.wav,Bu cür ədədləri Python dilində yazarkən mütləq tam hissəni kəsr hissəsindən nöqtə ilə ayırmaq lazımdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00068.wav,"Əgər vergüldən istifadə etsək, o zaman Python bu rəqəmi iki müstəqil rəqəm kimi qəbul edəcək.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00069.wav,Riyaziyyatda olduğu kimi Pythonda da rəqəmlər üzərində riyazi əməliyyatlar yerinə yetirmək olar.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00070.wav,Gördüyünüz cədvəl ən çox istifadə edəcəyimiz riyazi əməliyyatlardır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00071.wav,Birinci əməliyyatımız toplama əməliyyatıdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00072.wav,Riyaziyyatda da olduğu kimi bu əməliyyat iki ədədi toplamaq üçün nəzərdə tutulur.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00073.wav,Gəlin biz Pycharm proqramını açaq və həmin əməliyyatları Pythonda icra edək.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00074.wav,"Mən Pythonda bu əməliyyatları fayl vasitəsilə yox, konsol vasitəsilə yerinə yetirəcəm.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00075.wav,"Ona görə ki, fayl vasitəsilə yerinə yetirərkən hər dəfə gərək biz print funksiyası vasitəsilə alındığımız nəticəni ekrana çıxardaq.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00076.wav,Konsol proqramını açırıq və burada artıq məlumatları silmək üçün mausun sağ düyməsini basıb oradan clear all düyməsini sıxırıq və konsolu təmizləyirik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00077.wav,Gördüyünüz kimi 3 üstəgəlsin 5 riyazi əməliyyatının nəticəsini Python bizə 8 olaraq qaytardı.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00078.wav,İkinci riyazi əməliyyatımız bizim çıxma əməliyyatıdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00079.wav,Gördüyünüz kimi Python iki ədədin üzərində çıxma əməliyyatı yerinə yetirərkən onların nəticəsini bizə qaytardı.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00080.wav,Üçüncü əməliyyatımız bir ədədin digər ədədinə vurulmasıdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00081.wav,Gördüyünüz kimi Python bizə 3 vurulsun 5 riyazi əməliyyatının nəticəsini qaytardı.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00082.wav,Dördüncü əməliyyatımız bölmə əməliyyatıdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00083.wav,Gördüyünüz kimi burda da riyaziyyatda olduğu kimi bir rəqəmi digər rəqəmlə bölərkən onun nəticəsini Python bizə qaytardı.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00084.wav,"Tam yox, kəsr hissəli olan bir ədəddir.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00085.wav,"Təbii ki, bunun cavabı dörddür, amma Python nəyə görəsə də bizə 4.0 kimi qaytardı nəticəni.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00086.wav,"Səbəb ondadır ki, Pythonın xüsusiyyəti belə yazılıb ki, iki integer, yəni tam ədədləri bir-birinə bölərkən cavab mütləq float tipli, yəni kəsr hissəli olan ədəd kimi qayıtmalıdır.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00087.wav,Yəni bu bir qanundur və bunu yadda saxlamağımız çox vacibdir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00088.wav,"İkinci qanun ondan ibarətdir ki, hər hansısa bir integer, yəni tam ədədin float, yəni kəsrli bir ədədlə əməliyyatı zamanı nəticə həmişə float, yəni kəsrli ədəd kimi qayıdır.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00089.wav,"Pythonın funksiyası belə yazılıb ki, integer ilə float arasında istənilən riyazi əməliyyatın nəticəsi float tipli obyekt, yəni kəsrli ədəd kimi qayıdır.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00090.wav,Beşinci riyazi əməliyyatımız rəqəmin dərəcəyə yüksəldilməsidir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00091.wav,Misal üçün biz ikinin kubunu tapmaq üçün bir ədədi digər ədədə vurduğumuzda istifadə etdiyimiz ulduz operandından iki dəfə istifadə edirik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00092.wav,"Və bununla da biz Pythona deyirik ki, bizə ikinin kubunu qaytar.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00093.wav,Gördüyünüz kimi Python ikinin kubunu bizə qaytardı.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00094.wav,Bu yolla biz həm də ədədin kökaltı nəticəsini də ala bilərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00095.wav,"Məsəl üçün, dörd rəqəminin kökaltı nəticəsini almaq üçün dördü 0.5 dərəcəsinə yüksəltməliyik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00096.wav,Və aldığımız nəticə dördün kök altından çıxan nəticəsidir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00097.wav,"dərəcəyə yüksəltmə operantını qeyd eləyirik, yəni iki dənə ulduz və sonra 0.5.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00098.wav,Növbəti riyazi əməliyyatımızın adı tam bölmə əməliyyatıdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00099.wav,Tam bölmə əməliyyatı deyərkən biz nəyi nəzərdə tuturuq və bunun adi bölmə ilə fərqi nədən ibarətdir?,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00100.wav,Tam bölmə əməliyyatı icra edərkən Python bizə bir ədədi digər ədədinə böləndə aldığımız nəticəsinin yalnız tam hissəsini bizə qaytarır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00101.wav,"Misal üçün, 16 bölünsün 3.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00102.wav,Gördüyünüz kimi 16 bölünsün 3 əməliyyatında Python bizə beş rəqəmini qaytardı.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00103.wav,"Amma əslində isə biz Python vasitəsilə 16-nı 3-ə bölsək, adi qaydada beş və kəsrdən ibarət olan bir ədəd, yəni float tipli bir ədəd alacağıq.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00104.wav,Həmin bu tam bölmə operantı bizə ancaq ədədin tam hissəsini qaytarır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00105.wav,"Sonuncu riyazi əməliyyatımız isə, bundan qabaqkı öyrəndiyimiz tam bölmə əməliyyatının tam əksidir.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00106.wav,"Yəni, bu əməliyyat isə bizə alınan ədədin tam hissəsini yox, qalıq hissəsini qaytarır.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00107.wav,"Gördüyünüz kimi, 21-i biz 4-ə bölərkən, adi bir qaydada bölgünün nəticəsi 5,25 alırıq.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00108.wav,Ancaq biz qalıqlı bölmədən istifadə edərkən bir cavabını alırıq.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00109.wav,"Bu ona görə belə olur ki, biz 21-i qalıq ilə 4-ə bölərkən beşi vururuq dördə, alırıq 20 və orada bizə bir qalıq qalır.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00110.wav,"Misal üçün, gəlin digər bir nümunəni nəzərdən keçirdək.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00111.wav,"22-ni 6-ya bölərkən biz üçü vururuq 6-ya, eləyir 18, 22-dən də 18-i çıxırıq, alırıq 4.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00112.wav,Bu dörd bizim qalığımız olduğundan və biz qalıqlı bölmə operantından istifadə etdiyimizdən cavab olaraq dördü alırıq.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00113.wav,"Misal üçün sizə tapşırıq verilə bilər ki, hər hansısa bir ədədin tək və yaxud da cüt olduğunu Python vasitəsilə müəyyən edin.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00114.wav,"Bunu müəyyən etmək üçün biz həmin ədədi, həmin bu operant vasitəsilə ikiyə bölüb qalığına baxmalıyıq.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00115.wav,"Əgər ikiyə bölünərkən qalıq sıfır, yəni qalıqsız bölünürsə, deməli bu ədəd cüt ədəddir.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00116.wav,"Yox, əgər ikiyə bölünərkən hər hansısa bir qalığı olursa, deməli bu ədəd tək ədəddir.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00117.wav,Gəlin misal üçün 21 ədədini bu operant vasitəsilə ikiyə bölək.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00118.wav,"Gördüyünüz kimi, biz cavab olaraq bir nəticəsini aldıq.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00119.wav,"Yəni, 21 ikiyə bölünərkən orada qalan qalıq birdir.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00120.wav,Deməli 21 ədədi tək ədəddir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00121.wav,Və yaxud da bir nümunə götürək.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00122.wav,22 ədədini ikiyə bölək.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00123.wav,Gördüyünüz kimi qalıq sıfırdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00124.wav,"Deməli, bu ədəd cüt ədəddir.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00125.wav,Digər bir cüt ədədləri də bu qaydada müəyyən edə bilərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00126.wav,Riyazi əməliyyatın yerinə yetirilmə ardıcıllığı.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00127.wav,Onların yerinə yetirmə ardıcıllığına görə biz o əməliyyatları yerinə yetiririk.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00128.wav,"Yəni eyni dərəcəli əməliyyatlar əgər bizim əməliyyatımızda varsa, o zaman biz soldan sağa növbə ilə həmin əməliyyatları yerinə yetiririk.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00129.wav,"Yox əgər əməliyyatımızın daxilində hər hansısa bir yüksək prioritetli bir əməliyyat varsa, o zaman birinci onu yerinə yetiririk, sonra qalanlarını.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00130.wav,Pythonda da riyaziyyatda olduğu kimi ən yüksək əməliyyat mötərizənin içində olan əməliyyatlar sayılır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00131.wav,Gəlin belə bir nümunəni nəzərdən keçirdək.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00132.wav,Bu əməliyyatda bizim ilk olaraq mötərizənin daxilindəki 3+2 əməliyyatı yerinə yetirilir,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00133.wav,və sonra üçü həmin mötərizənin daxilindəki əməliyyatın nəticəsinə vururuq və cavab olaraq 15 alırıq.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00134.wav,Digər yüksək əməliyyat prioritetinə malik olan əməliyyat dərəcəyə yüksəltmə əməliyyatıdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00135.wav,Misal üçün gəlin belə bir əməliyyatı nəzərdən keçirdək.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00136.wav,Belə olan halda biz ilk növbədə üçü kvadrata yüksəldirik və sonra aldığımız nəticəni ikiyə vururuq.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00137.wav,"yəni 3-ün kvadratı 9, sonra 2 vurulsun 9 18.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00138.wav,"Bayaq söylədiyimiz kimi, əməliyyatlardan elələri də var ki, onlar eyni dərəcəli əməliyyatlardır.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00139.wav,"Bunlara vurma, bölmə, qalıqlı bölmə və tam bölmə aiddir.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00140.wav,"Belə olan halda biz eyni dərəcəli olduqlarından bu əməliyyatları soldan sağa yerinə yetiririk, yəni birinci 8-i 2-yə bölürük, sonra vururuq 3-ə.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00141.wav,Digər əməliyyatlar isə çıxma və bölmə əməliyyatlarıdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00142.wav,"Çıxma və bölmə əməliyyatları əgər əməliyyatın daxilində digər yüksək dərəcəli əməliyyatlar varsa, ən sonda yerinə yetirilir.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00143.wav,"Yox əgər əməliyyatın özü ancaq çıxmadan və toplamadan ibarətdirsə, o zaman biz bundan qabaq da söylədiyimiz kimi, eyni dərəcəli əməliyyatları soldan sağa növbə ilə yerinə yetiririk.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00144.wav,"Burada birinci 3-dən 4-ü çıxırıq, alırıq -1 və üstünə gəlirik 2, alırıq 1.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00145.wav,"Biz Pythonda integer tipli, yəni tam ədədləri float tipli, yəni tam və kəsr hissəsindən ibarət olan ədədlərə çevirə bilərik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00146.wav,Biz bu əməliyyatları int və float funksiyaları vasitəsilə yerinə yetirə bilərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00147.wav,"Kəsr hissədən ibarət olan ədədi integer tipli obyektə, yəni ancaq tam hissədən ibarət olan ədədə çevirə bilərik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00148.wav,Gəlin Python konsolu vasitəsilə hər hansısa bir float tipli obyekti integer tipli obyektə çevirək.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00149.wav,"Burada biz integer funksiyası vasitəsilə 3,14 ədədini, yəni float tipli obyekti integer tipli obyektə, yəni tam ədədə çeviririk.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00150.wav,Gəlin eyni əməliyyatı print funksiyası vasitəsilə yerinə yetirək və nəticəsini ekrana verək.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00151.wav,Gördüyünüz kimi biz burada da eyni bir nəticəni əldə edirik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00152.wav,Burada ilk olaraq integer funksiyası yerinə yetirilir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00153.wav,"Yəni integer funksiyası 3,14 ədədini götürür və həmin ədədin ancaq tam hissəsini bizə qaytarır, yəni üçü.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00154.wav,Bu funksiyaya bir növ yuvarlaqlaşdırma funksiyası da demək olar.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00155.wav,"dörd yox, yenə də üç ədədini əldə edəcəyik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00156.wav,Yəni bu funksiyanın işi ona daxil edilən tam və kəsr hissədən ibarət olan ədədin ancaq tam hissəsini bizə qaytarmaqdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00157.wav,"Əgər biz bu funksiyaya integer tipli ədəd daxil etsək, o zaman yenə də integer tipli, yəni tam ədəd tipli obyekt əldə edəcəyik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00158.wav,Bu funksiyanın əksi olan funksiya float funksiyasıdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00159.wav,"Float funksiyası ona daxil edilən tam ədədləri, yəni integer tipli ədədləri float tipli ədədlərə, yəni tam və kəsr hissədən ibarət olan ədədlərə çevirir.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00160.wav,"Gördüyünüz kimi burada daxil edilən integer tipli, yəni tam ədədlərin sonuna nöqtə və sıfır əlavə edilərək həmin ədəd float tipli obyektə çevrilir.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00161.wav,Gəlin eyni əməliyyatımızı Python konsolunda da yerinə yetirək.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00162.wav,Gördüyünüz kimi burada da float funksiyası ona daxil edilmiş integer tipli obyekti float tipli obyektə çevirdi.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00163.wav,Python-da olan və riyazi əməliyyatları yerinə yetirmək üçün nəzərdə tutulan funksiyalara riyazi funksiyalar deyilir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00164.wav,Cədvəldə gördüyünüz funksiyalar ən çox istifadə edəcəyimiz funksiyaların siyahısıdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00165.wav,İlk funksiyamız ABC funksiyasıdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00166.wav,Bu funksiya hər hansısa bir rəqəmin modulunu əldə etmək üçün yaradılmışdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00167.wav,"Misal üçün, ABC mötərizədə 59 bizə 59 cavabı qaytaracaqdır.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00168.wav,"Bu o deməkdir ki, 59-un modulu 59-dur.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00169.wav,Bu funksiyadan adətən Python-da mənfi aldığımız nəticələri müsbətə çevirmək üçün istifadə olunur.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00170.wav,"Əgər biz həmin funksiyadan istifadə edərək müsbət ədədin modulunu əldə etmək istəsək, nəticə daxil etdiyimiz ədədin yenə də müsbət forması olacaqdır.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00171.wav,Növbəti funksiyamız min funksiyasıdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00172.wav,Min funksiyası ingilis dilindən minimum sözünün qısaldılmış formasıdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00173.wav,Yəni bu funksiyanın işi ona ötürülmüş bir neçə ədədlərdən ibarət olan ədədlər siyahısının içində ən kiçik ədədi tapıb bizə qaytarmaqdan ibarətdir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00174.wav,"Yəni əgər biz bu funksiyaya 8, 5, 78, 41 ədədlərini göndərsək, o zaman bu funksiya bizə göndərdiyimiz ədədlərin içindəki ən kiçik ədədi tapıb bizə qaytaracaq.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00175.wav,Gördüyünüz kimi bu funksiya bizə 5 ədədini qaytardı.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00176.wav,İkinci bir funksiyamız max funksiyasıdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00177.wav,Max funksiyası min funksiyasının tam olaraq əksidir və bizə daxil etdiyimiz ədədlərin içində ən böyük ədədi tapıb qaytarır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00178.wav,"Bayaq daxil etdiyimiz ədədləri təkrar olaraq max funksiyası üçün istifadə etsək, biz o zaman 78 cavabını əldə edəcəyik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00179.wav,Çünki daxil etdiyimiz ədədlərin içində ən böyük ədəd 78-dir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00180.wav,Pow funksiyası.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00181.wav,Pow funksiyası biz bundan qabaq öyrəndiyimiz dərəcəyə yüksəltmə riyazi əməliyyatının alternativ versiyasıdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00182.wav,biz səkkiz cavabını əldə edəcəyik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00183.wav,pov funksiyası vasitəsilə bizə ikinin kubunu tap və qaytar.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00184.wav,Yəni siz istəsəz bu funksiyadan da istifadə eləyə bilərsiz,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00185.wav,və yaxud da dərəcəyə yüksəltmə operandından istifadə eləyə bilərsiniz.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00186.wav,"proqramçıların çoxusu bu funksiyadan istifadə etmir,",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00187.wav,sadəcə olaraq rahat olsun deyənə dərəcəyə yüksəltmə operatından istifadə edirlər.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00188.wav,Sonuncu riyazi funksiyamız round adlandırılan funksiyadır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00189.wav,Round funksiyasının işi daxil etdiyimiz ədədi yuvarlaqlaşdırıb bizə geri qaytarmaqdan ibarətdir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00190.wav,cavab olaraq bir ədədini əldə eləyəcəyik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00191.wav,o avtomatik olaraq daxil etdiyimiz ədədin hansı tam ədədə yaxın olduğunu müəyyənləşdirir və ona yuvarlaqlaşdırır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00192.wav,o bizim daxil etdiyimiz ədədi sıfıra yuvarlaqlaşdıracaq.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00193.wav,Çünki 0.25-ə ən yaxın tam ədəd sıfır ədədidir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00194.wav,Gəlin misal üçün başqa bir ədədi nəzərdən keçirək.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00195.wav,Misal üçün 114.5.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00196.wav,114.5 115-ə də və 114-ə də eyni dərəcədə yaxındır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00197.wav,Bəs nə üçün Python bizə bu ədədi məhz 114-ə yuvarlaqlaşdırıb bizə qaytardı?,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00198.wav,o zaman avtomatik olaraq bu funksiya aşağı ədədi götürür və ona yuvarlaqlaşdırır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00199.wav,"Yəni 114.5 115-ə də eyni dərəcədə yaxındır, 114-ə də eyni dərəcədə yaxındır.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00200.wav,Amma avtomatik olaraq bu funksiya daxil etdiyimiz ədədi 114-ə yuvarlaqlaşdırdı.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00201.wav,"o zaman bu funksiya bizim daxil etdiyimiz ədədi 115-ə yuvarlaqlaşdıracaqdı,",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00202.wav,ona görə ki daxil etdiyimiz ədəd ən yaxın tam ədəd 115-dir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00203.wav,Gördüyünüz kimi biz üç ədədini cavab olaraq əldə etdik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00204.wav,Biz bu əməliyyatı həm də Python konsol vasitəsilə yerinə yetirə bilərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00205.wav,"Python konsolu bizim ona daxil etdiyimiz əmrləri bizə cavab olaraq qaytardığından, biz burada print funksiyasından istifadə etməyimizə ehtiyac yoxdur.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00206.wav,Amma yenə gördüyünüz kimi burada biz xəta əldə etdik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00207.wav,"Yəni Python burada bizə deyir ki, bu əmrlə bizim ondan nə istədiyimizi o başa düşmür.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00208.wav,"Burada biz `mat` modulunu import etməyimizə baxmayaraq, konsolda həmin modulun funksiyası işləmir.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00209.wav,"Səbəb ondadır ki, faylın içində import edilən modul konsula aidiyyatı olmur.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00210.wav,Yəni biz bu funksiyadan istifadə etmək üçün həmin modulu Python konsolda da import eləməliyik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00211.wav,"Bəli, biz `import mat` əmrini daxil etdik və enteri basdıq və bu əmrlə biz artıq konsula bu modulu import elədik və artıq biz onun funksiyalarından istifadə edə bilərik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00212.wav,"Bəli, gördüyünüz kimi burada da biz cavab olaraq üç ədədini əldə etdik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00213.wav,"Gəlin biz dərsimizi konsul yox, fayl vasitəsilə davam etdirək.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00214.wav,"Mən sadəcə olaraq burda göstərmək istəyirdim ki, əgər biz faylın içinə hər hansısa bir modulu import ediriksə, həmin import əmri Python konsuluna heç bir aidiyyatı olmur.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00215.wav,Bu funksiyanın analoqu olan sadə bir funksiya var.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00216.wav,"Əgər yadınızdadırsa, biz ədəd tipli obyektləri öyrənərkən `int` funksiyası ilə tanış olduq və öyrəndik ki, bu funksiya ona daxil edilən `float` tipli, yəni tam olmayan ədədləri tam ədədə çevirir və kəsr hissəsini ləğv edir.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00217.wav,"Bu mövzumuzda biz string tipli, yəni sətr tipli obyektlər haqqında ətraflı məlumat əldə edəcəyik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00218.wav,Pythonda sətr tipli obyektlər yaratmaq üçün dırnaqdan və yaxud da apostrofdan istifadə edilir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00219.wav,"Bəli, gördüyünüz kimi, biz burdan apostrofdan da istifadə etsək, dırnaqdan da istifadə etsək, eyni bir nəticəni əldə edəcəyik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00220.wav,Bu cür qayda ilə biz sətr tipli obyekti yaradarkən bir qaydanı yadımızda saxlamalıyıq.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00221.wav,"Qayda ondan ibarətdir ki, biz sətr tipli obyekt yaradarkən bir variantdan istifadə etməliyik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00222.wav,"Yəni burada biz obyektimizi dırnaq ilə açıb, apostrof ilə bağlaya bilmərik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00223.wav,"Yəni əgər obyekt dırnaq ilə açılıbsa, dırnaq ilə də bağlanmalıdır.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00224.wav,"Apostrofla açılıbsa, apostrofla bağlanmalıdır.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00225.wav,"Digər bir qayda ondan ibarətdir ki, əgər dırnaq açılıbsa, o mütləq bağlanmalıdır.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00226.wav,Yəni biz bu cür variant ilə sətr tipli obyekt yarada bilmərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00227.wav,"Növbəti qaydamız ondan ibarətdir ki, obyektin yaradılmasında iştirak edən simvolları obyektin içində istifadə etmək olmaz.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00228.wav,"Yəni biz burada salam sözünü dırnaq işarəsindən istifadə etməklə yaratmışıqsa, əlavə olaraq həmin işarədən sözün içində, sözün qabağında və yaxud da sonunda istifadə edə bilmərik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00229.wav,"Bəs əgər biz cümlənin içində dırnaq işarəsindən istifadə etmək istəyiriksə, o zaman biz nə etməliyik?",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00230.wav,Gəlin belə bir tapşırığı yerinə yetirməyə çalışaq.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00231.wav,Print funksiyası vasitəsilə bu cümləni ekrana çıxardaq.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00232.wav,"Mən şriftlərin ölçünü kiçiltdim ki, daxil edəcəyimiz cümlə ekrana yerləşsin.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00233.wav,Gördüyünüz kimi bu cür cümləni biz ekrana verərkən xəta ilə üzləşdik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00234.wav,"Bayaq da dediyimiz kimi, əgər sətr tipli obyektin yaradılmasında iştirak edən simvollar həmin obyektin, yəni sətrin içində, yəni sətr tipli obyektin içində rast gəlinirsə, varsa, o zaman bu bizə xəta verəcək.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00235.wav,Gördüyünüz kimi biz sətr tipli obyektin yaradılmasında apostrofdan istifadə etdiyimizdən artıq cümlənin içində biz dırnaqdan istifadə edə bilərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00236.wav,Və yaxud da əksinə.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00237.wav,Bu variantda isə biz cümlənin içindəki simvolu başqa bir simvolla əvəz etdik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00238.wav,"Əgər cümlənin içində apostrof varsa, o zaman biz apostrofdan istifadə etməklə həmin cümləni sətr tipli obyektə çevirə bilmərik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00239.wav,Bunun üçün biz dırnaq işarəsindən istifadə etməliyik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00240.wav,"Və yaxud da əksinə, əgər cümlənin içində dırnaq işarəsi varsa, o zaman biz onu yaratmaq üçün dırnaqdan istifadə edə bilmərik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00241.wav,Bu cür obyekti sətrə çevirmək üçün biz mütləq apostrofdan istifadə etməliyik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00242.wav,"Bu qaydaya baxmayaraq, biz sətr tipli obyekti yaratmaq üçün istifadə etdiyimiz simvolu həmin sətrin içində yerləşdirə bilərik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00243.wav,Bunun üçün biz ekranlayıcı xüsusiyyətinə malik olan geriyə flash simvolundan istifadə etməliyik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00244.wav,Gəlin bu yaratdığımız cümlədə mən gəlirəmi dırnaq içərisinə daxil edək.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00245.wav,Gördüyümüz kimi PyCharm-ın bizi artıq kodumuzda yanlışlıq olduğunu xəbər verdi.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00246.wav,Burada nə baş verir?,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00247.wav,"Burada biz geriyə flash simvolu vasitəsilə həmin bu iki dırnağı ekranlaşdırırıq və Pythona deyirik ki, bu dırnaqlar hər hansısa bir sətr tipli obyektin yaradılmasında istifadə edilmir.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00248.wav,Biz sadəcə olaraq onu sətr tipli obyektin tərkib hissəsinə çevirmək istəyirik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00249.wav,Gördüyümüz kimi biz bu qayda ilə sətr tipli obyekti yaradarkən həmin obyektin tərkibinə istədiyimiz simvolu əlavə edə bilərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00250.wav,Biz həm də üç dırnaqdan istifadə etməklə bu cür obyekti yarada bilərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00251.wav,Misal üçün.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00252.wav,"Soruşa bilərsiniz ki, bu variant ilə, bundan qabaqkı variantın arasında nə fərq var?",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00253.wav,"Fərq ondadır ki, biz üç dırnaqdan istifadə etməklə sətir tipli obyekt yaradarkən Python həmin sətrin daxilindəki olan növbəti sətrə keçmə və probel işarələrini, simvolları nəzərə alır.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00254.wav,"Gördüyünüz kimi burada birinci sətrə sa, ikinci sətrə isə lam sözü düşüb.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00255.wav,Həmin probellər print funksiyası zamanı da ekrana çıxacaq.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00256.wav,Gəlin indi biz bu əməliyyatı iki dırnaq vasitəsilə təkrar edək.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00257.wav,Gördüyünüz kimi iki dırnaqdan istifadə etməklə biz bu cür sətir tipli obyekti yarada bilmərik və Python proqramı bizə yazdığımız kodda səhvlik olduğunu məlumat verdi.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00258.wav,Amma buna baxmayaraq biz iki dırnaq vasitəsilə sətir tipli obyekt yaradarkən sözün içində probeldən istifadə edə bilərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00259.wav,Yəni növbəti sətrə keçməmək şərtilə.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00260.wav,"Növbəti sətrə keçmək istəyiriksə, o zaman biz üç dırnaqdan istifadə etməliyik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00261.wav,"Üç dırnaq praktikada demək olar ki, çox az istifadə olunur.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00262.wav,Yəni ən çox istifadə olunan variant bu variantdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00263.wav,Buna baxmayaraq biz üç dırnaq ilə yaradılmayan sətir tipli obyektlərinə növbəti sətrə keçid əməliyyatını daxil edə bilərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00264.wav,Bunun üçün biz print funksiyasına aid olan dərsimizdə öyrəndiyimiz geriyə flaş n simvolundan istifadə etməliyik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00265.wav,Sətir tipli obyektlərdə növbəti sətrə keçid əməliyyatını yerinə yetirmək istədiyimiz yerə bu simvolu daxil etməliyik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00266.wav,Gördüyünüz kimi bu simvolun olduğu yerdə Python növbəti sətrə keçid əməliyyatını yerinə yetirir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00267.wav,Biz Pythonda həm də boş sətr tipli obyekt yarada bilərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00268.wav,"Bu cür sətr tipli obyekt boş sətr tipli obyekt sayılır, yəni bu cür obyektin içində heç bir simvol yoxdur.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00269.wav,Biz həm də Pythonda probeldən ibarət olan bir obyekt yarada bilərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00270.wav,İlk baxışdan bu cür obyekt ilə boş obyektin arasında oxşarlıq var.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00271.wav,Amma bu oxşarlıq sizi çaşdırmasın.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00272.wav,Çünki probeldən ibarət sətr tipli obyekt ilə heç bir simvoldan ibarət sətr tipli obyektin arasında fərqlilik var.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00273.wav,"Fərq ondadır ki, birinci obyektimiz probeldən ibarətdir, ikinci obyektimizin içində heç bir simvol yoxdur.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00274.wav,Yaradığımız sətr tipli obyektləri dəyişənlərə də təyin edə bilərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00275.wav,Və bu dəyişən vasitəsilə həmin sətr tipli obyektlər üzərində müxtəlif əməliyyatlar yerinə yetirə bilərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00276.wav,Biz sətr tipli obyekti yaratmağı öyrəndik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00277.wav,Gəlin indi həmin sətr tipli obyektlər üzərində əməliyyatların yerinə yetirilməsi haqqında ətraflı məlumatına tanış olaq.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00278.wav,İlk olaraq öyrənəcəyimiz əməliyyat iki və daha artıq sətr tipli obyektlərin bir-biri ilə birləşdirilməsi olacaq.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00279.wav,Bu əməliyyat hər hansısa bir sətr tipli obyekti digər bir sətr tipli obyektlə birləşdirmək üçün istifadə olunur.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00280.wav,"Misal üçün, gəlin belə bir sətr tipli obyekt yaradaq.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00281.wav,Gördüyünüz kimi biz bu əməliyyat vasitəsilə mən və proqramçıyam sözlərini bir-biri ilə birləşdirdik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00282.wav,Yəni sadə toplama əməliyyatı vasitəsilə biz iki sətr tipli obyekti bir-biri ilə birləşdirdik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00283.wav,"Ancaq burada fikir verdiyiniz kimi, sözlər tam olaraq bir-birləri ilə birləşib və bu düzgün sayılmır.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00284.wav,Yəni iki sözün arasına biz probel əlavə eləməliyik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00285.wav,Biz bunu üç variant ilə edə bilərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00286.wav,Birinci variant probeli üçüncü bir sətr obyekti kimi bizim toplama əməliyyatımızın içinə daxil etməklə.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00287.wav,"Bəli, gördüyünüz kimi artıq bu əməliyyatımızda biz iki sətr tipli obyekt yox, üç sətr tipli obyekti bir-biri ilə birləşdirdik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00288.wav,"Yəni birinci və üçüncü sətr tipli obyektin arasına boşluq, yəni probel əlavə etdik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00289.wav,İkinci variantımız boşluğu birinci sözün sonuna daxil etməklə əlavə etməkdir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00290.wav,Burada birinci sətr tipli obyektimiz mən və ondan sonra gələn probel işarəsindən ibarətdir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00291.wav,Yəni mən və probel işarəsi birlikdə bizim birinci sətr tipli obyektimizi yaratdı.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00292.wav,İkinci sətr tipli obyektimiz isə ancaq proqramçıyam sözündən ibarət oldu.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00293.wav,"Üçüncü variant bu probeli mən sözündən sonra yox, proqramçıyam sözündən qabaq əlavə etməkdir.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00294.wav,"Bəli, biz yenə də eyni bir nəticəni əldə etdik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00295.wav,Burada artıq bizim birinci sətr tipli obyektimiz ancaq mən sözündən ibarətdir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00296.wav,İkinci sətr tipli obyektimiz isə probeldən və sonra proqramçıyam sözündən ibarətdir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00297.wav,Bu əməliyyatları biz dəyişənlər vasitəsilə də yerinə yetirə bilərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00298.wav,Gəlin iki dəyişən yaradaq və onların hərəsinə mən və proqramçıyam sözlərini təyin edək.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00299.wav,olmadığından iki söz bir-biri ilə birləşərək ekrana verildi.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00300.wav,Gəlin bu problemi həll edək.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00301.wav,Biz burada da probel simvolunu əlavə bir sətr tipli obyekt kimi toplama əməliyyatımıza daxil edə bilərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00302.wav,Biz burada həmçinin probeli digər bir dəyişən vasitəsilə də toplama əməliyyatına əlavə edə bilərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00303.wav,"Bəli, biz bu qayda ilə də sətirləri bir-biri ilə birləşdirə bilərik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00304.wav,Biz həm də sətr tipli obyektin üstündə vurma əməliyyatı da yerinə yetirə bilərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00305.wav,Gördüyünüz kimi Python burada mən sözünü ikiyə vurdu və nəticəni ekrana verdi.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00306.wav,Yəni mən sözünü iki dəfə çoxaltdı sayını.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00307.wav,Və gördüyünüz kimi biz burada mən sözünü ona vurduq və bir-biri ilə birləşən 10 dənə məndən ibarət olan bir söz əldə etdik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00308.wav,Yəni burada nəticə bir sətr tipli obyekt sayılır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00309.wav,Biz sətirləri ədədlərə vurarkən ancaq tam ədədlərdən istifadə edə bilərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00310.wav,"Yəni biz burada sətri 2,5-ə misal üçün vura bilmərik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00311.wav,"Gördüyünüz kimi biz burada xəta əldə edirik ki, və xətamız bizə deyir ki, biz burada float tipli obyektdən istifadə edə bilmərik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00312.wav,Mütləq integer tipli obyektdən istifadə etməliyik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00313.wav,Sətirləri bir-biri ilə toplama əməliyyatı vasitəsilə birləşdirərkən biz ancaq iki sətr tipli obyektdən istifadə edə bilərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00314.wav,Bu cür əməliyyatı yerinə yetirə bilmərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00315.wav,ancaq sətirlər üzərində yerinə yetirmək olar.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00316.wav,"Yəni biz burada sətir ilə integer, yəni ədəd tipli obyektləri bir-birinə birləşdirə bilmərik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00317.wav,Bu problemi həll eləmək üçün biz integer tipli obyekti sətir tipli obyektə çevirməliyik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00318.wav,Yəni ədədimizi sətrə çevirməliyik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00319.wav,Biz bunu yerinə yetirmək üçün STR funksiyasından istifadə etməliyik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00320.wav,Biz ilk olaraq burda STR funksiyası vasitəsilə ona daxil olan obyekti sətrə çevirdik və sonra mən ilə həmin sətrə çevirdiyimiz obyekti bir-biri ilə cəmlədik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00321.wav,"Yəni burada artıq bir ədəd deyil, sətir tipli obyekt, yəni integer yox, STR tipli obyektdir.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00322.wav,Çünki STR funksiyası bir ədədini sətrə çevirdi.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00323.wav,Gəlin konsul vasitəsilə görək bu funksiyanı biz yerinə yetirərkən hansı cavab əldə eləyəcəyik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00324.wav,"Bəli, gördüyünüz kimi, STR funksiyası bizə cavab olaraq apostrof vasitəsilə yaradılmış sətrini geri qaytardı.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00325.wav,Yəni burada bir artıq ədəd deyil.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00326.wav,Və ona görə də biz rahatlıqla mən ilə həmin bu sətir tipli obyekti bir-birinin üzərində toplayaraq birləşdirə bilərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00327.wav,bu əməliyyatın analoğu sayılır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00328.wav,Biz dəyişənin dəyərindəki ədədi də sətir tipli obyektə çevirə bilərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00329.wav,Gəlin n dəyişəninə 10 ədədini təyin edək.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00330.wav,"Burada əgər biz ""mən"" sözü ilə n dəyişənini birləşdirmək istəsək, bayaqkı xətanı alacağıq.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00331.wav,"Çünki n dəyişəninin dəyərindəki obyekt sətir yox, ədəd tipli obyektdir.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00332.wav,"Deməli burada da biz STR funksiyasına n dəyişənini daxil edərək aldığımız sətir tipli obyekt ilə ""mən"" sözünü birləşdirə bilərik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00333.wav,Burada mötərizələri fikir verin.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00334.wav,Bu mötərizə print funksiyasına aiddir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00335.wav,"Gəlin proqramdan istifadə edək ki, daha aydın görünsün.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00336.wav,STR funksiyasına aiddir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00337.wav,Pythonda açılan mötərizələrin sayı bağlanan mötərizələrin sayına bərabər olmalıdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00338.wav,Gördüyünüz kimi burada STR funksiyası vasitəsilə n dəyişənin dəyərindəki ədədi sətr tipli obyektə çevirdik və onu mən sözü ilə birləşdirdik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00339.wav,Burada STR funksiyası n dəyişənin dəyərindəki obyekti dəyişmir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00340.wav,Sadəcə olaraq həmin obyektin sətrə çevrilmiş formasını bizə qaytarır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00341.wav,n dəyişənin dəyəri olduğu kimi qalır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00342.wav,Gəlin bunu yoxlayaq.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00343.wav,Gördüyünüz kimi burada birinci print funksiyası uğurla icra olundu.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00344.wav,İkinci print funksiyası isə xəta qaytardı.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00345.wav,"Səbəb ondadır ki, birinci print funksiyasına mən sözü ilə STR funksiyasının qaytardığı nəticənin birləşdirilməsi əməliyyatını daxil etmişik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00346.wav,STR funksiyasına n dəyişənin daxil etdiyimizdən STR funksiyası n dəyişənin dəyərindəki 10 ədədini götürür və onu sətrə çevirərək geri qaytarır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00347.wav,Sonra birləşdirmə əməliyyatı mən ilə STR funksiyasının qaytardığı sətr tipində olan 10 ədədini birləşdirir və aldığımız nəticəni ekrana çıxardırıq.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00348.wav,"İkinci print funksiyasında isə mən sözü ilə n dəyişənin dəyərindəki 10 ədədinin birləşdirilməsi əməliyyatı olduğundan və Pythonda ancaq sətr ilə digər sətr tipli obyekti birləşdirmək mümkün olduğundan, bu əmr bizə xəta qaytarır.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00349.wav,"Deməli, STR funksiyası ona daxil edilən dəyişənin dəyərini dəyişmir.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00350.wav,Sadəcə olaraq həmin dəyərin sətr tipində olan kopyasını yaradır və onu bizə qaytarır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00351.wav,Biz dəyişənə STR funksiyasını təyin edərək bu funksiyanın qaytardığı dəyəri həmin dəyişənə dəyər kimi təyin edə bilərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00352.wav,Belə olan halda artıq birləşdirilmə əməliyyatında STR funksiyasından istifadə etməyə ehtiyac qalmır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00353.wav,Çünki STR funksiyası 10 ədədini sətr tipli obyektə çevirir və geri qaytarır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00354.wav,Təyin etmə əməliyyatı da öz növbəsində bu sətr tipində olan 10 ədədini n dəyişəninə təyin edir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00355.wav,Bu mövzumuzda bizə lazım olacaq bəzi funksiyalarla tanış olacağıq.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00356.wav,İlk tanış olacağımız funksiya len funksiyasıdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00357.wav,"Bu funksiyanın adı ingilis dilində olan len, yəni uzunluq sözünün qısaldılmış formasıdır.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00358.wav,"Adından da məlum olduğu kimi biz bu funksiya vasitəsilə string, yəni sətr tipli obyektlərdə, yəni sözdə və yaxud cümlədə olan simvolların sayını öyrənə bilərik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00359.wav,Gəlin belə bir əmr daxil edək.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00360.wav,"Bu əməliyyat bizə salam sözündə olan, yəni salam sözündən ibarət olan string, yəni sətr tipli obyektdə olan simvolların sayını qaytaracaq.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00361.wav,Sayını ekrana vermək üçün gəlin biz print funksiyasından istifadə edək.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00362.wav,Gördüyünüz kimi bu funksiya bizə salam sözündə olan simvolların sayını qaytardı.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00363.wav,Simvol ilə hərfi qarışdırmayın.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00364.wav,"Pythonda hətta prabel da simvol sayılır, yəni biz əgər salam sözünə prabel daxil etsək, o zaman həmin sözdə olan simvolların sayı beş yox, artıq altı olacaqdır.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00365.wav,"Biz bu sözə nöqtə, nida və digər bir simvolları da daxil etsək, həmin simvollar sətr tipli obyektdə olan simvolların sayını artıracaq.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00366.wav,"Bəli, gördüyünüz kimi burada len funksiyası bizə salam və üç nöqtədən ibarət olan sətr tipli obyektdə səkkiz simvolun olduğunu məlumat verdi.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00367.wav,Biz bu əməliyyatı dəyişən vasitəsilə də təkrar edə bilərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00368.wav,"Gəlin ""word"" adlı dəyişən yaradaq, həmin dəyişənə sətr tipli obyekt təyin edək və sətr tipli obyekti olan simvolların sayını əldə edək.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00369.wav,"Bəli, gördüyünüz kimi biz Python vasitəsilə ona daxil etdiyimiz sözdəki və yaxud da cümlədəki simvolların sayını ekrana verən xırda bir proqram yaratdıq.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00370.wav,Öyrənəcəyimiz digər bir funksiya ord funksiyasıdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00371.wav,"Bu funksiya ona daxil edilən simvolun unicode cədvəlindəki sıra sayını, yəni sıra nömrəsini bizə qaytarır.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00372.wav,Misal olaraq gəlin belə bir əmr daxil edək.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00373.wav,Bu əmr bizə kiçik a hərfinin unicode cədvəlində olan sıra sayını qaytaracaq.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00374.wav,Unicode cədvəli ekranda gördüyünüz bu cədvəldir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00375.wav,"Və həmin cədvəldə hər bir simvolun öz sıra nömrəsi var, yəni sıra sayı var.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00376.wav,"Gördüyünüz kimi burada bizim daxil etdiyimiz a hərfinin cədvəldəki, yəni ASCII cədvəlindəki sıra sayı 97-dir.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00377.wav,Əmrin nəticəsini görmək üçün biz onu print funksiyasına daxil edək.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00378.wav,Gördüyünüz kimi bu funksiya bizə 97 ədədini qaytardı.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00379.wav,97 ədədi kiçik a hərfinin ASCII cədvəlində olan sıra sayıdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00380.wav,"o zaman biz 65 cavabını alacağıq, çünki ASCII cədvəlindəki böyük a hərfinin sıra sayı 65-dir.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00381.wav,kiçik hərflə böyük hərfin arasında fərqlilik var.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00382.wav,Yəni Python kiçik A ilə böyük A-nı eyni bir hərf kimi qəbul etmir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00383.wav,Həmin qayda aski cədvəlinə də aid edilir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00384.wav,Yəni burada böyük A ilə kiçik A-nın sıra sayları bir-biri ilə fərqlidir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00385.wav,Bu funksiyanın tam əksi olan bir funksiya char funksiyasıdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00386.wav,Char funksiyası ort funksiyasının tam əksidir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00387.wav,Bu funksiya ona daxil edilmiş ədədin aski cədvəlindəki həmin ədədə uyğun olan sıra nömrəsindəki yerləşən simvolu bizə qaytarır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00388.wav,"Yəni biz bu əməliyyatla char funksiyasına deyirik ki, aski cədvəlində 65 nömrəli simvolu bizə qaytar.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00389.wav,Və biz bundan qabaq da öyrəndiyimiz kimi həmin cədvəldəki 65 sıra sayı ilə yerləşən simvol böyük A simvoludur.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00390.wav,o zaman biz cavab olaraq kiçik A hərfini əldə edəcəyik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00391.wav,Çünki həmin cədvəldəki 97 nömrəli simvol kiçik A hərfidir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00392.wav,Bu funksiya bizə verilən aski formatında olan hər hansısa bir sözü və yaxud da cümləni bizim oxuya biləcəyimiz formata və əksinə bizim oxuya biləcəyimiz formatda olan sözü və yaxud da cümləni aski formatına çevirmək üçün istifadə olunur.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00393.wav,Yəni bu bir növ yazdıqlarımızı kənar şəxslərdən gizlətmək üçün sadə bir kriptoqrafiya metodudur.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00394.wav,Bu cür daxil etdiyimiz sözləri şifrələyən online servislər çoxdur.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00395.wav,Misal olaraq gəlin bir servizi nəzərdən keçirdək.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00396.wav,və yaxud da aski formatında olan sözü bizim oxuya biləcəyimiz formata çevrilir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00397.wav,Biz bu funksiya vasitəsilə eyni bir sadə şifrələyici yarada bilərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00398.wav,Çünki biz hələ siyahı tipli obyektləri öyrənməmişik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00399.wav,Biz siyahı obyektləri haqqında mövzunu öyrənəndən sonra bu mövzuya qayıdacağıq,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00400.wav,və əksinə daxil etdiyimiz şifrələnmiş aski formatında olan sözü və yaxud da cümləni oxuya biləcəyimiz bir formata çevirməyi öyrənəcəyik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00401.wav,Bu funksiya vasitəsilə biz sadəcə olaraq daxil etdiyimiz simvolların aski cədvəlindəki sıra sayını və yaxud da əksinə aski cədvəlindəki sıra sayına görə simvolu tapmağı öyrəndik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00402.wav,Bu mövzumuzda biz sətir tipli obyektlər mövzusunu davam etdirəcəyik və sətir tipli obyektlərin indeks və kəsikləri ilə tanış olacağıq.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00403.wav,Pythonda sətir simvolları düzülüşünə deyilir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00404.wav,Sətirdəki hər simvolun öz sıra sayı var.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00405.wav,Misal olaraq salam sözünü götürək.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00406.wav,Salam sözü beş simvoldan ibarətdir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00407.wav,Bu sözdəki hər simvolun öz sıra sayı var.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00408.wav,Öyrəndiyimiz kimi Pythonda sıra sayı sıfırdan başlayır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00409.wav,Sözümüzdəki ilk simvolun sıra sayı sıfırdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00410.wav,Sonuncu simvolumuzun nömrəsi isə dörd olacaq.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00411.wav,Pythonda bu sıra nömrələrinə indeks deyilir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00412.wav,İndekslər bizə həmin indeksə aid olan simvolu əldə etmək üçün lazımdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00413.wav,Gəlin Word dəyişəninə salam sözünü təyin edək.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00414.wav,"Əgər burada biz Word dəyişəninə müraciət etsək, o zaman onun dəyərindəki olan sətir tipli obyekti biz tam olaraq əldə edəcəyik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00415.wav,Nəticəni görmək üçün gəlin biz print funksiyasından istifadə edək.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00416.wav,Eyni əməliyyatı biz Python konsol vasitəsilə də yerinə yetirə bilərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00417.wav,Ötən mövzuda da öyrəndiyimiz kimi faylın tərkibindəki olan kod Python konsoluna heç bir təsir etmir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00418.wav,"Deməli əgər biz Word dəyişəninə müraciət etsək, o zaman xəta alacağıq ki, bu cür adda olan dəyişən mövcud deyil.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00419.wav,Bu səbəbdən Word dəyişənini təkrar olaraq konsolda yaradaq.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00420.wav,Gördüyünüz kimi Word dəyişənini yaratdıq və həmin dəyişənə müraciət edərkən salam sözünü əldə etdik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00421.wav,"Əgər biz sözdə olan ancaq bir simvolu əldə etmək istəyiriksə, həmin simvolun indeksini müəyyən edib onu seçməliyik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00422.wav,Gəlin salam sözündə olan l hərfini əldə edək.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00423.wav,"Mən bu əməliyyatları paralel olaraq həm konsulda, həm də fayl vasitəsilə yerinə yetirəcəm.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00424.wav,"İlk olaraq biz hərfin indeksini, yəni sıra sayını müəyyən etməliyik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00425.wav,"Bu hərfin sıra sayı, yəni indeksi, salam sözündə ikidir.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00426.wav,Hərfini götürmək istədiyimiz dəyişəni seçirik və sonra kvadrat mötərizənin içinə əldə etmək istədiyimiz simvolun indeksini daxil edirik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00427.wav,"Bəli, gördüyünüz kimi biz salam sözündə olan l hərfin əldə etdik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00428.wav,Gəlin bu əməliyyatı fayl vasitəsilə də yerinə yetirək.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00429.wav,Gördüyünüz kimi eyni bir nəticəni əldə etdik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00430.wav,Yəni biz burada simvolu götürmək istədiyimiz sətri yazırıq və sonra götürmək istədiyimiz simvolun indeksini kvadrat mötərizədə qeyd edirik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00431.wav,Yəni biz yazdığımız əmr ilə word dəyişəninin dəyəri olan salam sözünə müraciət edirik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00432.wav,Biz burada əmri bu cür də yaza bilərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00433.wav,"Biz burada artıq dəyişəndən yox, sətrin özündən istifadə etdik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00434.wav,Gəlin biz əmrimizi dəyişən ilə olan versiyaya qaytaraq.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00435.wav,Bunun üçün biz Pycharmda Ctrl+Z düyməsini basmalıyıq.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00436.wav,Hər dəfə basdığımızda biz bir addım geriyə qayıdırıq.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00437.wav,Biz həm də mövcud olmayan indeksə müraciət edə bilmərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00438.wav,"Yəni əgər biz bu cür əmr daxil etsək, o zaman xəta əldə edəcəyik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00439.wav,Çünki salam sözündə 11 nömrəli sıra sayı yoxdur.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00440.wav,Sayımız sıfırdan dördə qədərdir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00441.wav,Gəlin başqa bir dəyişən yaradaq və həmin dəyişənə yeni bir söz təyin edək.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00442.wav,Birinci və ikinci nümunəmizdə biz sözdəki ilk simvolu əldə etmək üçün sıfır indeksinə müraciət etməliyik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00443.wav,"Yəni sözdən asılı olmayaraq, həmişə birinci simvolun indeksi sıfır olacaq.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00444.wav,Ancaq sonuncu simvolun indeksi sözdəki simvolları sayına görə müxtəlifdir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00445.wav,"Yəni birinci nümunəmizdə bu dörddürsə, ikinci nümunəmizdə bu doqquz olacaq.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00446.wav,"İndi elə təsəvvür edək ki, simvolların sayını bilmədiyimiz sözün sonuncu simvolunu əldə etməyi bizə tapşırıblar.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00447.wav,Bu tapşırığı biz iki variant ilə yerinə yetirə bilərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00448.wav,Birinci variant bu variantdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00449.wav,Burada öncə word dəyişəninin dəyərindəki olan sözdəki simvolların sayı len funksiyası vasitəsilə əldə edilir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00450.wav,Əldə etdiyimiz simvolların sayından bir çıxırıq.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00451.wav,Niyə bir çıxırıq?,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00452.wav,"Dediyimiz kimi, Pythonda sətirlərin sıra sayı sıfırdan başladığından sonuncu simvolun indeksi, yəni sıra sayı, həmin sözdəki simvolların ümumi sayından həmişə bir ədəd az olacaq.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00453.wav,"Yəni salam sözündə beş simvol olduğundan və sıra sayımız sıfırdan başladığından sonuncu simvolumuzun indeksi, yəni sıra nömrəsi dörd olacaq.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00454.wav,Yəni beş çıxılsın bir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00455.wav,Kvadrat mötərizənin içindəki bu əməliyyatla biz ilk olaraq len funksiyası vasitəsilə sözün uzunluğunu əldə edirik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00456.wav,Yəni sözün tərkibində olan simvolların sayını əldə edirik,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00457.wav,"Bununla da biz sözün sonuncu simvolunun indeksini, yəni sıra nömrəsini əldə edirik",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00458.wav,Artıq biz sözün uzunluğundan asılı olmayaraq həmişə sözün sonuncu simvolunu əldə edəcəyik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00459.wav,Gəlin bu əməliyyatı ikinci dəyişənin üzərində də təkrar edək.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00460.wav,"İkinci dəyişənimizin dəyərindəki olan Azərbaycan sözünün sonuncu hərfi n olduğundan bu cür əməliyyat bizə həmin hərfi, yəni simvolu qaytardı.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00461.wav,Amma praktikada biz bu variantdan istifadə etməyəcəyik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00462.wav,Bizim istifadə edəcəyimiz variant bu variantdır.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00463.wav,"Python-da soldan sağa sıralama olduğu kimi, sağdan sola da sıralama var.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00464.wav,"Sağdan sola sıralayarkən biz artıq sıfırdan yox, mənfi birdən başlamalıyıq ki, Python bilsin ki, biz sağdan sola sıralayırıq.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00465.wav,Mənfi sıfır olmadığından biz sayı mənfi birdən başlayırıq.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00466.wav,"Deməli bu qayda ilə sıralayarkən sözümüzün sonuncu hərfi, yəni sonuncu simvolunun indeksi, yəni sıra sayı həmişə mənfi bir olacaq.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00467.wav,"Və bu qayda ilə biz istənilən sözün, cümlənin, istənilən sətr tipli obyektin sonuncu simvolunu əldə edə bilərik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00468.wav,Bu əməliyyatda artıq bizə len funksiyasından istifadə etməyə ehtiyac yoxdur.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00469.wav,Beləliklə biz sətr tipli obyektlərin indeksi ilə tanış olduq.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00470.wav,Gəlin indi biz sətr tipli obyektlərin kəsikləri ilə tanış olaq.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00471.wav,Kəsik deyərkən biz sözün və yaxud da cümlənin hər hansısa bir hissəsini kəsib əldə etmək nəzərdə tuturuq.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00472.wav,"Yəni indeksdən fərqli olaraq burada biz bir yox, bir neçə simvolu əldə edə bilərik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00473.wav,Misal üçün biz salam sözündəki al hissəni əldə etmək istəyirik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00474.wav,"Bunun üçün biz əldə etmək istədiyimiz hissənin başlanğıc və son indekslərini, yəni sıra saylarını müəyyən etməliyik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00475.wav,"A hərfinin sıra sayı birdir, l hərfinin sıra sayı isə ikidir.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00476.wav,Gəlin həmin indeksləri kvadrat mötərizəyə daxil edək.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00477.wav,Sətrin kəsik hissəsini əldə etmək üçün biz bu sintaksisdən istifadə etməliyik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00478.wav,"Kvadrat mötərizənin içində başlanğıc indeks, sonra iki nöqtə və sonra sonuncu indeks daxil etməliyik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00479.wav,"Biz bu əmrlə deyirik ki, bizə sözdəki sıra sayları bir və iki olan simvolları qaytar.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00480.wav,Amma biz cavab olaraq ancaq A hərfini əldə etdik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00481.wav,"Səbəb budur ki, Pythonda bu əmrdə birinci indeksimiz götürəcəyimiz hissəyə aid olur, ancaq ikinci indeksimiz isə yox.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00482.wav,Bir növ ikinci indeks götürəcəyimiz hissənin hansı simvola qədər olacağını təyin edir.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00483.wav,o zaman ikinci indeks yerinə götürəcəyimiz hissədən sonrakı olan simvolunu daxil edirik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00484.wav,"Yəni sadə dildə desək, əgər biz salam sözündən al hissəsini götürmək istəyiriksə, o zaman biz ikinci indeks kimi digər a hərfinin indeksini daxil etməliyik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00485.wav,"Burada biz Pythona deyirik ki, birinci indeksdən başlayaraq üçüncü indeksə qədər, yəni üçüncü indeks daxil olmamaq şərti ilə həmin hissəni bizə qaytar.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00486.wav,Biz bu əmrlə başlanğıc və son indeksləri daxil etdik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00487.wav,Ancaq biz başlanğıc və yaxud da son indeksi daxil etməyə də bilərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00488.wav,"Biz bu əmrlə Pythona deyirik ki, sözün ikinci indeksindən başlayaraq, yəni ikinci indeksdə daxil olaraq, yəni biz öyrəndik ki, birinci daxil etdiyimiz indeks götürəcəyimiz hissəyə daxil olur.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00489.wav,Sözün sonuna qədər olan hissəni bizə qaytar.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00490.wav,İki nömrəli indeksin altında olan simvol l hərfindir və deməli bu əmr bizə l hərfi də daxil olmaqla bu hərfdən başlayaraq sözün sonuna kimi olan bütün simvollardan ibarət olan hissəni bizə qaytaracaq.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00491.wav,Bu qayda ilə biz həm də ilk indeksi daxil etmədən bizə lazım olan hissəni əldə edə bilərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00492.wav,"Biz artıq öyrəndik ki, ikinci indeks alacağımız hissəyə daxil olmadığından, bu əmrlə biz sözün əvvəlindən ikinci indeksdə olan simvola qədər olan hissəni əldə edəcəyik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00493.wav,Biz burada həm də ikinci indeksi də daxil etməyə bilərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00494.wav,"Bu əmrlə biz artıq hər hansısa bir konkret hissəni yox, bütün simvolları əldə edəcəyik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00495.wav,Biz bu qayda ilə sağdan sola sıralamaq ilə istədiyimiz hissəni əldə edə bilərik.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00496.wav,"Elə təsəvvür edək ki, uzunluğunu bilmədiyimiz sətir tipli obyektin sonuncu üç rəqəmini əldə etmək istəyirik.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00497.wav,Gəlin Azərbaycan sözünün sonundakı üç simvoldan ibarət kəsiyi əldə edək.,lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00498.wav,"Sağdan sola sayanda, öyrəndiyimiz kimi, -1-dən başlayarıq.",lecture_screencast
-C:\Users\user\Desktop\All-Projects\research\data\localdoc\audio\localdoc_test_00499.wav,"Biz artıq bilirik ki, sözün kəsiyini əldə etmək üçün ilk olaraq kəsiyin başlanğıc indeksini, sonra kəsiyin bitəcəyi indeksi daxil etməliyik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00000.wav,Hər kursun özünün proqramı vardır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00001.wav,Kursun proqramı qabaqcadan hazırlanmış video dərslərdən və hər dərsə aid olan tapşırıqlardan ibarətdir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00002.wav,Kursun gedişatı barəsində məlumat verən blok vasitəsilə kursda olan ümumi və başa vurulan materialların sayı barəsində məlumat əldə etmək mümkündür.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00003.wav,Ən azı 95% materialı başa vurulmuş kurs bitirilmiş kurs hesab edilir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00004.wav,Bitirilmiş kursun sertifikatını bu səhifədə yükləmək mümkündür.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00005.wav,Bitirilmiş kurs barəsində rəyi burada yazmaq mümkündür.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00006.wav,Kursun istənilən dərsini izləmək üçün həmin dərsin səhifəsinə daxil olmaq lazımdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00007.wav,Sona kimi izlənilmiş dərs bitirilmiş hesab edilir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00008.wav,Hər izlənilmiş dərs və hər həll edilmiş tapşırıq həmin tələbənin kursun materiallarını keçmə sayını və faizini artırır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00009.wav,Dərs barəsində yaranan sualları həmin dərsin səhifəsində yerləşdirmək mümkündür.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00010.wav,Dərs bitdikdən sonra əldə edilən bilikləri möhkəmləndirmək məqsədilə həmin dərsə aid olan tapşırıqlar yerinə yetirilməlidir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00011.wav,Tapşırıqlara dərsin səhifəsindən və ya kursun plan səhifəsindən keçid etmək mümkündür.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00012.wav,Tapşırıqlar üç cürdür:,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00013.wav,"Test, açıq və praktiki.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00014.wav,Test tipli tapşırıqları həll etmək üçün doğru cavabı seçib seçimi təsdiq etmək lazımdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00015.wav,Açıq tipli tapşırıqlarda variantlar olmadığından doğru hesab edilən cavab cavab sahəsinə daxil edilərək təsdiq edilməlidir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00016.wav,"Daxil edilən cavabın önündə və ya arxasında cavaba aid olmayan probel, vergül, nöqtə kimi artıq simvollar olmamalıdır.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00017.wav,Praktik tapşırığı həll etmək üçün tələb olunan nəticəni verən əmri əmrlər sahəsinə daxil edərək onu təsdiq etmək lazımdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00018.wav,"Daxil edilən əmr tələb olunan nəticəyə uyğun olarsa, tapşırıq həll olunmuş hesab edilir.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00019.wav,"Uyğun deyilsə, daxil edilən əmrin icra nəticəsi ilə gözlənilən nəticə arasında fərqi özündə əks etdirən hesabat cavab olaraq qaytarılacaq.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00020.wav,"Əgər əmrdə xəta olarsa, bu xətada öz növbəsində hesabatda yer alacaq.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00021.wav,Tapşırıq həll edildikdən sonra müəllimin həll variantı ilə də tanış olmaq mümkündür.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00022.wav,"Tapşırıq barəsində sual yaranarsa və yaxud onun həllində çətinlik olarsa, sual bölməsi vasitəsilə müəllimə sual vermək mümkündür.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00023.wav,"Suala hər hansısa proqramlaşdırma dilində tərtib edilmiş əmr əlavə etmək lazım gələrsə, əmrin daha aydın oxunulması məqsədilə həmin əmri həmin proqramlaşdırma dilinə uyğun mətn sahəsinə daxil etmək olar.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00024.wav,Hər bir suala görə ayrıca mövzu açılmalıdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00025.wav,Həmin suala aid olan cavablar həmin sualın altında daxil edilməlidir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00026.wav,"Suala həm müəllim, həm də digər iştirakçılar cavab verə bilərlər.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00027.wav,Tapşırıq həll edildikdən sonra irəli düyməsi vasitəsilə və ya tapşırıqların siyahısından növbəti tapşırığa keçid etmək mümkündür.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00028.wav,Həll edilən tapşırığın həll variantı məlumatlar bazasında saxlanılır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00029.wav,Nəticəni sıfırla düyməsi ilə tapşırığın həllini və onun həll edilməsi barəsində nəticəni sıfırlayaraq onu yenidən həll etmək mümkündür.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00030.wav,1991-ci ilin fevral ayında Hollandiya Riyaziyyat və Kompüter Elmləri Mərkəzinin əməkdaşı Qvido Van Rossum o zamanlar yeni olan Python proqramlaşdırma dilinin mənbə kodunu nəşr etdi.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00031.wav,Dilin yaradılması onun şəxsi təşəbbüsü olmuşdu.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00032.wav,Qvido Van Rossum Python dilini tərtib edərkən o zamanlar artıq mövcud olan digər proqramlaşdırma dillərinin ən yaxşı təcrübələrini Pythonda istifadə etmək qərarına gəldi.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00033.wav,"Məhz bu səbəbdən Lisp, Fortran, Java və digər proqramlaşdırma dillərinin ən yaxşı təcrübələri Python proqramlaşdırma dilinə daxil oldu.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00034.wav,Python proqramlaşdırma dilinə ən çox ABC və C dilləri təsir etdi.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00035.wav,ABC dilindən Pythona operatorlar qruplaşdırmaq üçün nəzərdə tutulan və Python kodunun yazılışını və oxunuşunu rahatlaşdıran abzass daxil oldu.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00036.wav,C dilindən isə Pythona sintaksis konstruksiyalar daxil edildi.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00037.wav,Üç il sonra 1994-cü ildə Pythonın birinci versiyası buraxıldı.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00038.wav,Altı ildən sonra 2000-ci ilin oktyabr ayında Pythonın ikinci versiyası buraxıldı.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00039.wav,Hər yeni versiya ilə Python yeni xüsusiyyətlər və funksiyalar əldə edirdi.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00040.wav,2008-ci ilin dekabrında uzun sınaqlardan sonra Pythonın üçüncü versiyası buraxıldı.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00041.wav,Hal-hazırda üçüncü versiya Pythonın aktual versiyası olduğundan proqramlaşmanı məhz bu versiya üzərində öyrənəcəyik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00042.wav,Bu mövzudan başlayaraq Python-da olan obyektlər ilə ayrı-ayrılıqda tanış olacağıq.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00043.wav,"Artıq biz kiçik də olsa, Python-da proqram tərtib etməyi bacarırıq.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00044.wav,Obyektlər mövzusuna keçməmişdən əvvəl gəlin Python proqramının nə olduğunu bir daha təkrarlayaq.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00045.wav,Python dilində tərtib edilmiş müəyyən əmrlər ardıcıllığından ibarət olan əmrlər toplusuna Python proqramı deyilir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00046.wav,Python proqramında olan hər sətir bir əmrdir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00047.wav,"Biz buna instuksiya, yəni təlimat da deyə bilərik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00048.wav,Hər əmrə uyğun olaraq da kompüter həmin əmrə uyğun olaraq əməliyyatlar yerinə yetirir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00049.wav,Misal olaraq ekranda gördüyünüz bu iki proqrama nəzər yetirək.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00050.wav,"Birinci proqram bir təlimatdan, yəni bir əmrdən ibarətdir.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00051.wav,İkinci proqram isə üç təlimatdan ibarətdir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00052.wav,Birinci proqrama ekrana salam sözünü çıxardan print funksiyasını daxil etmişik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00053.wav,"İkinci proqrama isə ekrana salam, mən Python dilini öyrənirəm və beş üstəgəlsin on riyazi əməliyyatın nəticəsini, yəni on beşi ekrana çıxardan üç print funksiyasını daxil etmişik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00054.wav,"Gördüyünüz kimi birinci proqramın icra nəticəsində ekrana salam sözü, ikinci proqramın icra nəticəsində isə ekrana salam, mən Python dilini öyrənirəm və beş üstəgəlsin on riyazi əməliyyatın nəticəsi olan on beş ədədi ekrana çap edildi.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00055.wav,"Baxmayaraq ki, birinci proqram bir, ikinci proqram üç əmrdən ibarətdir, bu iki proqram Python dilində tərtib edilmiş proqramdır.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00056.wav,Python-da bizim işimiz müxtəlif tip obyektlər üzərində əməliyyatlardan ibarət olacaq.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00057.wav,Python-da çoxlu obyekt tipləri mövcuddur.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00058.wav,Gördüyünüz bu siyahı ən çox rastlaşacağımız obyekt tiplərinin siyahısıdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00059.wav,İrəliləyən dərslərdə hər obyekt tipi ilə ayrı-ayrılıqda tanış olacağıq.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00060.wav,Onlar üzərində əməliyyatlar yerinə yetirəcəyik və onları bir tipdən başqa tipə çevirməyi öyrənəcəyik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00061.wav,"Bu mövzumuzda integer və float, yəni tam və kəsrli ədəd tipli obyektlərdən danışacağıq.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00062.wav,"Obyektlərin ingilis dilində adlarını bilməyimiz çox vacibdir,",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00063.wav,çünki biz dərslərimizdə obyektlərin ingilis dilində olan adlarından istifadə edəcəyik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00064.wav,Mənfidən müsbətə qədər sıfır daxil olmaqla bütün tam ədədlər Pythonda integer tipli obyektlərə aiddir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00065.wav,Float tipli obyektlərə isə kəsr hissəsi olan ədədlər daxildir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00066.wav,"Yəni misal üçün: -5.6, 0.78, 114.93.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00067.wav,Bu cür ədədləri Python dilində yazarkən mütləq tam hissəni kəsr hissəsindən nöqtə ilə ayırmaq lazımdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00068.wav,"Əgər vergüldən istifadə etsək, o zaman Python bu rəqəmi iki müstəqil rəqəm kimi qəbul edəcək.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00069.wav,Riyaziyyatda olduğu kimi Pythonda da rəqəmlər üzərində riyazi əməliyyatlar yerinə yetirmək olar.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00070.wav,Gördüyünüz cədvəl ən çox istifadə edəcəyimiz riyazi əməliyyatlardır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00071.wav,Birinci əməliyyatımız toplama əməliyyatıdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00072.wav,Riyaziyyatda da olduğu kimi bu əməliyyat iki ədədi toplamaq üçün nəzərdə tutulur.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00073.wav,Gəlin biz Pycharm proqramını açaq və həmin əməliyyatları Pythonda icra edək.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00074.wav,"Mən Pythonda bu əməliyyatları fayl vasitəsilə yox, konsol vasitəsilə yerinə yetirəcəm.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00075.wav,"Ona görə ki, fayl vasitəsilə yerinə yetirərkən hər dəfə gərək biz print funksiyası vasitəsilə alındığımız nəticəni ekrana çıxardaq.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00076.wav,Konsol proqramını açırıq və burada artıq məlumatları silmək üçün mausun sağ düyməsini basıb oradan clear all düyməsini sıxırıq və konsolu təmizləyirik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00077.wav,Gördüyünüz kimi 3 üstəgəlsin 5 riyazi əməliyyatının nəticəsini Python bizə 8 olaraq qaytardı.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00078.wav,İkinci riyazi əməliyyatımız bizim çıxma əməliyyatıdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00079.wav,Gördüyünüz kimi Python iki ədədin üzərində çıxma əməliyyatı yerinə yetirərkən onların nəticəsini bizə qaytardı.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00080.wav,Üçüncü əməliyyatımız bir ədədin digər ədədinə vurulmasıdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00081.wav,Gördüyünüz kimi Python bizə 3 vurulsun 5 riyazi əməliyyatının nəticəsini qaytardı.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00082.wav,Dördüncü əməliyyatımız bölmə əməliyyatıdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00083.wav,Gördüyünüz kimi burda da riyaziyyatda olduğu kimi bir rəqəmi digər rəqəmlə bölərkən onun nəticəsini Python bizə qaytardı.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00084.wav,"Tam yox, kəsr hissəli olan bir ədəddir.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00085.wav,"Təbii ki, bunun cavabı dörddür, amma Python nəyə görəsə də bizə 4.0 kimi qaytardı nəticəni.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00086.wav,"Səbəb ondadır ki, Pythonın xüsusiyyəti belə yazılıb ki, iki integer, yəni tam ədədləri bir-birinə bölərkən cavab mütləq float tipli, yəni kəsr hissəli olan ədəd kimi qayıtmalıdır.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00087.wav,Yəni bu bir qanundur və bunu yadda saxlamağımız çox vacibdir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00088.wav,"İkinci qanun ondan ibarətdir ki, hər hansısa bir integer, yəni tam ədədin float, yəni kəsrli bir ədədlə əməliyyatı zamanı nəticə həmişə float, yəni kəsrli ədəd kimi qayıdır.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00089.wav,"Pythonın funksiyası belə yazılıb ki, integer ilə float arasında istənilən riyazi əməliyyatın nəticəsi float tipli obyekt, yəni kəsrli ədəd kimi qayıdır.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00090.wav,Beşinci riyazi əməliyyatımız rəqəmin dərəcəyə yüksəldilməsidir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00091.wav,Misal üçün biz ikinin kubunu tapmaq üçün bir ədədi digər ədədə vurduğumuzda istifadə etdiyimiz ulduz operandından iki dəfə istifadə edirik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00092.wav,"Və bununla da biz Pythona deyirik ki, bizə ikinin kubunu qaytar.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00093.wav,Gördüyünüz kimi Python ikinin kubunu bizə qaytardı.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00094.wav,Bu yolla biz həm də ədədin kökaltı nəticəsini də ala bilərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00095.wav,"Məsəl üçün, dörd rəqəminin kökaltı nəticəsini almaq üçün dördü 0.5 dərəcəsinə yüksəltməliyik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00096.wav,Və aldığımız nəticə dördün kök altından çıxan nəticəsidir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00097.wav,"dərəcəyə yüksəltmə operantını qeyd eləyirik, yəni iki dənə ulduz və sonra 0.5.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00098.wav,Növbəti riyazi əməliyyatımızın adı tam bölmə əməliyyatıdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00099.wav,Tam bölmə əməliyyatı deyərkən biz nəyi nəzərdə tuturuq və bunun adi bölmə ilə fərqi nədən ibarətdir?,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00100.wav,Tam bölmə əməliyyatı icra edərkən Python bizə bir ədədi digər ədədinə böləndə aldığımız nəticəsinin yalnız tam hissəsini bizə qaytarır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00101.wav,"Misal üçün, 16 bölünsün 3.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00102.wav,Gördüyünüz kimi 16 bölünsün 3 əməliyyatında Python bizə beş rəqəmini qaytardı.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00103.wav,"Amma əslində isə biz Python vasitəsilə 16-nı 3-ə bölsək, adi qaydada beş və kəsrdən ibarət olan bir ədəd, yəni float tipli bir ədəd alacağıq.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00104.wav,Həmin bu tam bölmə operantı bizə ancaq ədədin tam hissəsini qaytarır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00105.wav,"Sonuncu riyazi əməliyyatımız isə, bundan qabaqkı öyrəndiyimiz tam bölmə əməliyyatının tam əksidir.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00106.wav,"Yəni, bu əməliyyat isə bizə alınan ədədin tam hissəsini yox, qalıq hissəsini qaytarır.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00107.wav,"Gördüyünüz kimi, 21-i biz 4-ə bölərkən, adi bir qaydada bölgünün nəticəsi 5,25 alırıq.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00108.wav,Ancaq biz qalıqlı bölmədən istifadə edərkən bir cavabını alırıq.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00109.wav,"Bu ona görə belə olur ki, biz 21-i qalıq ilə 4-ə bölərkən beşi vururuq dördə, alırıq 20 və orada bizə bir qalıq qalır.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00110.wav,"Misal üçün, gəlin digər bir nümunəni nəzərdən keçirdək.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00111.wav,"22-ni 6-ya bölərkən biz üçü vururuq 6-ya, eləyir 18, 22-dən də 18-i çıxırıq, alırıq 4.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00112.wav,Bu dörd bizim qalığımız olduğundan və biz qalıqlı bölmə operantından istifadə etdiyimizdən cavab olaraq dördü alırıq.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00113.wav,"Misal üçün sizə tapşırıq verilə bilər ki, hər hansısa bir ədədin tək və yaxud da cüt olduğunu Python vasitəsilə müəyyən edin.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00114.wav,"Bunu müəyyən etmək üçün biz həmin ədədi, həmin bu operant vasitəsilə ikiyə bölüb qalığına baxmalıyıq.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00115.wav,"Əgər ikiyə bölünərkən qalıq sıfır, yəni qalıqsız bölünürsə, deməli bu ədəd cüt ədəddir.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00116.wav,"Yox, əgər ikiyə bölünərkən hər hansısa bir qalığı olursa, deməli bu ədəd tək ədəddir.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00117.wav,Gəlin misal üçün 21 ədədini bu operant vasitəsilə ikiyə bölək.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00118.wav,"Gördüyünüz kimi, biz cavab olaraq bir nəticəsini aldıq.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00119.wav,"Yəni, 21 ikiyə bölünərkən orada qalan qalıq birdir.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00120.wav,Deməli 21 ədədi tək ədəddir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00121.wav,Və yaxud da bir nümunə götürək.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00122.wav,22 ədədini ikiyə bölək.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00123.wav,Gördüyünüz kimi qalıq sıfırdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00124.wav,"Deməli, bu ədəd cüt ədəddir.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00125.wav,Digər bir cüt ədədləri də bu qaydada müəyyən edə bilərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00126.wav,Riyazi əməliyyatın yerinə yetirilmə ardıcıllığı.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00127.wav,Onların yerinə yetirmə ardıcıllığına görə biz o əməliyyatları yerinə yetiririk.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00128.wav,"Yəni eyni dərəcəli əməliyyatlar əgər bizim əməliyyatımızda varsa, o zaman biz soldan sağa növbə ilə həmin əməliyyatları yerinə yetiririk.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00129.wav,"Yox əgər əməliyyatımızın daxilində hər hansısa bir yüksək prioritetli bir əməliyyat varsa, o zaman birinci onu yerinə yetiririk, sonra qalanlarını.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00130.wav,Pythonda da riyaziyyatda olduğu kimi ən yüksək əməliyyat mötərizənin içində olan əməliyyatlar sayılır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00131.wav,Gəlin belə bir nümunəni nəzərdən keçirdək.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00132.wav,Bu əməliyyatda bizim ilk olaraq mötərizənin daxilindəki 3+2 əməliyyatı yerinə yetirilir,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00133.wav,və sonra üçü həmin mötərizənin daxilindəki əməliyyatın nəticəsinə vururuq və cavab olaraq 15 alırıq.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00134.wav,Digər yüksək əməliyyat prioritetinə malik olan əməliyyat dərəcəyə yüksəltmə əməliyyatıdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00135.wav,Misal üçün gəlin belə bir əməliyyatı nəzərdən keçirdək.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00136.wav,Belə olan halda biz ilk növbədə üçü kvadrata yüksəldirik və sonra aldığımız nəticəni ikiyə vururuq.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00137.wav,"yəni 3-ün kvadratı 9, sonra 2 vurulsun 9 18.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00138.wav,"Bayaq söylədiyimiz kimi, əməliyyatlardan elələri də var ki, onlar eyni dərəcəli əməliyyatlardır.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00139.wav,"Bunlara vurma, bölmə, qalıqlı bölmə və tam bölmə aiddir.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00140.wav,"Belə olan halda biz eyni dərəcəli olduqlarından bu əməliyyatları soldan sağa yerinə yetiririk, yəni birinci 8-i 2-yə bölürük, sonra vururuq 3-ə.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00141.wav,Digər əməliyyatlar isə çıxma və bölmə əməliyyatlarıdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00142.wav,"Çıxma və bölmə əməliyyatları əgər əməliyyatın daxilində digər yüksək dərəcəli əməliyyatlar varsa, ən sonda yerinə yetirilir.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00143.wav,"Yox əgər əməliyyatın özü ancaq çıxmadan və toplamadan ibarətdirsə, o zaman biz bundan qabaq da söylədiyimiz kimi, eyni dərəcəli əməliyyatları soldan sağa növbə ilə yerinə yetiririk.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00144.wav,"Burada birinci 3-dən 4-ü çıxırıq, alırıq -1 və üstünə gəlirik 2, alırıq 1.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00145.wav,"Biz Pythonda integer tipli, yəni tam ədədləri float tipli, yəni tam və kəsr hissəsindən ibarət olan ədədlərə çevirə bilərik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00146.wav,Biz bu əməliyyatları int və float funksiyaları vasitəsilə yerinə yetirə bilərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00147.wav,"Kəsr hissədən ibarət olan ədədi integer tipli obyektə, yəni ancaq tam hissədən ibarət olan ədədə çevirə bilərik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00148.wav,Gəlin Python konsolu vasitəsilə hər hansısa bir float tipli obyekti integer tipli obyektə çevirək.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00149.wav,"Burada biz integer funksiyası vasitəsilə 3,14 ədədini, yəni float tipli obyekti integer tipli obyektə, yəni tam ədədə çeviririk.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00150.wav,Gəlin eyni əməliyyatı print funksiyası vasitəsilə yerinə yetirək və nəticəsini ekrana verək.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00151.wav,Gördüyünüz kimi biz burada da eyni bir nəticəni əldə edirik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00152.wav,Burada ilk olaraq integer funksiyası yerinə yetirilir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00153.wav,"Yəni integer funksiyası 3,14 ədədini götürür və həmin ədədin ancaq tam hissəsini bizə qaytarır, yəni üçü.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00154.wav,Bu funksiyaya bir növ yuvarlaqlaşdırma funksiyası da demək olar.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00155.wav,"dörd yox, yenə də üç ədədini əldə edəcəyik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00156.wav,Yəni bu funksiyanın işi ona daxil edilən tam və kəsr hissədən ibarət olan ədədin ancaq tam hissəsini bizə qaytarmaqdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00157.wav,"Əgər biz bu funksiyaya integer tipli ədəd daxil etsək, o zaman yenə də integer tipli, yəni tam ədəd tipli obyekt əldə edəcəyik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00158.wav,Bu funksiyanın əksi olan funksiya float funksiyasıdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00159.wav,"Float funksiyası ona daxil edilən tam ədədləri, yəni integer tipli ədədləri float tipli ədədlərə, yəni tam və kəsr hissədən ibarət olan ədədlərə çevirir.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00160.wav,"Gördüyünüz kimi burada daxil edilən integer tipli, yəni tam ədədlərin sonuna nöqtə və sıfır əlavə edilərək həmin ədəd float tipli obyektə çevrilir.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00161.wav,Gəlin eyni əməliyyatımızı Python konsolunda da yerinə yetirək.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00162.wav,Gördüyünüz kimi burada da float funksiyası ona daxil edilmiş integer tipli obyekti float tipli obyektə çevirdi.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00163.wav,Python-da olan və riyazi əməliyyatları yerinə yetirmək üçün nəzərdə tutulan funksiyalara riyazi funksiyalar deyilir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00164.wav,Cədvəldə gördüyünüz funksiyalar ən çox istifadə edəcəyimiz funksiyaların siyahısıdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00165.wav,İlk funksiyamız ABC funksiyasıdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00166.wav,Bu funksiya hər hansısa bir rəqəmin modulunu əldə etmək üçün yaradılmışdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00167.wav,"Misal üçün, ABC mötərizədə 59 bizə 59 cavabı qaytaracaqdır.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00168.wav,"Bu o deməkdir ki, 59-un modulu 59-dur.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00169.wav,Bu funksiyadan adətən Python-da mənfi aldığımız nəticələri müsbətə çevirmək üçün istifadə olunur.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00170.wav,"Əgər biz həmin funksiyadan istifadə edərək müsbət ədədin modulunu əldə etmək istəsək, nəticə daxil etdiyimiz ədədin yenə də müsbət forması olacaqdır.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00171.wav,Növbəti funksiyamız min funksiyasıdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00172.wav,Min funksiyası ingilis dilindən minimum sözünün qısaldılmış formasıdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00173.wav,Yəni bu funksiyanın işi ona ötürülmüş bir neçə ədədlərdən ibarət olan ədədlər siyahısının içində ən kiçik ədədi tapıb bizə qaytarmaqdan ibarətdir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00174.wav,"Yəni əgər biz bu funksiyaya 8, 5, 78, 41 ədədlərini göndərsək, o zaman bu funksiya bizə göndərdiyimiz ədədlərin içindəki ən kiçik ədədi tapıb bizə qaytaracaq.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00175.wav,Gördüyünüz kimi bu funksiya bizə 5 ədədini qaytardı.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00176.wav,İkinci bir funksiyamız max funksiyasıdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00177.wav,Max funksiyası min funksiyasının tam olaraq əksidir və bizə daxil etdiyimiz ədədlərin içində ən böyük ədədi tapıb qaytarır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00178.wav,"Bayaq daxil etdiyimiz ədədləri təkrar olaraq max funksiyası üçün istifadə etsək, biz o zaman 78 cavabını əldə edəcəyik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00179.wav,Çünki daxil etdiyimiz ədədlərin içində ən böyük ədəd 78-dir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00180.wav,Pow funksiyası.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00181.wav,Pow funksiyası biz bundan qabaq öyrəndiyimiz dərəcəyə yüksəltmə riyazi əməliyyatının alternativ versiyasıdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00182.wav,biz səkkiz cavabını əldə edəcəyik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00183.wav,pov funksiyası vasitəsilə bizə ikinin kubunu tap və qaytar.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00184.wav,Yəni siz istəsəz bu funksiyadan da istifadə eləyə bilərsiz,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00185.wav,və yaxud da dərəcəyə yüksəltmə operandından istifadə eləyə bilərsiniz.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00186.wav,"proqramçıların çoxusu bu funksiyadan istifadə etmir,",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00187.wav,sadəcə olaraq rahat olsun deyənə dərəcəyə yüksəltmə operatından istifadə edirlər.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00188.wav,Sonuncu riyazi funksiyamız round adlandırılan funksiyadır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00189.wav,Round funksiyasının işi daxil etdiyimiz ədədi yuvarlaqlaşdırıb bizə geri qaytarmaqdan ibarətdir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00190.wav,cavab olaraq bir ədədini əldə eləyəcəyik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00191.wav,o avtomatik olaraq daxil etdiyimiz ədədin hansı tam ədədə yaxın olduğunu müəyyənləşdirir və ona yuvarlaqlaşdırır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00192.wav,o bizim daxil etdiyimiz ədədi sıfıra yuvarlaqlaşdıracaq.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00193.wav,Çünki 0.25-ə ən yaxın tam ədəd sıfır ədədidir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00194.wav,Gəlin misal üçün başqa bir ədədi nəzərdən keçirək.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00195.wav,Misal üçün 114.5.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00196.wav,114.5 115-ə də və 114-ə də eyni dərəcədə yaxındır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00197.wav,Bəs nə üçün Python bizə bu ədədi məhz 114-ə yuvarlaqlaşdırıb bizə qaytardı?,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00198.wav,o zaman avtomatik olaraq bu funksiya aşağı ədədi götürür və ona yuvarlaqlaşdırır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00199.wav,"Yəni 114.5 115-ə də eyni dərəcədə yaxındır, 114-ə də eyni dərəcədə yaxındır.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00200.wav,Amma avtomatik olaraq bu funksiya daxil etdiyimiz ədədi 114-ə yuvarlaqlaşdırdı.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00201.wav,"o zaman bu funksiya bizim daxil etdiyimiz ədədi 115-ə yuvarlaqlaşdıracaqdı,",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00202.wav,ona görə ki daxil etdiyimiz ədəd ən yaxın tam ədəd 115-dir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00203.wav,Gördüyünüz kimi biz üç ədədini cavab olaraq əldə etdik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00204.wav,Biz bu əməliyyatı həm də Python konsol vasitəsilə yerinə yetirə bilərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00205.wav,"Python konsolu bizim ona daxil etdiyimiz əmrləri bizə cavab olaraq qaytardığından, biz burada print funksiyasından istifadə etməyimizə ehtiyac yoxdur.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00206.wav,Amma yenə gördüyünüz kimi burada biz xəta əldə etdik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00207.wav,"Yəni Python burada bizə deyir ki, bu əmrlə bizim ondan nə istədiyimizi o başa düşmür.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00208.wav,"Burada biz `mat` modulunu import etməyimizə baxmayaraq, konsolda həmin modulun funksiyası işləmir.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00209.wav,"Səbəb ondadır ki, faylın içində import edilən modul konsula aidiyyatı olmur.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00210.wav,Yəni biz bu funksiyadan istifadə etmək üçün həmin modulu Python konsolda da import eləməliyik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00211.wav,"Bəli, biz `import mat` əmrini daxil etdik və enteri basdıq və bu əmrlə biz artıq konsula bu modulu import elədik və artıq biz onun funksiyalarından istifadə edə bilərik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00212.wav,"Bəli, gördüyünüz kimi burada da biz cavab olaraq üç ədədini əldə etdik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00213.wav,"Gəlin biz dərsimizi konsul yox, fayl vasitəsilə davam etdirək.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00214.wav,"Mən sadəcə olaraq burda göstərmək istəyirdim ki, əgər biz faylın içinə hər hansısa bir modulu import ediriksə, həmin import əmri Python konsuluna heç bir aidiyyatı olmur.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00215.wav,Bu funksiyanın analoqu olan sadə bir funksiya var.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00216.wav,"Əgər yadınızdadırsa, biz ədəd tipli obyektləri öyrənərkən `int` funksiyası ilə tanış olduq və öyrəndik ki, bu funksiya ona daxil edilən `float` tipli, yəni tam olmayan ədədləri tam ədədə çevirir və kəsr hissəsini ləğv edir.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00217.wav,"Bu mövzumuzda biz string tipli, yəni sətr tipli obyektlər haqqında ətraflı məlumat əldə edəcəyik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00218.wav,Pythonda sətr tipli obyektlər yaratmaq üçün dırnaqdan və yaxud da apostrofdan istifadə edilir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00219.wav,"Bəli, gördüyünüz kimi, biz burdan apostrofdan da istifadə etsək, dırnaqdan da istifadə etsək, eyni bir nəticəni əldə edəcəyik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00220.wav,Bu cür qayda ilə biz sətr tipli obyekti yaradarkən bir qaydanı yadımızda saxlamalıyıq.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00221.wav,"Qayda ondan ibarətdir ki, biz sətr tipli obyekt yaradarkən bir variantdan istifadə etməliyik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00222.wav,"Yəni burada biz obyektimizi dırnaq ilə açıb, apostrof ilə bağlaya bilmərik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00223.wav,"Yəni əgər obyekt dırnaq ilə açılıbsa, dırnaq ilə də bağlanmalıdır.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00224.wav,"Apostrofla açılıbsa, apostrofla bağlanmalıdır.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00225.wav,"Digər bir qayda ondan ibarətdir ki, əgər dırnaq açılıbsa, o mütləq bağlanmalıdır.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00226.wav,Yəni biz bu cür variant ilə sətr tipli obyekt yarada bilmərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00227.wav,"Növbəti qaydamız ondan ibarətdir ki, obyektin yaradılmasında iştirak edən simvolları obyektin içində istifadə etmək olmaz.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00228.wav,"Yəni biz burada salam sözünü dırnaq işarəsindən istifadə etməklə yaratmışıqsa, əlavə olaraq həmin işarədən sözün içində, sözün qabağında və yaxud da sonunda istifadə edə bilmərik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00229.wav,"Bəs əgər biz cümlənin içində dırnaq işarəsindən istifadə etmək istəyiriksə, o zaman biz nə etməliyik?",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00230.wav,Gəlin belə bir tapşırığı yerinə yetirməyə çalışaq.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00231.wav,Print funksiyası vasitəsilə bu cümləni ekrana çıxardaq.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00232.wav,"Mən şriftlərin ölçünü kiçiltdim ki, daxil edəcəyimiz cümlə ekrana yerləşsin.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00233.wav,Gördüyünüz kimi bu cür cümləni biz ekrana verərkən xəta ilə üzləşdik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00234.wav,"Bayaq da dediyimiz kimi, əgər sətr tipli obyektin yaradılmasında iştirak edən simvollar həmin obyektin, yəni sətrin içində, yəni sətr tipli obyektin içində rast gəlinirsə, varsa, o zaman bu bizə xəta verəcək.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00235.wav,Gördüyünüz kimi biz sətr tipli obyektin yaradılmasında apostrofdan istifadə etdiyimizdən artıq cümlənin içində biz dırnaqdan istifadə edə bilərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00236.wav,Və yaxud da əksinə.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00237.wav,Bu variantda isə biz cümlənin içindəki simvolu başqa bir simvolla əvəz etdik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00238.wav,"Əgər cümlənin içində apostrof varsa, o zaman biz apostrofdan istifadə etməklə həmin cümləni sətr tipli obyektə çevirə bilmərik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00239.wav,Bunun üçün biz dırnaq işarəsindən istifadə etməliyik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00240.wav,"Və yaxud da əksinə, əgər cümlənin içində dırnaq işarəsi varsa, o zaman biz onu yaratmaq üçün dırnaqdan istifadə edə bilmərik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00241.wav,Bu cür obyekti sətrə çevirmək üçün biz mütləq apostrofdan istifadə etməliyik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00242.wav,"Bu qaydaya baxmayaraq, biz sətr tipli obyekti yaratmaq üçün istifadə etdiyimiz simvolu həmin sətrin içində yerləşdirə bilərik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00243.wav,Bunun üçün biz ekranlayıcı xüsusiyyətinə malik olan geriyə flash simvolundan istifadə etməliyik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00244.wav,Gəlin bu yaratdığımız cümlədə mən gəlirəmi dırnaq içərisinə daxil edək.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00245.wav,Gördüyümüz kimi PyCharm-ın bizi artıq kodumuzda yanlışlıq olduğunu xəbər verdi.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00246.wav,Burada nə baş verir?,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00247.wav,"Burada biz geriyə flash simvolu vasitəsilə həmin bu iki dırnağı ekranlaşdırırıq və Pythona deyirik ki, bu dırnaqlar hər hansısa bir sətr tipli obyektin yaradılmasında istifadə edilmir.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00248.wav,Biz sadəcə olaraq onu sətr tipli obyektin tərkib hissəsinə çevirmək istəyirik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00249.wav,Gördüyümüz kimi biz bu qayda ilə sətr tipli obyekti yaradarkən həmin obyektin tərkibinə istədiyimiz simvolu əlavə edə bilərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00250.wav,Biz həm də üç dırnaqdan istifadə etməklə bu cür obyekti yarada bilərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00251.wav,Misal üçün.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00252.wav,"Soruşa bilərsiniz ki, bu variant ilə, bundan qabaqkı variantın arasında nə fərq var?",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00253.wav,"Fərq ondadır ki, biz üç dırnaqdan istifadə etməklə sətir tipli obyekt yaradarkən Python həmin sətrin daxilindəki olan növbəti sətrə keçmə və probel işarələrini, simvolları nəzərə alır.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00254.wav,"Gördüyünüz kimi burada birinci sətrə sa, ikinci sətrə isə lam sözü düşüb.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00255.wav,Həmin probellər print funksiyası zamanı da ekrana çıxacaq.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00256.wav,Gəlin indi biz bu əməliyyatı iki dırnaq vasitəsilə təkrar edək.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00257.wav,Gördüyünüz kimi iki dırnaqdan istifadə etməklə biz bu cür sətir tipli obyekti yarada bilmərik və Python proqramı bizə yazdığımız kodda səhvlik olduğunu məlumat verdi.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00258.wav,Amma buna baxmayaraq biz iki dırnaq vasitəsilə sətir tipli obyekt yaradarkən sözün içində probeldən istifadə edə bilərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00259.wav,Yəni növbəti sətrə keçməmək şərtilə.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00260.wav,"Növbəti sətrə keçmək istəyiriksə, o zaman biz üç dırnaqdan istifadə etməliyik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00261.wav,"Üç dırnaq praktikada demək olar ki, çox az istifadə olunur.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00262.wav,Yəni ən çox istifadə olunan variant bu variantdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00263.wav,Buna baxmayaraq biz üç dırnaq ilə yaradılmayan sətir tipli obyektlərinə növbəti sətrə keçid əməliyyatını daxil edə bilərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00264.wav,Bunun üçün biz print funksiyasına aid olan dərsimizdə öyrəndiyimiz geriyə flaş n simvolundan istifadə etməliyik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00265.wav,Sətir tipli obyektlərdə növbəti sətrə keçid əməliyyatını yerinə yetirmək istədiyimiz yerə bu simvolu daxil etməliyik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00266.wav,Gördüyünüz kimi bu simvolun olduğu yerdə Python növbəti sətrə keçid əməliyyatını yerinə yetirir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00267.wav,Biz Pythonda həm də boş sətr tipli obyekt yarada bilərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00268.wav,"Bu cür sətr tipli obyekt boş sətr tipli obyekt sayılır, yəni bu cür obyektin içində heç bir simvol yoxdur.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00269.wav,Biz həm də Pythonda probeldən ibarət olan bir obyekt yarada bilərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00270.wav,İlk baxışdan bu cür obyekt ilə boş obyektin arasında oxşarlıq var.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00271.wav,Amma bu oxşarlıq sizi çaşdırmasın.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00272.wav,Çünki probeldən ibarət sətr tipli obyekt ilə heç bir simvoldan ibarət sətr tipli obyektin arasında fərqlilik var.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00273.wav,"Fərq ondadır ki, birinci obyektimiz probeldən ibarətdir, ikinci obyektimizin içində heç bir simvol yoxdur.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00274.wav,Yaradığımız sətr tipli obyektləri dəyişənlərə də təyin edə bilərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00275.wav,Və bu dəyişən vasitəsilə həmin sətr tipli obyektlər üzərində müxtəlif əməliyyatlar yerinə yetirə bilərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00276.wav,Biz sətr tipli obyekti yaratmağı öyrəndik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00277.wav,Gəlin indi həmin sətr tipli obyektlər üzərində əməliyyatların yerinə yetirilməsi haqqında ətraflı məlumatına tanış olaq.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00278.wav,İlk olaraq öyrənəcəyimiz əməliyyat iki və daha artıq sətr tipli obyektlərin bir-biri ilə birləşdirilməsi olacaq.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00279.wav,Bu əməliyyat hər hansısa bir sətr tipli obyekti digər bir sətr tipli obyektlə birləşdirmək üçün istifadə olunur.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00280.wav,"Misal üçün, gəlin belə bir sətr tipli obyekt yaradaq.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00281.wav,Gördüyünüz kimi biz bu əməliyyat vasitəsilə mən və proqramçıyam sözlərini bir-biri ilə birləşdirdik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00282.wav,Yəni sadə toplama əməliyyatı vasitəsilə biz iki sətr tipli obyekti bir-biri ilə birləşdirdik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00283.wav,"Ancaq burada fikir verdiyiniz kimi, sözlər tam olaraq bir-birləri ilə birləşib və bu düzgün sayılmır.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00284.wav,Yəni iki sözün arasına biz probel əlavə eləməliyik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00285.wav,Biz bunu üç variant ilə edə bilərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00286.wav,Birinci variant probeli üçüncü bir sətr obyekti kimi bizim toplama əməliyyatımızın içinə daxil etməklə.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00287.wav,"Bəli, gördüyünüz kimi artıq bu əməliyyatımızda biz iki sətr tipli obyekt yox, üç sətr tipli obyekti bir-biri ilə birləşdirdik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00288.wav,"Yəni birinci və üçüncü sətr tipli obyektin arasına boşluq, yəni probel əlavə etdik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00289.wav,İkinci variantımız boşluğu birinci sözün sonuna daxil etməklə əlavə etməkdir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00290.wav,Burada birinci sətr tipli obyektimiz mən və ondan sonra gələn probel işarəsindən ibarətdir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00291.wav,Yəni mən və probel işarəsi birlikdə bizim birinci sətr tipli obyektimizi yaratdı.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00292.wav,İkinci sətr tipli obyektimiz isə ancaq proqramçıyam sözündən ibarət oldu.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00293.wav,"Üçüncü variant bu probeli mən sözündən sonra yox, proqramçıyam sözündən qabaq əlavə etməkdir.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00294.wav,"Bəli, biz yenə də eyni bir nəticəni əldə etdik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00295.wav,Burada artıq bizim birinci sətr tipli obyektimiz ancaq mən sözündən ibarətdir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00296.wav,İkinci sətr tipli obyektimiz isə probeldən və sonra proqramçıyam sözündən ibarətdir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00297.wav,Bu əməliyyatları biz dəyişənlər vasitəsilə də yerinə yetirə bilərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00298.wav,Gəlin iki dəyişən yaradaq və onların hərəsinə mən və proqramçıyam sözlərini təyin edək.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00299.wav,olmadığından iki söz bir-biri ilə birləşərək ekrana verildi.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00300.wav,Gəlin bu problemi həll edək.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00301.wav,Biz burada da probel simvolunu əlavə bir sətr tipli obyekt kimi toplama əməliyyatımıza daxil edə bilərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00302.wav,Biz burada həmçinin probeli digər bir dəyişən vasitəsilə də toplama əməliyyatına əlavə edə bilərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00303.wav,"Bəli, biz bu qayda ilə də sətirləri bir-biri ilə birləşdirə bilərik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00304.wav,Biz həm də sətr tipli obyektin üstündə vurma əməliyyatı da yerinə yetirə bilərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00305.wav,Gördüyünüz kimi Python burada mən sözünü ikiyə vurdu və nəticəni ekrana verdi.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00306.wav,Yəni mən sözünü iki dəfə çoxaltdı sayını.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00307.wav,Və gördüyünüz kimi biz burada mən sözünü ona vurduq və bir-biri ilə birləşən 10 dənə məndən ibarət olan bir söz əldə etdik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00308.wav,Yəni burada nəticə bir sətr tipli obyekt sayılır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00309.wav,Biz sətirləri ədədlərə vurarkən ancaq tam ədədlərdən istifadə edə bilərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00310.wav,"Yəni biz burada sətri 2,5-ə misal üçün vura bilmərik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00311.wav,"Gördüyünüz kimi biz burada xəta əldə edirik ki, və xətamız bizə deyir ki, biz burada float tipli obyektdən istifadə edə bilmərik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00312.wav,Mütləq integer tipli obyektdən istifadə etməliyik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00313.wav,Sətirləri bir-biri ilə toplama əməliyyatı vasitəsilə birləşdirərkən biz ancaq iki sətr tipli obyektdən istifadə edə bilərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00314.wav,Bu cür əməliyyatı yerinə yetirə bilmərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00315.wav,ancaq sətirlər üzərində yerinə yetirmək olar.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00316.wav,"Yəni biz burada sətir ilə integer, yəni ədəd tipli obyektləri bir-birinə birləşdirə bilmərik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00317.wav,Bu problemi həll eləmək üçün biz integer tipli obyekti sətir tipli obyektə çevirməliyik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00318.wav,Yəni ədədimizi sətrə çevirməliyik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00319.wav,Biz bunu yerinə yetirmək üçün STR funksiyasından istifadə etməliyik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00320.wav,Biz ilk olaraq burda STR funksiyası vasitəsilə ona daxil olan obyekti sətrə çevirdik və sonra mən ilə həmin sətrə çevirdiyimiz obyekti bir-biri ilə cəmlədik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00321.wav,"Yəni burada artıq bir ədəd deyil, sətir tipli obyekt, yəni integer yox, STR tipli obyektdir.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00322.wav,Çünki STR funksiyası bir ədədini sətrə çevirdi.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00323.wav,Gəlin konsul vasitəsilə görək bu funksiyanı biz yerinə yetirərkən hansı cavab əldə eləyəcəyik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00324.wav,"Bəli, gördüyünüz kimi, STR funksiyası bizə cavab olaraq apostrof vasitəsilə yaradılmış sətrini geri qaytardı.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00325.wav,Yəni burada bir artıq ədəd deyil.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00326.wav,Və ona görə də biz rahatlıqla mən ilə həmin bu sətir tipli obyekti bir-birinin üzərində toplayaraq birləşdirə bilərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00327.wav,bu əməliyyatın analoğu sayılır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00328.wav,Biz dəyişənin dəyərindəki ədədi də sətir tipli obyektə çevirə bilərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00329.wav,Gəlin n dəyişəninə 10 ədədini təyin edək.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00330.wav,"Burada əgər biz ""mən"" sözü ilə n dəyişənini birləşdirmək istəsək, bayaqkı xətanı alacağıq.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00331.wav,"Çünki n dəyişəninin dəyərindəki obyekt sətir yox, ədəd tipli obyektdir.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00332.wav,"Deməli burada da biz STR funksiyasına n dəyişənini daxil edərək aldığımız sətir tipli obyekt ilə ""mən"" sözünü birləşdirə bilərik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00333.wav,Burada mötərizələri fikir verin.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00334.wav,Bu mötərizə print funksiyasına aiddir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00335.wav,"Gəlin proqramdan istifadə edək ki, daha aydın görünsün.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00336.wav,STR funksiyasına aiddir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00337.wav,Pythonda açılan mötərizələrin sayı bağlanan mötərizələrin sayına bərabər olmalıdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00338.wav,Gördüyünüz kimi burada STR funksiyası vasitəsilə n dəyişənin dəyərindəki ədədi sətr tipli obyektə çevirdik və onu mən sözü ilə birləşdirdik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00339.wav,Burada STR funksiyası n dəyişənin dəyərindəki obyekti dəyişmir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00340.wav,Sadəcə olaraq həmin obyektin sətrə çevrilmiş formasını bizə qaytarır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00341.wav,n dəyişənin dəyəri olduğu kimi qalır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00342.wav,Gəlin bunu yoxlayaq.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00343.wav,Gördüyünüz kimi burada birinci print funksiyası uğurla icra olundu.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00344.wav,İkinci print funksiyası isə xəta qaytardı.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00345.wav,"Səbəb ondadır ki, birinci print funksiyasına mən sözü ilə STR funksiyasının qaytardığı nəticənin birləşdirilməsi əməliyyatını daxil etmişik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00346.wav,STR funksiyasına n dəyişənin daxil etdiyimizdən STR funksiyası n dəyişənin dəyərindəki 10 ədədini götürür və onu sətrə çevirərək geri qaytarır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00347.wav,Sonra birləşdirmə əməliyyatı mən ilə STR funksiyasının qaytardığı sətr tipində olan 10 ədədini birləşdirir və aldığımız nəticəni ekrana çıxardırıq.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00348.wav,"İkinci print funksiyasında isə mən sözü ilə n dəyişənin dəyərindəki 10 ədədinin birləşdirilməsi əməliyyatı olduğundan və Pythonda ancaq sətr ilə digər sətr tipli obyekti birləşdirmək mümkün olduğundan, bu əmr bizə xəta qaytarır.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00349.wav,"Deməli, STR funksiyası ona daxil edilən dəyişənin dəyərini dəyişmir.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00350.wav,Sadəcə olaraq həmin dəyərin sətr tipində olan kopyasını yaradır və onu bizə qaytarır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00351.wav,Biz dəyişənə STR funksiyasını təyin edərək bu funksiyanın qaytardığı dəyəri həmin dəyişənə dəyər kimi təyin edə bilərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00352.wav,Belə olan halda artıq birləşdirilmə əməliyyatında STR funksiyasından istifadə etməyə ehtiyac qalmır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00353.wav,Çünki STR funksiyası 10 ədədini sətr tipli obyektə çevirir və geri qaytarır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00354.wav,Təyin etmə əməliyyatı da öz növbəsində bu sətr tipində olan 10 ədədini n dəyişəninə təyin edir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00355.wav,Bu mövzumuzda bizə lazım olacaq bəzi funksiyalarla tanış olacağıq.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00356.wav,İlk tanış olacağımız funksiya len funksiyasıdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00357.wav,"Bu funksiyanın adı ingilis dilində olan len, yəni uzunluq sözünün qısaldılmış formasıdır.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00358.wav,"Adından da məlum olduğu kimi biz bu funksiya vasitəsilə string, yəni sətr tipli obyektlərdə, yəni sözdə və yaxud cümlədə olan simvolların sayını öyrənə bilərik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00359.wav,Gəlin belə bir əmr daxil edək.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00360.wav,"Bu əməliyyat bizə salam sözündə olan, yəni salam sözündən ibarət olan string, yəni sətr tipli obyektdə olan simvolların sayını qaytaracaq.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00361.wav,Sayını ekrana vermək üçün gəlin biz print funksiyasından istifadə edək.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00362.wav,Gördüyünüz kimi bu funksiya bizə salam sözündə olan simvolların sayını qaytardı.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00363.wav,Simvol ilə hərfi qarışdırmayın.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00364.wav,"Pythonda hətta prabel da simvol sayılır, yəni biz əgər salam sözünə prabel daxil etsək, o zaman həmin sözdə olan simvolların sayı beş yox, artıq altı olacaqdır.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00365.wav,"Biz bu sözə nöqtə, nida və digər bir simvolları da daxil etsək, həmin simvollar sətr tipli obyektdə olan simvolların sayını artıracaq.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00366.wav,"Bəli, gördüyünüz kimi burada len funksiyası bizə salam və üç nöqtədən ibarət olan sətr tipli obyektdə səkkiz simvolun olduğunu məlumat verdi.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00367.wav,Biz bu əməliyyatı dəyişən vasitəsilə də təkrar edə bilərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00368.wav,"Gəlin ""word"" adlı dəyişən yaradaq, həmin dəyişənə sətr tipli obyekt təyin edək və sətr tipli obyekti olan simvolların sayını əldə edək.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00369.wav,"Bəli, gördüyünüz kimi biz Python vasitəsilə ona daxil etdiyimiz sözdəki və yaxud da cümlədəki simvolların sayını ekrana verən xırda bir proqram yaratdıq.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00370.wav,Öyrənəcəyimiz digər bir funksiya ord funksiyasıdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00371.wav,"Bu funksiya ona daxil edilən simvolun unicode cədvəlindəki sıra sayını, yəni sıra nömrəsini bizə qaytarır.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00372.wav,Misal olaraq gəlin belə bir əmr daxil edək.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00373.wav,Bu əmr bizə kiçik a hərfinin unicode cədvəlində olan sıra sayını qaytaracaq.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00374.wav,Unicode cədvəli ekranda gördüyünüz bu cədvəldir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00375.wav,"Və həmin cədvəldə hər bir simvolun öz sıra nömrəsi var, yəni sıra sayı var.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00376.wav,"Gördüyünüz kimi burada bizim daxil etdiyimiz a hərfinin cədvəldəki, yəni ASCII cədvəlindəki sıra sayı 97-dir.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00377.wav,Əmrin nəticəsini görmək üçün biz onu print funksiyasına daxil edək.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00378.wav,Gördüyünüz kimi bu funksiya bizə 97 ədədini qaytardı.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00379.wav,97 ədədi kiçik a hərfinin ASCII cədvəlində olan sıra sayıdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00380.wav,"o zaman biz 65 cavabını alacağıq, çünki ASCII cədvəlindəki böyük a hərfinin sıra sayı 65-dir.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00381.wav,kiçik hərflə böyük hərfin arasında fərqlilik var.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00382.wav,Yəni Python kiçik A ilə böyük A-nı eyni bir hərf kimi qəbul etmir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00383.wav,Həmin qayda aski cədvəlinə də aid edilir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00384.wav,Yəni burada böyük A ilə kiçik A-nın sıra sayları bir-biri ilə fərqlidir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00385.wav,Bu funksiyanın tam əksi olan bir funksiya char funksiyasıdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00386.wav,Char funksiyası ort funksiyasının tam əksidir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00387.wav,Bu funksiya ona daxil edilmiş ədədin aski cədvəlindəki həmin ədədə uyğun olan sıra nömrəsindəki yerləşən simvolu bizə qaytarır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00388.wav,"Yəni biz bu əməliyyatla char funksiyasına deyirik ki, aski cədvəlində 65 nömrəli simvolu bizə qaytar.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00389.wav,Və biz bundan qabaq da öyrəndiyimiz kimi həmin cədvəldəki 65 sıra sayı ilə yerləşən simvol böyük A simvoludur.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00390.wav,o zaman biz cavab olaraq kiçik A hərfini əldə edəcəyik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00391.wav,Çünki həmin cədvəldəki 97 nömrəli simvol kiçik A hərfidir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00392.wav,Bu funksiya bizə verilən aski formatında olan hər hansısa bir sözü və yaxud da cümləni bizim oxuya biləcəyimiz formata və əksinə bizim oxuya biləcəyimiz formatda olan sözü və yaxud da cümləni aski formatına çevirmək üçün istifadə olunur.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00393.wav,Yəni bu bir növ yazdıqlarımızı kənar şəxslərdən gizlətmək üçün sadə bir kriptoqrafiya metodudur.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00394.wav,Bu cür daxil etdiyimiz sözləri şifrələyən online servislər çoxdur.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00395.wav,Misal olaraq gəlin bir servizi nəzərdən keçirdək.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00396.wav,və yaxud da aski formatında olan sözü bizim oxuya biləcəyimiz formata çevrilir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00397.wav,Biz bu funksiya vasitəsilə eyni bir sadə şifrələyici yarada bilərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00398.wav,Çünki biz hələ siyahı tipli obyektləri öyrənməmişik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00399.wav,Biz siyahı obyektləri haqqında mövzunu öyrənəndən sonra bu mövzuya qayıdacağıq,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00400.wav,və əksinə daxil etdiyimiz şifrələnmiş aski formatında olan sözü və yaxud da cümləni oxuya biləcəyimiz bir formata çevirməyi öyrənəcəyik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00401.wav,Bu funksiya vasitəsilə biz sadəcə olaraq daxil etdiyimiz simvolların aski cədvəlindəki sıra sayını və yaxud da əksinə aski cədvəlindəki sıra sayına görə simvolu tapmağı öyrəndik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00402.wav,Bu mövzumuzda biz sətir tipli obyektlər mövzusunu davam etdirəcəyik və sətir tipli obyektlərin indeks və kəsikləri ilə tanış olacağıq.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00403.wav,Pythonda sətir simvolları düzülüşünə deyilir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00404.wav,Sətirdəki hər simvolun öz sıra sayı var.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00405.wav,Misal olaraq salam sözünü götürək.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00406.wav,Salam sözü beş simvoldan ibarətdir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00407.wav,Bu sözdəki hər simvolun öz sıra sayı var.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00408.wav,Öyrəndiyimiz kimi Pythonda sıra sayı sıfırdan başlayır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00409.wav,Sözümüzdəki ilk simvolun sıra sayı sıfırdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00410.wav,Sonuncu simvolumuzun nömrəsi isə dörd olacaq.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00411.wav,Pythonda bu sıra nömrələrinə indeks deyilir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00412.wav,İndekslər bizə həmin indeksə aid olan simvolu əldə etmək üçün lazımdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00413.wav,Gəlin Word dəyişəninə salam sözünü təyin edək.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00414.wav,"Əgər burada biz Word dəyişəninə müraciət etsək, o zaman onun dəyərindəki olan sətir tipli obyekti biz tam olaraq əldə edəcəyik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00415.wav,Nəticəni görmək üçün gəlin biz print funksiyasından istifadə edək.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00416.wav,Eyni əməliyyatı biz Python konsol vasitəsilə də yerinə yetirə bilərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00417.wav,Ötən mövzuda da öyrəndiyimiz kimi faylın tərkibindəki olan kod Python konsoluna heç bir təsir etmir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00418.wav,"Deməli əgər biz Word dəyişəninə müraciət etsək, o zaman xəta alacağıq ki, bu cür adda olan dəyişən mövcud deyil.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00419.wav,Bu səbəbdən Word dəyişənini təkrar olaraq konsolda yaradaq.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00420.wav,Gördüyünüz kimi Word dəyişənini yaratdıq və həmin dəyişənə müraciət edərkən salam sözünü əldə etdik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00421.wav,"Əgər biz sözdə olan ancaq bir simvolu əldə etmək istəyiriksə, həmin simvolun indeksini müəyyən edib onu seçməliyik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00422.wav,Gəlin salam sözündə olan l hərfini əldə edək.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00423.wav,"Mən bu əməliyyatları paralel olaraq həm konsulda, həm də fayl vasitəsilə yerinə yetirəcəm.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00424.wav,"İlk olaraq biz hərfin indeksini, yəni sıra sayını müəyyən etməliyik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00425.wav,"Bu hərfin sıra sayı, yəni indeksi, salam sözündə ikidir.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00426.wav,Hərfini götürmək istədiyimiz dəyişəni seçirik və sonra kvadrat mötərizənin içinə əldə etmək istədiyimiz simvolun indeksini daxil edirik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00427.wav,"Bəli, gördüyünüz kimi biz salam sözündə olan l hərfin əldə etdik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00428.wav,Gəlin bu əməliyyatı fayl vasitəsilə də yerinə yetirək.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00429.wav,Gördüyünüz kimi eyni bir nəticəni əldə etdik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00430.wav,Yəni biz burada simvolu götürmək istədiyimiz sətri yazırıq və sonra götürmək istədiyimiz simvolun indeksini kvadrat mötərizədə qeyd edirik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00431.wav,Yəni biz yazdığımız əmr ilə word dəyişəninin dəyəri olan salam sözünə müraciət edirik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00432.wav,Biz burada əmri bu cür də yaza bilərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00433.wav,"Biz burada artıq dəyişəndən yox, sətrin özündən istifadə etdik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00434.wav,Gəlin biz əmrimizi dəyişən ilə olan versiyaya qaytaraq.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00435.wav,Bunun üçün biz Pycharmda Ctrl+Z düyməsini basmalıyıq.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00436.wav,Hər dəfə basdığımızda biz bir addım geriyə qayıdırıq.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00437.wav,Biz həm də mövcud olmayan indeksə müraciət edə bilmərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00438.wav,"Yəni əgər biz bu cür əmr daxil etsək, o zaman xəta əldə edəcəyik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00439.wav,Çünki salam sözündə 11 nömrəli sıra sayı yoxdur.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00440.wav,Sayımız sıfırdan dördə qədərdir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00441.wav,Gəlin başqa bir dəyişən yaradaq və həmin dəyişənə yeni bir söz təyin edək.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00442.wav,Birinci və ikinci nümunəmizdə biz sözdəki ilk simvolu əldə etmək üçün sıfır indeksinə müraciət etməliyik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00443.wav,"Yəni sözdən asılı olmayaraq, həmişə birinci simvolun indeksi sıfır olacaq.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00444.wav,Ancaq sonuncu simvolun indeksi sözdəki simvolları sayına görə müxtəlifdir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00445.wav,"Yəni birinci nümunəmizdə bu dörddürsə, ikinci nümunəmizdə bu doqquz olacaq.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00446.wav,"İndi elə təsəvvür edək ki, simvolların sayını bilmədiyimiz sözün sonuncu simvolunu əldə etməyi bizə tapşırıblar.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00447.wav,Bu tapşırığı biz iki variant ilə yerinə yetirə bilərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00448.wav,Birinci variant bu variantdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00449.wav,Burada öncə word dəyişəninin dəyərindəki olan sözdəki simvolların sayı len funksiyası vasitəsilə əldə edilir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00450.wav,Əldə etdiyimiz simvolların sayından bir çıxırıq.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00451.wav,Niyə bir çıxırıq?,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00452.wav,"Dediyimiz kimi, Pythonda sətirlərin sıra sayı sıfırdan başladığından sonuncu simvolun indeksi, yəni sıra sayı, həmin sözdəki simvolların ümumi sayından həmişə bir ədəd az olacaq.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00453.wav,"Yəni salam sözündə beş simvol olduğundan və sıra sayımız sıfırdan başladığından sonuncu simvolumuzun indeksi, yəni sıra nömrəsi dörd olacaq.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00454.wav,Yəni beş çıxılsın bir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00455.wav,Kvadrat mötərizənin içindəki bu əməliyyatla biz ilk olaraq len funksiyası vasitəsilə sözün uzunluğunu əldə edirik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00456.wav,Yəni sözün tərkibində olan simvolların sayını əldə edirik,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00457.wav,"Bununla da biz sözün sonuncu simvolunun indeksini, yəni sıra nömrəsini əldə edirik",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00458.wav,Artıq biz sözün uzunluğundan asılı olmayaraq həmişə sözün sonuncu simvolunu əldə edəcəyik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00459.wav,Gəlin bu əməliyyatı ikinci dəyişənin üzərində də təkrar edək.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00460.wav,"İkinci dəyişənimizin dəyərindəki olan Azərbaycan sözünün sonuncu hərfi n olduğundan bu cür əməliyyat bizə həmin hərfi, yəni simvolu qaytardı.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00461.wav,Amma praktikada biz bu variantdan istifadə etməyəcəyik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00462.wav,Bizim istifadə edəcəyimiz variant bu variantdır.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00463.wav,"Python-da soldan sağa sıralama olduğu kimi, sağdan sola da sıralama var.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00464.wav,"Sağdan sola sıralayarkən biz artıq sıfırdan yox, mənfi birdən başlamalıyıq ki, Python bilsin ki, biz sağdan sola sıralayırıq.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00465.wav,Mənfi sıfır olmadığından biz sayı mənfi birdən başlayırıq.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00466.wav,"Deməli bu qayda ilə sıralayarkən sözümüzün sonuncu hərfi, yəni sonuncu simvolunun indeksi, yəni sıra sayı həmişə mənfi bir olacaq.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00467.wav,"Və bu qayda ilə biz istənilən sözün, cümlənin, istənilən sətr tipli obyektin sonuncu simvolunu əldə edə bilərik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00468.wav,Bu əməliyyatda artıq bizə len funksiyasından istifadə etməyə ehtiyac yoxdur.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00469.wav,Beləliklə biz sətr tipli obyektlərin indeksi ilə tanış olduq.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00470.wav,Gəlin indi biz sətr tipli obyektlərin kəsikləri ilə tanış olaq.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00471.wav,Kəsik deyərkən biz sözün və yaxud da cümlənin hər hansısa bir hissəsini kəsib əldə etmək nəzərdə tuturuq.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00472.wav,"Yəni indeksdən fərqli olaraq burada biz bir yox, bir neçə simvolu əldə edə bilərik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00473.wav,Misal üçün biz salam sözündəki al hissəni əldə etmək istəyirik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00474.wav,"Bunun üçün biz əldə etmək istədiyimiz hissənin başlanğıc və son indekslərini, yəni sıra saylarını müəyyən etməliyik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00475.wav,"A hərfinin sıra sayı birdir, l hərfinin sıra sayı isə ikidir.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00476.wav,Gəlin həmin indeksləri kvadrat mötərizəyə daxil edək.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00477.wav,Sətrin kəsik hissəsini əldə etmək üçün biz bu sintaksisdən istifadə etməliyik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00478.wav,"Kvadrat mötərizənin içində başlanğıc indeks, sonra iki nöqtə və sonra sonuncu indeks daxil etməliyik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00479.wav,"Biz bu əmrlə deyirik ki, bizə sözdəki sıra sayları bir və iki olan simvolları qaytar.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00480.wav,Amma biz cavab olaraq ancaq A hərfini əldə etdik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00481.wav,"Səbəb budur ki, Pythonda bu əmrdə birinci indeksimiz götürəcəyimiz hissəyə aid olur, ancaq ikinci indeksimiz isə yox.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00482.wav,Bir növ ikinci indeks götürəcəyimiz hissənin hansı simvola qədər olacağını təyin edir.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00483.wav,o zaman ikinci indeks yerinə götürəcəyimiz hissədən sonrakı olan simvolunu daxil edirik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00484.wav,"Yəni sadə dildə desək, əgər biz salam sözündən al hissəsini götürmək istəyiriksə, o zaman biz ikinci indeks kimi digər a hərfinin indeksini daxil etməliyik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00485.wav,"Burada biz Pythona deyirik ki, birinci indeksdən başlayaraq üçüncü indeksə qədər, yəni üçüncü indeks daxil olmamaq şərti ilə həmin hissəni bizə qaytar.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00486.wav,Biz bu əmrlə başlanğıc və son indeksləri daxil etdik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00487.wav,Ancaq biz başlanğıc və yaxud da son indeksi daxil etməyə də bilərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00488.wav,"Biz bu əmrlə Pythona deyirik ki, sözün ikinci indeksindən başlayaraq, yəni ikinci indeksdə daxil olaraq, yəni biz öyrəndik ki, birinci daxil etdiyimiz indeks götürəcəyimiz hissəyə daxil olur.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00489.wav,Sözün sonuna qədər olan hissəni bizə qaytar.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00490.wav,İki nömrəli indeksin altında olan simvol l hərfindir və deməli bu əmr bizə l hərfi də daxil olmaqla bu hərfdən başlayaraq sözün sonuna kimi olan bütün simvollardan ibarət olan hissəni bizə qaytaracaq.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00491.wav,Bu qayda ilə biz həm də ilk indeksi daxil etmədən bizə lazım olan hissəni əldə edə bilərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00492.wav,"Biz artıq öyrəndik ki, ikinci indeks alacağımız hissəyə daxil olmadığından, bu əmrlə biz sözün əvvəlindən ikinci indeksdə olan simvola qədər olan hissəni əldə edəcəyik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00493.wav,Biz burada həm də ikinci indeksi də daxil etməyə bilərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00494.wav,"Bu əmrlə biz artıq hər hansısa bir konkret hissəni yox, bütün simvolları əldə edəcəyik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00495.wav,Biz bu qayda ilə sağdan sola sıralamaq ilə istədiyimiz hissəni əldə edə bilərik.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00496.wav,"Elə təsəvvür edək ki, uzunluğunu bilmədiyimiz sətir tipli obyektin sonuncu üç rəqəmini əldə etmək istəyirik.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00497.wav,Gəlin Azərbaycan sözünün sonundakı üç simvoldan ibarət kəsiyi əldə edək.,lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00498.wav,"Sağdan sola sayanda, öyrəndiyimiz kimi, -1-dən başlayarıq.",lecture_screencast
+C:\Users\user\Documents\GitHub\research\data\localdoc\audio\localdoc_test_00499.wav,"Biz artıq bilirik ki, sözün kəsiyini əldə etmək üçün ilk olaraq kəsiyin başlanğıc indeksini, sonra kəsiyin bitəcəyi indeksi daxil etməliyik.",lecture_screencast
