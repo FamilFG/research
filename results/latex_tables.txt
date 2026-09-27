@@ -1,0 +1,12 @@
+% openai/whisper-tiny on test_common_voice
+openai/whisper-tiny & 201.2 \footnotesize{[85.3-90.1]} & 157.00\% & 0.0\% & 98.63\% & 0.1713 \\
+% whisper-tiny on fleurs
+openai/whisper-tiny & 145.6 \footnotesize{[87.4-88.8]} & 95.47\% & 0.0\% & 97.99\% & 0.0205 \\
+% whisper-tiny on localdoc
+openai/whisper-tiny & 120.9 \footnotesize{[74.8-77.8]} & 78.26\% & 0.0\% & 94.23\% & 0.0457 \\
+% whisper-base on common_voice
+openai/whisper-base & 102.2 \footnotesize{[76.6-83.3]} & 47.14\% & 0.0\% & 94.80\% & 0.0850 \\
+% whisper-base on fleurs
+openai/whisper-base & 87.6 \footnotesize{[75.8-77.6]} & 34.27\% & 0.0\% & 92.89\% & 0.0374 \\
+% whisper-base on localdoc
+openai/whisper-base & 81.5 \footnotesize{[65.9-69.3]} & 38.08\% & 0.0\% & 87.42\% & 0.0664 \\

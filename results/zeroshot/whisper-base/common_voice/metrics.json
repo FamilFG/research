@@ -1,0 +1,69 @@
+{
+  "model_name": "openai/whisper-base",
+  "dataset_name": "common_voice",
+  "samples_count": 126,
+  "total_audio_sec": 730.9,
+  "processing_time_sec": 62.12,
+  "rtf": 0.085,
+  "speedup": 11.8,
+  "wer": 102.17,
+  "cer": 47.14,
+  "wil": 94.8,
+  "ser": 100.0,
+  "exact_match_rate": 0.0,
+  "wer_details": {
+    "wer": 102.17,
+    "substitutions": 659,
+    "deletions": 67,
+    "insertions": 263,
+    "hits": 242,
+    "total_words": 968,
+    "sub_rate": 68.08,
+    "del_rate": 6.92,
+    "ins_rate": 27.17,
+    "wil": 94.8,
+    "wip": 5.2
+  },
+  "cer_details": {
+    "cer": 47.14,
+    "char_substitutions": 1184,
+    "char_deletions": 442,
+    "char_insertions": 1701,
+    "char_hits": 5432,
+    "total_chars": 7058
+  },
+  "sentence_stats": {
+    "total_sentences": 126,
+    "exact_matches": 0,
+    "exact_match_rate": 0.0,
+    "ser": 100.0,
+    "wer_mean": 79.77,
+    "wer_std": 18.53,
+    "wer_median": 81.82,
+    "wer_ci_95_lower": 76.56,
+    "wer_ci_95_upper": 83.27
+  },
+  "duration_stratification": {
+    "short (<3s)": {
+      "count": 4,
+      "wer": 82.35
+    },
+    "medium (3-8s)": {
+      "count": 105,
+      "wer": 108.63
+    },
+    "long (>8s)": {
+      "count": 17,
+      "wer": 77.42
+    }
+  },
+  "az_letter_accuracies": {
+    "ə": 0.0,
+    "ı": 56.52,
+    "ğ": 0.0,
+    "ş": 81.06,
+    "ç": 0.0,
+    "ö": 58.14,
+    "ü": 51.11
+  }
+}

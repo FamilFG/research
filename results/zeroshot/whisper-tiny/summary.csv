@@ -1,0 +1,4 @@
+model,dataset,samples,audio_hours,wer,wer_ci_95,cer,sub_rate,del_rate,ins_rate,wil,exact_match_pct,rtf,speedup
+whisper-tiny,common_voice,126,0.2,201.24,[85.35 - 90.12],157.0,72.62,10.54,118.08,98.63,0.0,0.1713,5.8
+whisper-tiny,fleurs,923,3.24,145.63,[87.39 - 88.80],95.47,72.06,10.4,63.17,97.99,0.0,0.0205,48.8
+whisper-tiny,localdoc,500,0.8,120.91,[74.85 - 77.75],78.26,62.31,9.24,49.36,94.23,0.0,0.0457,21.9

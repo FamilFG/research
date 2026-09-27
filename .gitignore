@@ -1,0 +1,34 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment & Virtualenvs
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Large audio & binary files (GitHub 100MB limit protection)
+*.parquet
+*.tar.gz
+*.zip
+*.7z
+
+# Audio folders (too large for standard git repositories)
+data/**/audio/
+data/**/clips/
+data/localdoc/*.parquet
+
+# Model checkpoints & training outputs
+checkpoints/
+runs/
+wandb/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

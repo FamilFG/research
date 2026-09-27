@@ -1,0 +1,451 @@
+sentence_id	category	sentence	speaker_id	gender	age_group	audio_filename
+custom_0001	Məişət və Gündəlik Danışıq	Salam, bu gün hava çox gözəldir, gəl gəzməyə çıxaq.				custom_0001.wav
+custom_0002	Məişət və Gündəlik Danışıq	Axşam yeməyinə nə bişirək, bəlkə dolma hazırlayaq?				custom_0002.wav
+custom_0003	Məişət və Gündəlik Danışıq	Zəhmət olmasa mənə bir stəkan ilıq su verə bilərsən?				custom_0003.wav
+custom_0004	Məişət və Gündəlik Danışıq	Səhər tezdən durub dərslərimi təkrar etməliyəm.				custom_0004.wav
+custom_0005	Məişət və Gündəlik Danışıq	Sabah saat doqquzda universitetin həyətində görüşərik.				custom_0005.wav
+custom_0006	Məişət və Gündəlik Danışıq	Avtobus dayanacaqda çox gözləməli oldu, tıxac var idi.				custom_0006.wav
+custom_0007	Məişət və Gündəlik Danışıq	Bu gün dəniz kənarında gəzinti üçün əla havadır.				custom_0007.wav
+custom_0008	Məişət və Gündəlik Danışıq	Uşaqlar həyətdə futbol oynayır və səs-küy salırlar.				custom_0008.wav
+custom_0009	Məişət və Gündəlik Danışıq	Mən bazardan təzə meyvə və tərəvəz almağa gedirəm.				custom_0009.wav
+custom_0010	Məişət və Gündəlik Danışıq	Telefonumun enerjisi bitir, zaryatka alətini verə bilərsən?				custom_0010.wav
+custom_0011	Məişət və Gündəlik Danışıq	Dostumla şəhərin mərkəzindəki yeni kafedə çay içdik.				custom_0011.wav
+custom_0012	Məişət və Gündəlik Danışıq	Bu axşam maraqlı bir film izləmək istəyirəm.				custom_0012.wav
+custom_0013	Məişət və Gündəlik Danışıq	Yolu keçərkən işıqforun yaşıl işığını gözləmək lazımdır.				custom_0013.wav
+custom_0014	Məişət və Gündəlik Danışıq	Anam mənə çox dadlı şorba bişirib, gəl sən də ye.				custom_0014.wav
+custom_0015	Məişət və Gündəlik Danışıq	Bazar günü ailəlikcə kəndə, babamgilə gedəcəyik.				custom_0015.wav
+custom_0016	Məişət və Gündəlik Danışıq	İmtahana hazırlaşmaq üçün bütün gecəni oyaq qaldım.				custom_0016.wav
+custom_0017	Məişət və Gündəlik Danışıq	Kitabxanada səssizlik qaydalarına riayət etmək vacibdir.				custom_0017.wav
+custom_0018	Məişət və Gündəlik Danışıq	Səninlə söhbət etmək mənə həmişə xoş əhval-ruhiyyə gətirir.				custom_0018.wav
+custom_0019	Məişət və Gündəlik Danışıq	Bu köynəyin rəngi sənə çox yaraşır, hardan almısan?				custom_0019.wav
+custom_0020	Məişət və Gündəlik Danışıq	Gələn həftə dostumun ad gününü qeyd etməyə hazırlaşırıq.				custom_0020.wav
+custom_0021	Məişət və Gündəlik Danışıq	Məncə, salam, bu gün hava çox gözəldir, gəl gəzməyə çıxaq.				custom_0021.wav
+custom_0022	Məişət və Gündəlik Danışıq	Əslində, axşam yeməyinə nə bişirək, bəlkə dolma hazırlayaq?				custom_0022.wav
+custom_0023	Məişət və Gündəlik Danışıq	Həqiqətən də, zəhmət olmasa mənə bir stəkan ilıq su verə bilərsən?				custom_0023.wav
+custom_0024	Məişət və Gündəlik Danışıq	Yeri gəlmişkən, səhər tezdən durub dərslərimi təkrar etməliyəm.				custom_0024.wav
+custom_0025	Məişət və Gündəlik Danışıq	Dünən eşitdim ki, sabah saat doqquzda universitetin həyətində görüşərik.				custom_0025.wav
+custom_0026	Məişət və Gündəlik Danışıq	Aydın məsələdir ki, avtobus dayanacaqda çox gözləməli oldu, tıxac var idi.				custom_0026.wav
+custom_0027	Məişət və Gündəlik Danışıq	Bir sözlə, bu gün dəniz kənarında gəzinti üçün əla havadır.				custom_0027.wav
+custom_0028	Məişət və Gündəlik Danışıq	Bilirsinizmi, uşaqlar həyətdə futbol oynayır və səs-küy salırlar.				custom_0028.wav
+custom_0029	Məişət və Gündəlik Danışıq	Deyilənə görə, mən bazardan təzə meyvə və tərəvəz almağa gedirəm.				custom_0029.wav
+custom_0030	Məişət və Gündəlik Danışıq	Məncə, telefonumun enerjisi bitir, zaryatka alətini verə bilərsən?				custom_0030.wav
+custom_0031	Məişət və Gündəlik Danışıq	Əslində, dostumla şəhərin mərkəzindəki yeni kafedə çay içdik.				custom_0031.wav
+custom_0032	Məişət və Gündəlik Danışıq	Həqiqətən də, bu axşam maraqlı bir film izləmək istəyirəm.				custom_0032.wav
+custom_0033	Məişət və Gündəlik Danışıq	Yeri gəlmişkən, yolu keçərkən işıqforun yaşıl işığını gözləmək lazımdır.				custom_0033.wav
+custom_0034	Məişət və Gündəlik Danışıq	Dünən eşitdim ki, anam mənə çox dadlı şorba bişirib, gəl sən də ye.				custom_0034.wav
+custom_0035	Məişət və Gündəlik Danışıq	Aydın məsələdir ki, bazar günü ailəlikcə kəndə, babamgilə gedəcəyik.				custom_0035.wav
+custom_0036	Məişət və Gündəlik Danışıq	Bir sözlə, i̇mtahana hazırlaşmaq üçün bütün gecəni oyaq qaldım.				custom_0036.wav
+custom_0037	Məişət və Gündəlik Danışıq	Bilirsinizmi, kitabxanada səssizlik qaydalarına riayət etmək vacibdir.				custom_0037.wav
+custom_0038	Məişət və Gündəlik Danışıq	Deyilənə görə, səninlə söhbət etmək mənə həmişə xoş əhval-ruhiyyə gətirir.				custom_0038.wav
+custom_0039	Məişət və Gündəlik Danışıq	Məncə, bu köynəyin rəngi sənə çox yaraşır, hardan almısan?				custom_0039.wav
+custom_0040	Məişət və Gündəlik Danışıq	Əslində, gələn həftə dostumun ad gününü qeyd etməyə hazırlaşırıq.				custom_0040.wav
+custom_0041	Məişət və Gündəlik Danışıq	Həqiqətən də, salam, bu gün hava çox gözəldir, gəl gəzməyə çıxaq.				custom_0041.wav
+custom_0042	Məişət və Gündəlik Danışıq	Yeri gəlmişkən, axşam yeməyinə nə bişirək, bəlkə dolma hazırlayaq?				custom_0042.wav
+custom_0043	Məişət və Gündəlik Danışıq	Dünən eşitdim ki, zəhmət olmasa mənə bir stəkan ilıq su verə bilərsən?				custom_0043.wav
+custom_0044	Məişət və Gündəlik Danışıq	Aydın məsələdir ki, səhər tezdən durub dərslərimi təkrar etməliyəm.				custom_0044.wav
+custom_0045	Məişət və Gündəlik Danışıq	Bir sözlə, sabah saat doqquzda universitetin həyətində görüşərik.				custom_0045.wav
+custom_0046	Məişət və Gündəlik Danışıq	Bilirsinizmi, avtobus dayanacaqda çox gözləməli oldu, tıxac var idi.				custom_0046.wav
+custom_0047	Məişət və Gündəlik Danışıq	Deyilənə görə, bu gün dəniz kənarında gəzinti üçün əla havadır.				custom_0047.wav
+custom_0048	Məişət və Gündəlik Danışıq	Məncə, uşaqlar həyətdə futbol oynayır və səs-küy salırlar.				custom_0048.wav
+custom_0049	Məişət və Gündəlik Danışıq	Əslində, mən bazardan təzə meyvə və tərəvəz almağa gedirəm.				custom_0049.wav
+custom_0050	Məişət və Gündəlik Danışıq	Həqiqətən də, telefonumun enerjisi bitir, zaryatka alətini verə bilərsən?				custom_0050.wav
+custom_0051	Məişət və Gündəlik Danışıq	Yeri gəlmişkən, dostumla şəhərin mərkəzindəki yeni kafedə çay içdik.				custom_0051.wav
+custom_0052	Məişət və Gündəlik Danışıq	Dünən eşitdim ki, bu axşam maraqlı bir film izləmək istəyirəm.				custom_0052.wav
+custom_0053	Məişət və Gündəlik Danışıq	Aydın məsələdir ki, yolu keçərkən işıqforun yaşıl işığını gözləmək lazımdır.				custom_0053.wav
+custom_0054	Məişət və Gündəlik Danışıq	Bir sözlə, anam mənə çox dadlı şorba bişirib, gəl sən də ye.				custom_0054.wav
+custom_0055	Məişət və Gündəlik Danışıq	Bilirsinizmi, bazar günü ailəlikcə kəndə, babamgilə gedəcəyik.				custom_0055.wav
+custom_0056	Məişət və Gündəlik Danışıq	Deyilənə görə, i̇mtahana hazırlaşmaq üçün bütün gecəni oyaq qaldım.				custom_0056.wav
+custom_0057	Məişət və Gündəlik Danışıq	Məncə, kitabxanada səssizlik qaydalarına riayət etmək vacibdir.				custom_0057.wav
+custom_0058	Məişət və Gündəlik Danışıq	Əslində, səninlə söhbət etmək mənə həmişə xoş əhval-ruhiyyə gətirir.				custom_0058.wav
+custom_0059	Məişət və Gündəlik Danışıq	Həqiqətən də, bu köynəyin rəngi sənə çox yaraşır, hardan almısan?				custom_0059.wav
+custom_0060	Məişət və Gündəlik Danışıq	Yeri gəlmişkən, gələn həftə dostumun ad gününü qeyd etməyə hazırlaşırıq.				custom_0060.wav
+custom_0061	Məişət və Gündəlik Danışıq	Dünən eşitdim ki, salam, bu gün hava çox gözəldir, gəl gəzməyə çıxaq.				custom_0061.wav
+custom_0062	Məişət və Gündəlik Danışıq	Aydın məsələdir ki, axşam yeməyinə nə bişirək, bəlkə dolma hazırlayaq?				custom_0062.wav
+custom_0063	Məişət və Gündəlik Danışıq	Bir sözlə, zəhmət olmasa mənə bir stəkan ilıq su verə bilərsən?				custom_0063.wav
+custom_0064	Məişət və Gündəlik Danışıq	Bilirsinizmi, səhər tezdən durub dərslərimi təkrar etməliyəm.				custom_0064.wav
+custom_0065	Məişət və Gündəlik Danışıq	Deyilənə görə, sabah saat doqquzda universitetin həyətində görüşərik.				custom_0065.wav
+custom_0066	Məişət və Gündəlik Danışıq	Məncə, avtobus dayanacaqda çox gözləməli oldu, tıxac var idi.				custom_0066.wav
+custom_0067	Məişət və Gündəlik Danışıq	Əslində, bu gün dəniz kənarında gəzinti üçün əla havadır.				custom_0067.wav
+custom_0068	Məişət və Gündəlik Danışıq	Həqiqətən də, uşaqlar həyətdə futbol oynayır və səs-küy salırlar.				custom_0068.wav
+custom_0069	Məişət və Gündəlik Danışıq	Yeri gəlmişkən, mən bazardan təzə meyvə və tərəvəz almağa gedirəm.				custom_0069.wav
+custom_0070	Məişət və Gündəlik Danışıq	Dünən eşitdim ki, telefonumun enerjisi bitir, zaryatka alətini verə bilərsən?				custom_0070.wav
+custom_0071	Məişət və Gündəlik Danışıq	Aydın məsələdir ki, dostumla şəhərin mərkəzindəki yeni kafedə çay içdik.				custom_0071.wav
+custom_0072	Məişət və Gündəlik Danışıq	Bir sözlə, bu axşam maraqlı bir film izləmək istəyirəm.				custom_0072.wav
+custom_0073	Məişət və Gündəlik Danışıq	Bilirsinizmi, yolu keçərkən işıqforun yaşıl işığını gözləmək lazımdır.				custom_0073.wav
+custom_0074	Məişət və Gündəlik Danışıq	Deyilənə görə, anam mənə çox dadlı şorba bişirib, gəl sən də ye.				custom_0074.wav
+custom_0075	Məişət və Gündəlik Danışıq	Məncə, bazar günü ailəlikcə kəndə, babamgilə gedəcəyik.				custom_0075.wav
+custom_0076	Məişət və Gündəlik Danışıq	Əslində, i̇mtahana hazırlaşmaq üçün bütün gecəni oyaq qaldım.				custom_0076.wav
+custom_0077	Məişət və Gündəlik Danışıq	Həqiqətən də, kitabxanada səssizlik qaydalarına riayət etmək vacibdir.				custom_0077.wav
+custom_0078	Məişət və Gündəlik Danışıq	Yeri gəlmişkən, səninlə söhbət etmək mənə həmişə xoş əhval-ruhiyyə gətirir.				custom_0078.wav
+custom_0079	Məişət və Gündəlik Danışıq	Dünən eşitdim ki, bu köynəyin rəngi sənə çox yaraşır, hardan almısan?				custom_0079.wav
+custom_0080	Məişət və Gündəlik Danışıq	Aydın məsələdir ki, gələn həftə dostumun ad gününü qeyd etməyə hazırlaşırıq.				custom_0080.wav
+custom_0081	Məişət və Gündəlik Danışıq	Bir sözlə, salam, bu gün hava çox gözəldir, gəl gəzməyə çıxaq.				custom_0081.wav
+custom_0082	Məişət və Gündəlik Danışıq	Bilirsinizmi, axşam yeməyinə nə bişirək, bəlkə dolma hazırlayaq?				custom_0082.wav
+custom_0083	Məişət və Gündəlik Danışıq	Deyilənə görə, zəhmət olmasa mənə bir stəkan ilıq su verə bilərsən?				custom_0083.wav
+custom_0084	Məişət və Gündəlik Danışıq	Məncə, səhər tezdən durub dərslərimi təkrar etməliyəm.				custom_0084.wav
+custom_0085	Məişət və Gündəlik Danışıq	Əslində, sabah saat doqquzda universitetin həyətində görüşərik.				custom_0085.wav
+custom_0086	Məişət və Gündəlik Danışıq	Həqiqətən də, avtobus dayanacaqda çox gözləməli oldu, tıxac var idi.				custom_0086.wav
+custom_0087	Məişət və Gündəlik Danışıq	Yeri gəlmişkən, bu gün dəniz kənarında gəzinti üçün əla havadır.				custom_0087.wav
+custom_0088	Məişət və Gündəlik Danışıq	Dünən eşitdim ki, uşaqlar həyətdə futbol oynayır və səs-küy salırlar.				custom_0088.wav
+custom_0089	Məişət və Gündəlik Danışıq	Aydın məsələdir ki, mən bazardan təzə meyvə və tərəvəz almağa gedirəm.				custom_0089.wav
+custom_0090	Məişət və Gündəlik Danışıq	Bir sözlə, telefonumun enerjisi bitir, zaryatka alətini verə bilərsən?				custom_0090.wav
+custom_0091	Məişət və Gündəlik Danışıq	Bilirsinizmi, dostumla şəhərin mərkəzindəki yeni kafedə çay içdik.				custom_0091.wav
+custom_0092	Məişət və Gündəlik Danışıq	Deyilənə görə, bu axşam maraqlı bir film izləmək istəyirəm.				custom_0092.wav
+custom_0093	Məişət və Gündəlik Danışıq	Məncə, yolu keçərkən işıqforun yaşıl işığını gözləmək lazımdır.				custom_0093.wav
+custom_0094	Məişət və Gündəlik Danışıq	Əslində, anam mənə çox dadlı şorba bişirib, gəl sən də ye.				custom_0094.wav
+custom_0095	Məişət və Gündəlik Danışıq	Həqiqətən də, bazar günü ailəlikcə kəndə, babamgilə gedəcəyik.				custom_0095.wav
+custom_0096	Məişət və Gündəlik Danışıq	Yeri gəlmişkən, i̇mtahana hazırlaşmaq üçün bütün gecəni oyaq qaldım.				custom_0096.wav
+custom_0097	Məişət və Gündəlik Danışıq	Dünən eşitdim ki, kitabxanada səssizlik qaydalarına riayət etmək vacibdir.				custom_0097.wav
+custom_0098	Məişət və Gündəlik Danışıq	Aydın məsələdir ki, səninlə söhbət etmək mənə həmişə xoş əhval-ruhiyyə gətirir.				custom_0098.wav
+custom_0099	Məişət və Gündəlik Danışıq	Bir sözlə, bu köynəyin rəngi sənə çox yaraşır, hardan almısan?				custom_0099.wav
+custom_0100	Məişət və Gündəlik Danışıq	Bilirsinizmi, gələn həftə dostumun ad gününü qeyd etməyə hazırlaşırıq.				custom_0100.wav
+custom_0101	Məişət və Gündəlik Danışıq	Deyilənə görə, salam, bu gün hava çox gözəldir, gəl gəzməyə çıxaq.				custom_0101.wav
+custom_0102	Məişət və Gündəlik Danışıq	Məncə, axşam yeməyinə nə bişirək, bəlkə dolma hazırlayaq?				custom_0102.wav
+custom_0103	Məişət və Gündəlik Danışıq	Əslində, zəhmət olmasa mənə bir stəkan ilıq su verə bilərsən?				custom_0103.wav
+custom_0104	Məişət və Gündəlik Danışıq	Həqiqətən də, səhər tezdən durub dərslərimi təkrar etməliyəm.				custom_0104.wav
+custom_0105	Məişət və Gündəlik Danışıq	Yeri gəlmişkən, sabah saat doqquzda universitetin həyətində görüşərik.				custom_0105.wav
+custom_0106	Məişət və Gündəlik Danışıq	Dünən eşitdim ki, avtobus dayanacaqda çox gözləməli oldu, tıxac var idi.				custom_0106.wav
+custom_0107	Məişət və Gündəlik Danışıq	Aydın məsələdir ki, bu gün dəniz kənarında gəzinti üçün əla havadır.				custom_0107.wav
+custom_0108	Məişət və Gündəlik Danışıq	Bir sözlə, uşaqlar həyətdə futbol oynayır və səs-küy salırlar.				custom_0108.wav
+custom_0109	Məişət və Gündəlik Danışıq	Bilirsinizmi, mən bazardan təzə meyvə və tərəvəz almağa gedirəm.				custom_0109.wav
+custom_0110	Məişət və Gündəlik Danışıq	Deyilənə görə, telefonumun enerjisi bitir, zaryatka alətini verə bilərsən?				custom_0110.wav
+custom_0111	Məişət və Gündəlik Danışıq	Məncə, dostumla şəhərin mərkəzindəki yeni kafedə çay içdik.				custom_0111.wav
+custom_0112	Məişət və Gündəlik Danışıq	Əslində, bu axşam maraqlı bir film izləmək istəyirəm.				custom_0112.wav
+custom_0113	Məişət və Gündəlik Danışıq	Həqiqətən də, yolu keçərkən işıqforun yaşıl işığını gözləmək lazımdır.				custom_0113.wav
+custom_0114	Məişət və Gündəlik Danışıq	Yeri gəlmişkən, anam mənə çox dadlı şorba bişirib, gəl sən də ye.				custom_0114.wav
+custom_0115	Məişət və Gündəlik Danışıq	Dünən eşitdim ki, bazar günü ailəlikcə kəndə, babamgilə gedəcəyik.				custom_0115.wav
+custom_0116	Məişət və Gündəlik Danışıq	Aydın məsələdir ki, i̇mtahana hazırlaşmaq üçün bütün gecəni oyaq qaldım.				custom_0116.wav
+custom_0117	Məişət və Gündəlik Danışıq	Bir sözlə, kitabxanada səssizlik qaydalarına riayət etmək vacibdir.				custom_0117.wav
+custom_0118	Məişət və Gündəlik Danışıq	Bilirsinizmi, səninlə söhbət etmək mənə həmişə xoş əhval-ruhiyyə gətirir.				custom_0118.wav
+custom_0119	Məişət və Gündəlik Danışıq	Deyilənə görə, bu köynəyin rəngi sənə çox yaraşır, hardan almısan?				custom_0119.wav
+custom_0120	Məişət və Gündəlik Danışıq	Məncə, gələn həftə dostumun ad gününü qeyd etməyə hazırlaşırıq.				custom_0120.wav
+custom_0121	Məişət və Gündəlik Danışıq	Əslində, salam, bu gün hava çox gözəldir, gəl gəzməyə çıxaq.				custom_0121.wav
+custom_0122	Məişət və Gündəlik Danışıq	Həqiqətən də, axşam yeməyinə nə bişirək, bəlkə dolma hazırlayaq?				custom_0122.wav
+custom_0123	Məişət və Gündəlik Danışıq	Yeri gəlmişkən, zəhmət olmasa mənə bir stəkan ilıq su verə bilərsən?				custom_0123.wav
+custom_0124	Məişət və Gündəlik Danışıq	Dünən eşitdim ki, səhər tezdən durub dərslərimi təkrar etməliyəm.				custom_0124.wav
+custom_0125	Məişət və Gündəlik Danışıq	Aydın məsələdir ki, sabah saat doqquzda universitetin həyətində görüşərik.				custom_0125.wav
+custom_0126	Məişət və Gündəlik Danışıq	Bir sözlə, avtobus dayanacaqda çox gözləməli oldu, tıxac var idi.				custom_0126.wav
+custom_0127	Məişət və Gündəlik Danışıq	Bilirsinizmi, bu gün dəniz kənarında gəzinti üçün əla havadır.				custom_0127.wav
+custom_0128	Məişət və Gündəlik Danışıq	Deyilənə görə, uşaqlar həyətdə futbol oynayır və səs-küy salırlar.				custom_0128.wav
+custom_0129	Məişət və Gündəlik Danışıq	Məncə, mən bazardan təzə meyvə və tərəvəz almağa gedirəm.				custom_0129.wav
+custom_0130	Məişət və Gündəlik Danışıq	Əslində, telefonumun enerjisi bitir, zaryatka alətini verə bilərsən?				custom_0130.wav
+custom_0131	Məişət və Gündəlik Danışıq	Həqiqətən də, dostumla şəhərin mərkəzindəki yeni kafedə çay içdik.				custom_0131.wav
+custom_0132	Məişət və Gündəlik Danışıq	Yeri gəlmişkən, bu axşam maraqlı bir film izləmək istəyirəm.				custom_0132.wav
+custom_0133	Məişət və Gündəlik Danışıq	Dünən eşitdim ki, yolu keçərkən işıqforun yaşıl işığını gözləmək lazımdır.				custom_0133.wav
+custom_0134	Məişət və Gündəlik Danışıq	Aydın məsələdir ki, anam mənə çox dadlı şorba bişirib, gəl sən də ye.				custom_0134.wav
+custom_0135	Məişət və Gündəlik Danışıq	Bir sözlə, bazar günü ailəlikcə kəndə, babamgilə gedəcəyik.				custom_0135.wav
+custom_0136	Məişət və Gündəlik Danışıq	Bilirsinizmi, i̇mtahana hazırlaşmaq üçün bütün gecəni oyaq qaldım.				custom_0136.wav
+custom_0137	Məişət və Gündəlik Danışıq	Deyilənə görə, kitabxanada səssizlik qaydalarına riayət etmək vacibdir.				custom_0137.wav
+custom_0138	Məişət və Gündəlik Danışıq	Məncə, səninlə söhbət etmək mənə həmişə xoş əhval-ruhiyyə gətirir.				custom_0138.wav
+custom_0139	Məişət və Gündəlik Danışıq	Əslində, bu köynəyin rəngi sənə çox yaraşır, hardan almısan?				custom_0139.wav
+custom_0140	Məişət və Gündəlik Danışıq	Həqiqətən də, gələn həftə dostumun ad gününü qeyd etməyə hazırlaşırıq.				custom_0140.wav
+custom_0141	Məişət və Gündəlik Danışıq	Yeri gəlmişkən, salam, bu gün hava çox gözəldir, gəl gəzməyə çıxaq.				custom_0141.wav
+custom_0142	Məişət və Gündəlik Danışıq	Dünən eşitdim ki, axşam yeməyinə nə bişirək, bəlkə dolma hazırlayaq?				custom_0142.wav
+custom_0143	Məişət və Gündəlik Danışıq	Aydın məsələdir ki, zəhmət olmasa mənə bir stəkan ilıq su verə bilərsən?				custom_0143.wav
+custom_0144	Məişət və Gündəlik Danışıq	Bir sözlə, səhər tezdən durub dərslərimi təkrar etməliyəm.				custom_0144.wav
+custom_0145	Məişət və Gündəlik Danışıq	Bilirsinizmi, sabah saat doqquzda universitetin həyətində görüşərik.				custom_0145.wav
+custom_0146	Məişət və Gündəlik Danışıq	Deyilənə görə, avtobus dayanacaqda çox gözləməli oldu, tıxac var idi.				custom_0146.wav
+custom_0147	Məişət və Gündəlik Danışıq	Məncə, bu gün dəniz kənarında gəzinti üçün əla havadır.				custom_0147.wav
+custom_0148	Məişət və Gündəlik Danışıq	Əslində, uşaqlar həyətdə futbol oynayır və səs-küy salırlar.				custom_0148.wav
+custom_0149	Məişət və Gündəlik Danışıq	Həqiqətən də, mən bazardan təzə meyvə və tərəvəz almağa gedirəm.				custom_0149.wav
+custom_0150	Məişət və Gündəlik Danışıq	Yeri gəlmişkən, telefonumun enerjisi bitir, zaryatka alətini verə bilərsən?				custom_0150.wav
+custom_0151	Rəqəmlər, Tarixlər və Qiymətlər	Bu kitabın qiyməti on beş manat əlli qəpikdir.				custom_0151.wav
+custom_0152	Rəqəmlər, Tarixlər və Qiymətlər	Təyyarə saat on dörddə Bakıdan İstanbula uçacaq.				custom_0152.wav
+custom_0153	Rəqəmlər, Tarixlər və Qiymətlər	Bizim qrupda iyirmi dörd tələbə təhsil alır.				custom_0153.wav
+custom_0154	Rəqəmlər, Tarixlər və Qiymətlər	Mağazadan iki kiloqram alma və üç litr süd aldım.				custom_0154.wav
+custom_0155	Rəqəmlər, Tarixlər və Qiymətlər	Görüşümüz martın iyirmi birində, Novruz bayramında olacaq.				custom_0155.wav
+custom_0156	Rəqəmlər, Tarixlər və Qiymətlər	Binanın on beşinci mərtəbəsindən bütün şəhər görünür.				custom_0156.wav
+custom_0157	Rəqəmlər, Tarixlər və Qiymətlər	Dərsin başlamasına cəmi on dəqiqə vaxt qalıb.				custom_0157.wav
+custom_0158	Rəqəmlər, Tarixlər və Qiymətlər	Yeni kompüterin yaddaşı bir terabayt həcmindədir.				custom_0158.wav
+custom_0159	Rəqəmlər, Tarixlər və Qiymətlər	O, 1998-ci ildə Gəncə şəhərində anadan olub.				custom_0159.wav
+custom_0160	Rəqəmlər, Tarixlər və Qiymətlər	Biletlərin qiyməti tələbələr üçün əlli faiz endirimlədir.				custom_0160.wav
+custom_0161	Rəqəmlər, Tarixlər və Qiymətlər	Bank hesabımdakı qalıq yüz yetmiş beş manatdır.				custom_0161.wav
+custom_0162	Rəqəmlər, Tarixlər və Qiymətlər	Bu gün havanın temperaturu müsbət iyirmi iki dərəcə olacaq.				custom_0162.wav
+custom_0163	Rəqəmlər, Tarixlər və Qiymətlər	Biz layihəni bitirmək üçün üç həftə fasiləsiz işlədik.				custom_0163.wav
+custom_0164	Rəqəmlər, Tarixlər və Qiymətlər	Hər gün ən azı səkkiz saat yatmaq sağlamlıq üçün vacibdir.				custom_0164.wav
+custom_0165	Rəqəmlər, Tarixlər və Qiymətlər	Məktəbin əsas korpusunda qırx səkkiz sinif otağı var.				custom_0165.wav
+custom_0166	Rəqəmlər, Tarixlər və Qiymətlər	Dünən eşitdim ki, bu kitabın qiyməti on beş manat əlli qəpikdir.				custom_0166.wav
+custom_0167	Rəqəmlər, Tarixlər və Qiymətlər	Aydın məsələdir ki, təyyarə saat on dörddə Bakıdan İstanbula uçacaq.				custom_0167.wav
+custom_0168	Rəqəmlər, Tarixlər və Qiymətlər	Bir sözlə, bizim qrupda iyirmi dörd tələbə təhsil alır.				custom_0168.wav
+custom_0169	Rəqəmlər, Tarixlər və Qiymətlər	Bilirsinizmi, mağazadan iki kiloqram alma və üç litr süd aldım.				custom_0169.wav
+custom_0170	Rəqəmlər, Tarixlər və Qiymətlər	Deyilənə görə, görüşümüz martın iyirmi birində, Novruz bayramında olacaq.				custom_0170.wav
+custom_0171	Rəqəmlər, Tarixlər və Qiymətlər	Məncə, binanın on beşinci mərtəbəsindən bütün şəhər görünür.				custom_0171.wav
+custom_0172	Rəqəmlər, Tarixlər və Qiymətlər	Əslində, dərsin başlamasına cəmi on dəqiqə vaxt qalıb.				custom_0172.wav
+custom_0173	Rəqəmlər, Tarixlər və Qiymətlər	Həqiqətən də, yeni kompüterin yaddaşı bir terabayt həcmindədir.				custom_0173.wav
+custom_0174	Rəqəmlər, Tarixlər və Qiymətlər	Yeri gəlmişkən, o, 1998-ci ildə Gəncə şəhərində anadan olub.				custom_0174.wav
+custom_0175	Rəqəmlər, Tarixlər və Qiymətlər	Dünən eşitdim ki, biletlərin qiyməti tələbələr üçün əlli faiz endirimlədir.				custom_0175.wav
+custom_0176	Rəqəmlər, Tarixlər və Qiymətlər	Aydın məsələdir ki, bank hesabımdakı qalıq yüz yetmiş beş manatdır.				custom_0176.wav
+custom_0177	Rəqəmlər, Tarixlər və Qiymətlər	Bir sözlə, bu gün havanın temperaturu müsbət iyirmi iki dərəcə olacaq.				custom_0177.wav
+custom_0178	Rəqəmlər, Tarixlər və Qiymətlər	Bilirsinizmi, biz layihəni bitirmək üçün üç həftə fasiləsiz işlədik.				custom_0178.wav
+custom_0179	Rəqəmlər, Tarixlər və Qiymətlər	Deyilənə görə, hər gün ən azı səkkiz saat yatmaq sağlamlıq üçün vacibdir.				custom_0179.wav
+custom_0180	Rəqəmlər, Tarixlər və Qiymətlər	Məncə, məktəbin əsas korpusunda qırx səkkiz sinif otağı var.				custom_0180.wav
+custom_0181	Rəqəmlər, Tarixlər və Qiymətlər	Əslində, bu kitabın qiyməti on beş manat əlli qəpikdir.				custom_0181.wav
+custom_0182	Rəqəmlər, Tarixlər və Qiymətlər	Həqiqətən də, təyyarə saat on dörddə Bakıdan İstanbula uçacaq.				custom_0182.wav
+custom_0183	Rəqəmlər, Tarixlər və Qiymətlər	Yeri gəlmişkən, bizim qrupda iyirmi dörd tələbə təhsil alır.				custom_0183.wav
+custom_0184	Rəqəmlər, Tarixlər və Qiymətlər	Dünən eşitdim ki, mağazadan iki kiloqram alma və üç litr süd aldım.				custom_0184.wav
+custom_0185	Rəqəmlər, Tarixlər və Qiymətlər	Aydın məsələdir ki, görüşümüz martın iyirmi birində, Novruz bayramında olacaq.				custom_0185.wav
+custom_0186	Rəqəmlər, Tarixlər və Qiymətlər	Bir sözlə, binanın on beşinci mərtəbəsindən bütün şəhər görünür.				custom_0186.wav
+custom_0187	Rəqəmlər, Tarixlər və Qiymətlər	Bilirsinizmi, dərsin başlamasına cəmi on dəqiqə vaxt qalıb.				custom_0187.wav
+custom_0188	Rəqəmlər, Tarixlər və Qiymətlər	Deyilənə görə, yeni kompüterin yaddaşı bir terabayt həcmindədir.				custom_0188.wav
+custom_0189	Rəqəmlər, Tarixlər və Qiymətlər	Məncə, o, 1998-ci ildə Gəncə şəhərində anadan olub.				custom_0189.wav
+custom_0190	Rəqəmlər, Tarixlər və Qiymətlər	Əslində, biletlərin qiyməti tələbələr üçün əlli faiz endirimlədir.				custom_0190.wav
+custom_0191	Rəqəmlər, Tarixlər və Qiymətlər	Həqiqətən də, bank hesabımdakı qalıq yüz yetmiş beş manatdır.				custom_0191.wav
+custom_0192	Rəqəmlər, Tarixlər və Qiymətlər	Yeri gəlmişkən, bu gün havanın temperaturu müsbət iyirmi iki dərəcə olacaq.				custom_0192.wav
+custom_0193	Rəqəmlər, Tarixlər və Qiymətlər	Dünən eşitdim ki, biz layihəni bitirmək üçün üç həftə fasiləsiz işlədik.				custom_0193.wav
+custom_0194	Rəqəmlər, Tarixlər və Qiymətlər	Aydın məsələdir ki, hər gün ən azı səkkiz saat yatmaq sağlamlıq üçün vacibdir.				custom_0194.wav
+custom_0195	Rəqəmlər, Tarixlər və Qiymətlər	Bir sözlə, məktəbin əsas korpusunda qırx səkkiz sinif otağı var.				custom_0195.wav
+custom_0196	Rəqəmlər, Tarixlər və Qiymətlər	Bilirsinizmi, bu kitabın qiyməti on beş manat əlli qəpikdir.				custom_0196.wav
+custom_0197	Rəqəmlər, Tarixlər və Qiymətlər	Deyilənə görə, təyyarə saat on dörddə Bakıdan İstanbula uçacaq.				custom_0197.wav
+custom_0198	Rəqəmlər, Tarixlər və Qiymətlər	Məncə, bizim qrupda iyirmi dörd tələbə təhsil alır.				custom_0198.wav
+custom_0199	Rəqəmlər, Tarixlər və Qiymətlər	Əslində, mağazadan iki kiloqram alma və üç litr süd aldım.				custom_0199.wav
+custom_0200	Rəqəmlər, Tarixlər və Qiymətlər	Həqiqətən də, görüşümüz martın iyirmi birində, Novruz bayramında olacaq.				custom_0200.wav
+custom_0201	Rəqəmlər, Tarixlər və Qiymətlər	Yeri gəlmişkən, binanın on beşinci mərtəbəsindən bütün şəhər görünür.				custom_0201.wav
+custom_0202	Rəqəmlər, Tarixlər və Qiymətlər	Dünən eşitdim ki, dərsin başlamasına cəmi on dəqiqə vaxt qalıb.				custom_0202.wav
+custom_0203	Rəqəmlər, Tarixlər və Qiymətlər	Aydın məsələdir ki, yeni kompüterin yaddaşı bir terabayt həcmindədir.				custom_0203.wav
+custom_0204	Rəqəmlər, Tarixlər və Qiymətlər	Bir sözlə, o, 1998-ci ildə Gəncə şəhərində anadan olub.				custom_0204.wav
+custom_0205	Rəqəmlər, Tarixlər və Qiymətlər	Bilirsinizmi, biletlərin qiyməti tələbələr üçün əlli faiz endirimlədir.				custom_0205.wav
+custom_0206	Rəqəmlər, Tarixlər və Qiymətlər	Deyilənə görə, bank hesabımdakı qalıq yüz yetmiş beş manatdır.				custom_0206.wav
+custom_0207	Rəqəmlər, Tarixlər və Qiymətlər	Məncə, bu gün havanın temperaturu müsbət iyirmi iki dərəcə olacaq.				custom_0207.wav
+custom_0208	Rəqəmlər, Tarixlər və Qiymətlər	Əslində, biz layihəni bitirmək üçün üç həftə fasiləsiz işlədik.				custom_0208.wav
+custom_0209	Rəqəmlər, Tarixlər və Qiymətlər	Həqiqətən də, hər gün ən azı səkkiz saat yatmaq sağlamlıq üçün vacibdir.				custom_0209.wav
+custom_0210	Rəqəmlər, Tarixlər və Qiymətlər	Yeri gəlmişkən, məktəbin əsas korpusunda qırx səkkiz sinif otağı var.				custom_0210.wav
+custom_0211	Rəqəmlər, Tarixlər və Qiymətlər	Dünən eşitdim ki, bu kitabın qiyməti on beş manat əlli qəpikdir.				custom_0211.wav
+custom_0212	Rəqəmlər, Tarixlər və Qiymətlər	Aydın məsələdir ki, təyyarə saat on dörddə Bakıdan İstanbula uçacaq.				custom_0212.wav
+custom_0213	Rəqəmlər, Tarixlər və Qiymətlər	Bir sözlə, bizim qrupda iyirmi dörd tələbə təhsil alır.				custom_0213.wav
+custom_0214	Rəqəmlər, Tarixlər və Qiymətlər	Bilirsinizmi, mağazadan iki kiloqram alma və üç litr süd aldım.				custom_0214.wav
+custom_0215	Rəqəmlər, Tarixlər və Qiymətlər	Deyilənə görə, görüşümüz martın iyirmi birində, Novruz bayramında olacaq.				custom_0215.wav
+custom_0216	Rəqəmlər, Tarixlər və Qiymətlər	Məncə, binanın on beşinci mərtəbəsindən bütün şəhər görünür.				custom_0216.wav
+custom_0217	Rəqəmlər, Tarixlər və Qiymətlər	Əslində, dərsin başlamasına cəmi on dəqiqə vaxt qalıb.				custom_0217.wav
+custom_0218	Rəqəmlər, Tarixlər və Qiymətlər	Həqiqətən də, yeni kompüterin yaddaşı bir terabayt həcmindədir.				custom_0218.wav
+custom_0219	Rəqəmlər, Tarixlər və Qiymətlər	Yeri gəlmişkən, o, 1998-ci ildə Gəncə şəhərində anadan olub.				custom_0219.wav
+custom_0220	Rəqəmlər, Tarixlər və Qiymətlər	Dünən eşitdim ki, biletlərin qiyməti tələbələr üçün əlli faiz endirimlədir.				custom_0220.wav
+custom_0221	Rəqəmlər, Tarixlər və Qiymətlər	Aydın məsələdir ki, bank hesabımdakı qalıq yüz yetmiş beş manatdır.				custom_0221.wav
+custom_0222	Rəqəmlər, Tarixlər və Qiymətlər	Bir sözlə, bu gün havanın temperaturu müsbət iyirmi iki dərəcə olacaq.				custom_0222.wav
+custom_0223	Rəqəmlər, Tarixlər və Qiymətlər	Bilirsinizmi, biz layihəni bitirmək üçün üç həftə fasiləsiz işlədik.				custom_0223.wav
+custom_0224	Rəqəmlər, Tarixlər və Qiymətlər	Deyilənə görə, hər gün ən azı səkkiz saat yatmaq sağlamlıq üçün vacibdir.				custom_0224.wav
+custom_0225	Rəqəmlər, Tarixlər və Qiymətlər	Məncə, məktəbin əsas korpusunda qırx səkkiz sinif otağı var.				custom_0225.wav
+custom_0226	Rəqəmlər, Tarixlər və Qiymətlər	Əslində, bu kitabın qiyməti on beş manat əlli qəpikdir.				custom_0226.wav
+custom_0227	Rəqəmlər, Tarixlər və Qiymətlər	Həqiqətən də, təyyarə saat on dörddə Bakıdan İstanbula uçacaq.				custom_0227.wav
+custom_0228	Rəqəmlər, Tarixlər və Qiymətlər	Yeri gəlmişkən, bizim qrupda iyirmi dörd tələbə təhsil alır.				custom_0228.wav
+custom_0229	Rəqəmlər, Tarixlər və Qiymətlər	Dünən eşitdim ki, mağazadan iki kiloqram alma və üç litr süd aldım.				custom_0229.wav
+custom_0230	Rəqəmlər, Tarixlər və Qiymətlər	Aydın məsələdir ki, görüşümüz martın iyirmi birində, Novruz bayramında olacaq.				custom_0230.wav
+custom_0231	Rəqəmlər, Tarixlər və Qiymətlər	Bir sözlə, binanın on beşinci mərtəbəsindən bütün şəhər görünür.				custom_0231.wav
+custom_0232	Rəqəmlər, Tarixlər və Qiymətlər	Bilirsinizmi, dərsin başlamasına cəmi on dəqiqə vaxt qalıb.				custom_0232.wav
+custom_0233	Rəqəmlər, Tarixlər və Qiymətlər	Deyilənə görə, yeni kompüterin yaddaşı bir terabayt həcmindədir.				custom_0233.wav
+custom_0234	Rəqəmlər, Tarixlər və Qiymətlər	Məncə, o, 1998-ci ildə Gəncə şəhərində anadan olub.				custom_0234.wav
+custom_0235	Rəqəmlər, Tarixlər və Qiymətlər	Əslində, biletlərin qiyməti tələbələr üçün əlli faiz endirimlədir.				custom_0235.wav
+custom_0236	Rəqəmlər, Tarixlər və Qiymətlər	Həqiqətən də, bank hesabımdakı qalıq yüz yetmiş beş manatdır.				custom_0236.wav
+custom_0237	Rəqəmlər, Tarixlər və Qiymətlər	Yeri gəlmişkən, bu gün havanın temperaturu müsbət iyirmi iki dərəcə olacaq.				custom_0237.wav
+custom_0238	Rəqəmlər, Tarixlər və Qiymətlər	Dünən eşitdim ki, biz layihəni bitirmək üçün üç həftə fasiləsiz işlədik.				custom_0238.wav
+custom_0239	Rəqəmlər, Tarixlər və Qiymətlər	Aydın məsələdir ki, hər gün ən azı səkkiz saat yatmaq sağlamlıq üçün vacibdir.				custom_0239.wav
+custom_0240	Rəqəmlər, Tarixlər və Qiymətlər	Bir sözlə, məktəbin əsas korpusunda qırx səkkiz sinif otağı var.				custom_0240.wav
+custom_0241	Rəqəmlər, Tarixlər və Qiymətlər	Bilirsinizmi, bu kitabın qiyməti on beş manat əlli qəpikdir.				custom_0241.wav
+custom_0242	Rəqəmlər, Tarixlər və Qiymətlər	Deyilənə görə, təyyarə saat on dörddə Bakıdan İstanbula uçacaq.				custom_0242.wav
+custom_0243	Rəqəmlər, Tarixlər və Qiymətlər	Məncə, bizim qrupda iyirmi dörd tələbə təhsil alır.				custom_0243.wav
+custom_0244	Rəqəmlər, Tarixlər və Qiymətlər	Əslində, mağazadan iki kiloqram alma və üç litr süd aldım.				custom_0244.wav
+custom_0245	Rəqəmlər, Tarixlər və Qiymətlər	Həqiqətən də, görüşümüz martın iyirmi birində, Novruz bayramında olacaq.				custom_0245.wav
+custom_0246	Rəqəmlər, Tarixlər və Qiymətlər	Yeri gəlmişkən, binanın on beşinci mərtəbəsindən bütün şəhər görünür.				custom_0246.wav
+custom_0247	Rəqəmlər, Tarixlər və Qiymətlər	Dünən eşitdim ki, dərsin başlamasına cəmi on dəqiqə vaxt qalıb.				custom_0247.wav
+custom_0248	Rəqəmlər, Tarixlər və Qiymətlər	Aydın məsələdir ki, yeni kompüterin yaddaşı bir terabayt həcmindədir.				custom_0248.wav
+custom_0249	Rəqəmlər, Tarixlər və Qiymətlər	Bir sözlə, o, 1998-ci ildə Gəncə şəhərində anadan olub.				custom_0249.wav
+custom_0250	Rəqəmlər, Tarixlər və Qiymətlər	Bilirsinizmi, biletlərin qiyməti tələbələr üçün əlli faiz endirimlədir.				custom_0250.wav
+custom_0251	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Ağacın budağındakı quş şən nəğmələr oxuyur.				custom_0251.wav
+custom_0252	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Qoca bağban bağçadakı qızılgülləri diqqətlə suladı.				custom_0252.wav
+custom_0253	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Yağışdan sonra göy qurşağı səmanı bəzədi.				custom_0253.wav
+custom_0254	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Dostluq və sədaqət həyatın ən qiymətli dəyərləridir.				custom_0254.wav
+custom_0255	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Qış aylarında Şahdağda xizək sürmək çox maraqlıdır.				custom_0255.wav
+custom_0256	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Gözəl şeirlər insan ruhunu həmişə təzələyir.				custom_0256.wav
+custom_0257	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Çəmənlikdəki çiçəklərin ətri ətrafa yayılmışdı.				custom_0257.wav
+custom_0258	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Qonşumuz həyətdə böyük bir qoz ağacı əkdi.				custom_0258.wav
+custom_0259	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Xəzər dənizinin dalğaları sahilə çırpılırdı.				custom_0259.wav
+custom_0260	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Şagirdlər müəllimin izah etdiyi mövzunu maraqla dinlədilər.				custom_0260.wav
+custom_0261	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Köhnə qalanın daş divarları tarixin şahididir.				custom_0261.wav
+custom_0262	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Bulağın buz kimi sərin suyu insanı gümrahlaşdırır.				custom_0262.wav
+custom_0263	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Yaz fəslində təbiət oyanır və hər yer yaşıllaşır.				custom_0263.wav
+custom_0264	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Dənizçilər tufanlı gecədə fənərin işığına doğru üzdülər.				custom_0264.wav
+custom_0265	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Uşağın gözlərində sevinc və maraq qığılcımları parlayırdı.				custom_0265.wav
+custom_0266	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Dünən eşitdim ki, ağacın budağındakı quş şən nəğmələr oxuyur.				custom_0266.wav
+custom_0267	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Aydın məsələdir ki, qoca bağban bağçadakı qızılgülləri diqqətlə suladı.				custom_0267.wav
+custom_0268	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Bir sözlə, yağışdan sonra göy qurşağı səmanı bəzədi.				custom_0268.wav
+custom_0269	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Bilirsinizmi, dostluq və sədaqət həyatın ən qiymətli dəyərləridir.				custom_0269.wav
+custom_0270	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Deyilənə görə, qış aylarında Şahdağda xizək sürmək çox maraqlıdır.				custom_0270.wav
+custom_0271	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Məncə, gözəl şeirlər insan ruhunu həmişə təzələyir.				custom_0271.wav
+custom_0272	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Əslində, çəmənlikdəki çiçəklərin ətri ətrafa yayılmışdı.				custom_0272.wav
+custom_0273	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Həqiqətən də, qonşumuz həyətdə böyük bir qoz ağacı əkdi.				custom_0273.wav
+custom_0274	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Yeri gəlmişkən, xəzər dənizinin dalğaları sahilə çırpılırdı.				custom_0274.wav
+custom_0275	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Dünən eşitdim ki, şagirdlər müəllimin izah etdiyi mövzunu maraqla dinlədilər.				custom_0275.wav
+custom_0276	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Aydın məsələdir ki, köhnə qalanın daş divarları tarixin şahididir.				custom_0276.wav
+custom_0277	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Bir sözlə, bulağın buz kimi sərin suyu insanı gümrahlaşdırır.				custom_0277.wav
+custom_0278	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Bilirsinizmi, yaz fəslində təbiət oyanır və hər yer yaşıllaşır.				custom_0278.wav
+custom_0279	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Deyilənə görə, dənizçilər tufanlı gecədə fənərin işığına doğru üzdülər.				custom_0279.wav
+custom_0280	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Məncə, uşağın gözlərində sevinc və maraq qığılcımları parlayırdı.				custom_0280.wav
+custom_0281	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Əslində, ağacın budağındakı quş şən nəğmələr oxuyur.				custom_0281.wav
+custom_0282	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Həqiqətən də, qoca bağban bağçadakı qızılgülləri diqqətlə suladı.				custom_0282.wav
+custom_0283	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Yeri gəlmişkən, yağışdan sonra göy qurşağı səmanı bəzədi.				custom_0283.wav
+custom_0284	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Dünən eşitdim ki, dostluq və sədaqət həyatın ən qiymətli dəyərləridir.				custom_0284.wav
+custom_0285	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Aydın məsələdir ki, qış aylarında Şahdağda xizək sürmək çox maraqlıdır.				custom_0285.wav
+custom_0286	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Bir sözlə, gözəl şeirlər insan ruhunu həmişə təzələyir.				custom_0286.wav
+custom_0287	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Bilirsinizmi, çəmənlikdəki çiçəklərin ətri ətrafa yayılmışdı.				custom_0287.wav
+custom_0288	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Deyilənə görə, qonşumuz həyətdə böyük bir qoz ağacı əkdi.				custom_0288.wav
+custom_0289	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Məncə, xəzər dənizinin dalğaları sahilə çırpılırdı.				custom_0289.wav
+custom_0290	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Əslində, şagirdlər müəllimin izah etdiyi mövzunu maraqla dinlədilər.				custom_0290.wav
+custom_0291	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Həqiqətən də, köhnə qalanın daş divarları tarixin şahididir.				custom_0291.wav
+custom_0292	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Yeri gəlmişkən, bulağın buz kimi sərin suyu insanı gümrahlaşdırır.				custom_0292.wav
+custom_0293	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Dünən eşitdim ki, yaz fəslində təbiət oyanır və hər yer yaşıllaşır.				custom_0293.wav
+custom_0294	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Aydın məsələdir ki, dənizçilər tufanlı gecədə fənərin işığına doğru üzdülər.				custom_0294.wav
+custom_0295	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Bir sözlə, uşağın gözlərində sevinc və maraq qığılcımları parlayırdı.				custom_0295.wav
+custom_0296	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Bilirsinizmi, ağacın budağındakı quş şən nəğmələr oxuyur.				custom_0296.wav
+custom_0297	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Deyilənə görə, qoca bağban bağçadakı qızılgülləri diqqətlə suladı.				custom_0297.wav
+custom_0298	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Məncə, yağışdan sonra göy qurşağı səmanı bəzədi.				custom_0298.wav
+custom_0299	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Əslində, dostluq və sədaqət həyatın ən qiymətli dəyərləridir.				custom_0299.wav
+custom_0300	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Həqiqətən də, qış aylarında Şahdağda xizək sürmək çox maraqlıdır.				custom_0300.wav
+custom_0301	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Yeri gəlmişkən, gözəl şeirlər insan ruhunu həmişə təzələyir.				custom_0301.wav
+custom_0302	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Dünən eşitdim ki, çəmənlikdəki çiçəklərin ətri ətrafa yayılmışdı.				custom_0302.wav
+custom_0303	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Aydın məsələdir ki, qonşumuz həyətdə böyük bir qoz ağacı əkdi.				custom_0303.wav
+custom_0304	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Bir sözlə, xəzər dənizinin dalğaları sahilə çırpılırdı.				custom_0304.wav
+custom_0305	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Bilirsinizmi, şagirdlər müəllimin izah etdiyi mövzunu maraqla dinlədilər.				custom_0305.wav
+custom_0306	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Deyilənə görə, köhnə qalanın daş divarları tarixin şahididir.				custom_0306.wav
+custom_0307	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Məncə, bulağın buz kimi sərin suyu insanı gümrahlaşdırır.				custom_0307.wav
+custom_0308	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Əslində, yaz fəslində təbiət oyanır və hər yer yaşıllaşır.				custom_0308.wav
+custom_0309	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Həqiqətən də, dənizçilər tufanlı gecədə fənərin işığına doğru üzdülər.				custom_0309.wav
+custom_0310	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Yeri gəlmişkən, uşağın gözlərində sevinc və maraq qığılcımları parlayırdı.				custom_0310.wav
+custom_0311	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Dünən eşitdim ki, ağacın budağındakı quş şən nəğmələr oxuyur.				custom_0311.wav
+custom_0312	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Aydın məsələdir ki, qoca bağban bağçadakı qızılgülləri diqqətlə suladı.				custom_0312.wav
+custom_0313	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Bir sözlə, yağışdan sonra göy qurşağı səmanı bəzədi.				custom_0313.wav
+custom_0314	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Bilirsinizmi, dostluq və sədaqət həyatın ən qiymətli dəyərləridir.				custom_0314.wav
+custom_0315	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Deyilənə görə, qış aylarında Şahdağda xizək sürmək çox maraqlıdır.				custom_0315.wav
+custom_0316	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Məncə, gözəl şeirlər insan ruhunu həmişə təzələyir.				custom_0316.wav
+custom_0317	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Əslində, çəmənlikdəki çiçəklərin ətri ətrafa yayılmışdı.				custom_0317.wav
+custom_0318	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Həqiqətən də, qonşumuz həyətdə böyük bir qoz ağacı əkdi.				custom_0318.wav
+custom_0319	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Yeri gəlmişkən, xəzər dənizinin dalğaları sahilə çırpılırdı.				custom_0319.wav
+custom_0320	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Dünən eşitdim ki, şagirdlər müəllimin izah etdiyi mövzunu maraqla dinlədilər.				custom_0320.wav
+custom_0321	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Aydın məsələdir ki, köhnə qalanın daş divarları tarixin şahididir.				custom_0321.wav
+custom_0322	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Bir sözlə, bulağın buz kimi sərin suyu insanı gümrahlaşdırır.				custom_0322.wav
+custom_0323	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Bilirsinizmi, yaz fəslində təbiət oyanır və hər yer yaşıllaşır.				custom_0323.wav
+custom_0324	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Deyilənə görə, dənizçilər tufanlı gecədə fənərin işığına doğru üzdülər.				custom_0324.wav
+custom_0325	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Məncə, uşağın gözlərində sevinc və maraq qığılcımları parlayırdı.				custom_0325.wav
+custom_0326	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Əslində, ağacın budağındakı quş şən nəğmələr oxuyur.				custom_0326.wav
+custom_0327	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Həqiqətən də, qoca bağban bağçadakı qızılgülləri diqqətlə suladı.				custom_0327.wav
+custom_0328	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Yeri gəlmişkən, yağışdan sonra göy qurşağı səmanı bəzədi.				custom_0328.wav
+custom_0329	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Dünən eşitdim ki, dostluq və sədaqət həyatın ən qiymətli dəyərləridir.				custom_0329.wav
+custom_0330	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Aydın məsələdir ki, qış aylarında Şahdağda xizək sürmək çox maraqlıdır.				custom_0330.wav
+custom_0331	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Bir sözlə, gözəl şeirlər insan ruhunu həmişə təzələyir.				custom_0331.wav
+custom_0332	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Bilirsinizmi, çəmənlikdəki çiçəklərin ətri ətrafa yayılmışdı.				custom_0332.wav
+custom_0333	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Deyilənə görə, qonşumuz həyətdə böyük bir qoz ağacı əkdi.				custom_0333.wav
+custom_0334	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Məncə, xəzər dənizinin dalğaları sahilə çırpılırdı.				custom_0334.wav
+custom_0335	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Əslində, şagirdlər müəllimin izah etdiyi mövzunu maraqla dinlədilər.				custom_0335.wav
+custom_0336	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Həqiqətən də, köhnə qalanın daş divarları tarixin şahididir.				custom_0336.wav
+custom_0337	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Yeri gəlmişkən, bulağın buz kimi sərin suyu insanı gümrahlaşdırır.				custom_0337.wav
+custom_0338	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Dünən eşitdim ki, yaz fəslində təbiət oyanır və hər yer yaşıllaşır.				custom_0338.wav
+custom_0339	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Aydın məsələdir ki, dənizçilər tufanlı gecədə fənərin işığına doğru üzdülər.				custom_0339.wav
+custom_0340	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Bir sözlə, uşağın gözlərində sevinc və maraq qığılcımları parlayırdı.				custom_0340.wav
+custom_0341	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Bilirsinizmi, ağacın budağındakı quş şən nəğmələr oxuyur.				custom_0341.wav
+custom_0342	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Deyilənə görə, qoca bağban bağçadakı qızılgülləri diqqətlə suladı.				custom_0342.wav
+custom_0343	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Məncə, yağışdan sonra göy qurşağı səmanı bəzədi.				custom_0343.wav
+custom_0344	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Əslində, dostluq və sədaqət həyatın ən qiymətli dəyərləridir.				custom_0344.wav
+custom_0345	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Həqiqətən də, qış aylarında Şahdağda xizək sürmək çox maraqlıdır.				custom_0345.wav
+custom_0346	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Yeri gəlmişkən, gözəl şeirlər insan ruhunu həmişə təzələyir.				custom_0346.wav
+custom_0347	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Dünən eşitdim ki, çəmənlikdəki çiçəklərin ətri ətrafa yayılmışdı.				custom_0347.wav
+custom_0348	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Aydın məsələdir ki, qonşumuz həyətdə böyük bir qoz ağacı əkdi.				custom_0348.wav
+custom_0349	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Bir sözlə, xəzər dənizinin dalğaları sahilə çırpılırdı.				custom_0349.wav
+custom_0350	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Bilirsinizmi, şagirdlər müəllimin izah etdiyi mövzunu maraqla dinlədilər.				custom_0350.wav
+custom_0351	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Deyilənə görə, köhnə qalanın daş divarları tarixin şahididir.				custom_0351.wav
+custom_0352	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Məncə, bulağın buz kimi sərin suyu insanı gümrahlaşdırır.				custom_0352.wav
+custom_0353	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Əslində, yaz fəslində təbiət oyanır və hər yer yaşıllaşır.				custom_0353.wav
+custom_0354	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Həqiqətən də, dənizçilər tufanlı gecədə fənərin işığına doğru üzdülər.				custom_0354.wav
+custom_0355	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Yeri gəlmişkən, uşağın gözlərində sevinc və maraq qığılcımları parlayırdı.				custom_0355.wav
+custom_0356	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Dünən eşitdim ki, ağacın budağındakı quş şən nəğmələr oxuyur.				custom_0356.wav
+custom_0357	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Aydın məsələdir ki, qoca bağban bağçadakı qızılgülləri diqqətlə suladı.				custom_0357.wav
+custom_0358	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Bir sözlə, yağışdan sonra göy qurşağı səmanı bəzədi.				custom_0358.wav
+custom_0359	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Bilirsinizmi, dostluq və sədaqət həyatın ən qiymətli dəyərləridir.				custom_0359.wav
+custom_0360	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Deyilənə görə, qış aylarında Şahdağda xizək sürmək çox maraqlıdır.				custom_0360.wav
+custom_0361	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Məncə, gözəl şeirlər insan ruhunu həmişə təzələyir.				custom_0361.wav
+custom_0362	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Əslində, çəmənlikdəki çiçəklərin ətri ətrafa yayılmışdı.				custom_0362.wav
+custom_0363	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Həqiqətən də, qonşumuz həyətdə böyük bir qoz ağacı əkdi.				custom_0363.wav
+custom_0364	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Yeri gəlmişkən, xəzər dənizinin dalğaları sahilə çırpılırdı.				custom_0364.wav
+custom_0365	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Dünən eşitdim ki, şagirdlər müəllimin izah etdiyi mövzunu maraqla dinlədilər.				custom_0365.wav
+custom_0366	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Aydın məsələdir ki, köhnə qalanın daş divarları tarixin şahididir.				custom_0366.wav
+custom_0367	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Bir sözlə, bulağın buz kimi sərin suyu insanı gümrahlaşdırır.				custom_0367.wav
+custom_0368	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Bilirsinizmi, yaz fəslində təbiət oyanır və hər yer yaşıllaşır.				custom_0368.wav
+custom_0369	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Deyilənə görə, dənizçilər tufanlı gecədə fənərin işığına doğru üzdülər.				custom_0369.wav
+custom_0370	Fonetika və Xüsusi Hərflər (ğ, x, q, ə, ş, ç)	Məncə, uşağın gözlərində sevinc və maraq qığılcımları parlayırdı.				custom_0370.wav
+custom_0371	Təhsil, Texnologiya və Universitet	Süni intellekt texnologiyaları gündəlik həyatımıza daxil olur.				custom_0371.wav
+custom_0372	Təhsil, Texnologiya və Universitet	Python proqramlaşdırma dili məlumatların təhlili üçün çox əlverişlidir.				custom_0372.wav
+custom_0373	Təhsil, Texnologiya və Universitet	Laboratoriyada yeni alqoritmin sınaqları uğurla başa çatdı.				custom_0373.wav
+custom_0374	Təhsil, Texnologiya və Universitet	Müasir neyron şəbəkələri insan səsini yüksək dəqiqliklə tanıyır.				custom_0374.wav
+custom_0375	Təhsil, Texnologiya və Universitet	Kompüter elmləri fakültəsində maraqlı mühazirələr təşkil olunur.				custom_0375.wav
+custom_0376	Təhsil, Texnologiya və Universitet	İnternet sürətinin yüksək olması onlayn dərslər üçün vacibdir.				custom_0376.wav
+custom_0377	Təhsil, Texnologiya və Universitet	Verilənlər bazasında axtarış əməliyyatı cəmi bir neçə millisaniyə çəkdi.				custom_0377.wav
+custom_0378	Təhsil, Texnologiya və Universitet	Robototexnika dərnəyində tələbələr yeni avtonom maşın hazırlayırlar.				custom_0378.wav
+custom_0379	Təhsil, Texnologiya və Universitet	Mobil tətbiq vasitəsilə ictimai nəqliyyatın hərəkətini izləmək mümkündür.				custom_0379.wav
+custom_0380	Təhsil, Texnologiya və Universitet	Bulud texnologiyaları böyük həcmli məlumatların saxlanmasını asanlaşdırır.				custom_0380.wav
+custom_0381	Təhsil, Texnologiya və Universitet	Deyilənə görə, süni intellekt texnologiyaları gündəlik həyatımıza daxil olur.				custom_0381.wav
+custom_0382	Təhsil, Texnologiya və Universitet	Məncə, python proqramlaşdırma dili məlumatların təhlili üçün çox əlverişlidir.				custom_0382.wav
+custom_0383	Təhsil, Texnologiya və Universitet	Əslində, laboratoriyada yeni alqoritmin sınaqları uğurla başa çatdı.				custom_0383.wav
+custom_0384	Təhsil, Texnologiya və Universitet	Həqiqətən də, müasir neyron şəbəkələri insan səsini yüksək dəqiqliklə tanıyır.				custom_0384.wav
+custom_0385	Təhsil, Texnologiya və Universitet	Yeri gəlmişkən, kompüter elmləri fakültəsində maraqlı mühazirələr təşkil olunur.				custom_0385.wav
+custom_0386	Təhsil, Texnologiya və Universitet	Dünən eşitdim ki, i̇nternet sürətinin yüksək olması onlayn dərslər üçün vacibdir.				custom_0386.wav
+custom_0387	Təhsil, Texnologiya və Universitet	Aydın məsələdir ki, verilənlər bazasında axtarış əməliyyatı cəmi bir neçə millisaniyə çəkdi.				custom_0387.wav
+custom_0388	Təhsil, Texnologiya və Universitet	Bir sözlə, robototexnika dərnəyində tələbələr yeni avtonom maşın hazırlayırlar.				custom_0388.wav
+custom_0389	Təhsil, Texnologiya və Universitet	Bilirsinizmi, mobil tətbiq vasitəsilə ictimai nəqliyyatın hərəkətini izləmək mümkündür.				custom_0389.wav
+custom_0390	Təhsil, Texnologiya və Universitet	Deyilənə görə, bulud texnologiyaları böyük həcmli məlumatların saxlanmasını asanlaşdırır.				custom_0390.wav
+custom_0391	Təhsil, Texnologiya və Universitet	Məncə, süni intellekt texnologiyaları gündəlik həyatımıza daxil olur.				custom_0391.wav
+custom_0392	Təhsil, Texnologiya və Universitet	Əslində, python proqramlaşdırma dili məlumatların təhlili üçün çox əlverişlidir.				custom_0392.wav
+custom_0393	Təhsil, Texnologiya və Universitet	Həqiqətən də, laboratoriyada yeni alqoritmin sınaqları uğurla başa çatdı.				custom_0393.wav
+custom_0394	Təhsil, Texnologiya və Universitet	Yeri gəlmişkən, müasir neyron şəbəkələri insan səsini yüksək dəqiqliklə tanıyır.				custom_0394.wav
+custom_0395	Təhsil, Texnologiya və Universitet	Dünən eşitdim ki, kompüter elmləri fakültəsində maraqlı mühazirələr təşkil olunur.				custom_0395.wav
+custom_0396	Təhsil, Texnologiya və Universitet	Aydın məsələdir ki, i̇nternet sürətinin yüksək olması onlayn dərslər üçün vacibdir.				custom_0396.wav
+custom_0397	Təhsil, Texnologiya və Universitet	Bir sözlə, verilənlər bazasında axtarış əməliyyatı cəmi bir neçə millisaniyə çəkdi.				custom_0397.wav
+custom_0398	Təhsil, Texnologiya və Universitet	Bilirsinizmi, robototexnika dərnəyində tələbələr yeni avtonom maşın hazırlayırlar.				custom_0398.wav
+custom_0399	Təhsil, Texnologiya və Universitet	Deyilənə görə, mobil tətbiq vasitəsilə ictimai nəqliyyatın hərəkətini izləmək mümkündür.				custom_0399.wav
+custom_0400	Təhsil, Texnologiya və Universitet	Məncə, bulud texnologiyaları böyük həcmli məlumatların saxlanmasını asanlaşdırır.				custom_0400.wav
+custom_0401	Təhsil, Texnologiya və Universitet	Əslində, süni intellekt texnologiyaları gündəlik həyatımıza daxil olur.				custom_0401.wav
+custom_0402	Təhsil, Texnologiya və Universitet	Həqiqətən də, python proqramlaşdırma dili məlumatların təhlili üçün çox əlverişlidir.				custom_0402.wav
+custom_0403	Təhsil, Texnologiya və Universitet	Yeri gəlmişkən, laboratoriyada yeni alqoritmin sınaqları uğurla başa çatdı.				custom_0403.wav
+custom_0404	Təhsil, Texnologiya və Universitet	Dünən eşitdim ki, müasir neyron şəbəkələri insan səsini yüksək dəqiqliklə tanıyır.				custom_0404.wav
+custom_0405	Təhsil, Texnologiya və Universitet	Aydın məsələdir ki, kompüter elmləri fakültəsində maraqlı mühazirələr təşkil olunur.				custom_0405.wav
+custom_0406	Təhsil, Texnologiya və Universitet	Bir sözlə, i̇nternet sürətinin yüksək olması onlayn dərslər üçün vacibdir.				custom_0406.wav
+custom_0407	Təhsil, Texnologiya və Universitet	Bilirsinizmi, verilənlər bazasında axtarış əməliyyatı cəmi bir neçə millisaniyə çəkdi.				custom_0407.wav
+custom_0408	Təhsil, Texnologiya və Universitet	Deyilənə görə, robototexnika dərnəyində tələbələr yeni avtonom maşın hazırlayırlar.				custom_0408.wav
+custom_0409	Təhsil, Texnologiya və Universitet	Məncə, mobil tətbiq vasitəsilə ictimai nəqliyyatın hərəkətini izləmək mümkündür.				custom_0409.wav
+custom_0410	Təhsil, Texnologiya və Universitet	Əslində, bulud texnologiyaları böyük həcmli məlumatların saxlanmasını asanlaşdırır.				custom_0410.wav
+custom_0411	Təhsil, Texnologiya və Universitet	Həqiqətən də, süni intellekt texnologiyaları gündəlik həyatımıza daxil olur.				custom_0411.wav
+custom_0412	Təhsil, Texnologiya və Universitet	Yeri gəlmişkən, python proqramlaşdırma dili məlumatların təhlili üçün çox əlverişlidir.				custom_0412.wav
+custom_0413	Təhsil, Texnologiya və Universitet	Dünən eşitdim ki, laboratoriyada yeni alqoritmin sınaqları uğurla başa çatdı.				custom_0413.wav
+custom_0414	Təhsil, Texnologiya və Universitet	Aydın məsələdir ki, müasir neyron şəbəkələri insan səsini yüksək dəqiqliklə tanıyır.				custom_0414.wav
+custom_0415	Təhsil, Texnologiya və Universitet	Bir sözlə, kompüter elmləri fakültəsində maraqlı mühazirələr təşkil olunur.				custom_0415.wav
+custom_0416	Təhsil, Texnologiya və Universitet	Bilirsinizmi, i̇nternet sürətinin yüksək olması onlayn dərslər üçün vacibdir.				custom_0416.wav
+custom_0417	Təhsil, Texnologiya və Universitet	Deyilənə görə, verilənlər bazasında axtarış əməliyyatı cəmi bir neçə millisaniyə çəkdi.				custom_0417.wav
+custom_0418	Təhsil, Texnologiya və Universitet	Məncə, robototexnika dərnəyində tələbələr yeni avtonom maşın hazırlayırlar.				custom_0418.wav
+custom_0419	Təhsil, Texnologiya və Universitet	Əslində, mobil tətbiq vasitəsilə ictimai nəqliyyatın hərəkətini izləmək mümkündür.				custom_0419.wav
+custom_0420	Təhsil, Texnologiya və Universitet	Həqiqətən də, bulud texnologiyaları böyük həcmli məlumatların saxlanmasını asanlaşdırır.				custom_0420.wav
+custom_0421	Təhsil, Texnologiya və Universitet	Yeri gəlmişkən, süni intellekt texnologiyaları gündəlik həyatımıza daxil olur.				custom_0421.wav
+custom_0422	Təhsil, Texnologiya və Universitet	Dünən eşitdim ki, python proqramlaşdırma dili məlumatların təhlili üçün çox əlverişlidir.				custom_0422.wav
+custom_0423	Təhsil, Texnologiya və Universitet	Aydın məsələdir ki, laboratoriyada yeni alqoritmin sınaqları uğurla başa çatdı.				custom_0423.wav
+custom_0424	Təhsil, Texnologiya və Universitet	Bir sözlə, müasir neyron şəbəkələri insan səsini yüksək dəqiqliklə tanıyır.				custom_0424.wav
+custom_0425	Təhsil, Texnologiya və Universitet	Bilirsinizmi, kompüter elmləri fakültəsində maraqlı mühazirələr təşkil olunur.				custom_0425.wav
+custom_0426	Təhsil, Texnologiya və Universitet	Deyilənə görə, i̇nternet sürətinin yüksək olması onlayn dərslər üçün vacibdir.				custom_0426.wav
+custom_0427	Təhsil, Texnologiya və Universitet	Məncə, verilənlər bazasında axtarış əməliyyatı cəmi bir neçə millisaniyə çəkdi.				custom_0427.wav
+custom_0428	Təhsil, Texnologiya və Universitet	Əslində, robototexnika dərnəyində tələbələr yeni avtonom maşın hazırlayırlar.				custom_0428.wav
+custom_0429	Təhsil, Texnologiya və Universitet	Həqiqətən də, mobil tətbiq vasitəsilə ictimai nəqliyyatın hərəkətini izləmək mümkündür.				custom_0429.wav
+custom_0430	Təhsil, Texnologiya və Universitet	Yeri gəlmişkən, bulud texnologiyaları böyük həcmli məlumatların saxlanmasını asanlaşdırır.				custom_0430.wav
+custom_0431	Təhsil, Texnologiya və Universitet	Dünən eşitdim ki, süni intellekt texnologiyaları gündəlik həyatımıza daxil olur.				custom_0431.wav
+custom_0432	Təhsil, Texnologiya və Universitet	Aydın məsələdir ki, python proqramlaşdırma dili məlumatların təhlili üçün çox əlverişlidir.				custom_0432.wav
+custom_0433	Təhsil, Texnologiya və Universitet	Bir sözlə, laboratoriyada yeni alqoritmin sınaqları uğurla başa çatdı.				custom_0433.wav
+custom_0434	Təhsil, Texnologiya və Universitet	Bilirsinizmi, müasir neyron şəbəkələri insan səsini yüksək dəqiqliklə tanıyır.				custom_0434.wav
+custom_0435	Təhsil, Texnologiya və Universitet	Deyilənə görə, kompüter elmləri fakültəsində maraqlı mühazirələr təşkil olunur.				custom_0435.wav
+custom_0436	Təhsil, Texnologiya və Universitet	Məncə, i̇nternet sürətinin yüksək olması onlayn dərslər üçün vacibdir.				custom_0436.wav
+custom_0437	Təhsil, Texnologiya və Universitet	Əslində, verilənlər bazasında axtarış əməliyyatı cəmi bir neçə millisaniyə çəkdi.				custom_0437.wav
+custom_0438	Təhsil, Texnologiya və Universitet	Həqiqətən də, robototexnika dərnəyində tələbələr yeni avtonom maşın hazırlayırlar.				custom_0438.wav
+custom_0439	Təhsil, Texnologiya və Universitet	Yeri gəlmişkən, mobil tətbiq vasitəsilə ictimai nəqliyyatın hərəkətini izləmək mümkündür.				custom_0439.wav
+custom_0440	Təhsil, Texnologiya və Universitet	Dünən eşitdim ki, bulud texnologiyaları böyük həcmli məlumatların saxlanmasını asanlaşdırır.				custom_0440.wav
+custom_0441	Təhsil, Texnologiya və Universitet	Aydın məsələdir ki, süni intellekt texnologiyaları gündəlik həyatımıza daxil olur.				custom_0441.wav
+custom_0442	Təhsil, Texnologiya və Universitet	Bir sözlə, python proqramlaşdırma dili məlumatların təhlili üçün çox əlverişlidir.				custom_0442.wav
+custom_0443	Təhsil, Texnologiya və Universitet	Bilirsinizmi, laboratoriyada yeni alqoritmin sınaqları uğurla başa çatdı.				custom_0443.wav
+custom_0444	Təhsil, Texnologiya və Universitet	Deyilənə görə, müasir neyron şəbəkələri insan səsini yüksək dəqiqliklə tanıyır.				custom_0444.wav
+custom_0445	Təhsil, Texnologiya və Universitet	Məncə, kompüter elmləri fakültəsində maraqlı mühazirələr təşkil olunur.				custom_0445.wav
+custom_0446	Təhsil, Texnologiya və Universitet	Əslində, i̇nternet sürətinin yüksək olması onlayn dərslər üçün vacibdir.				custom_0446.wav
+custom_0447	Təhsil, Texnologiya və Universitet	Həqiqətən də, verilənlər bazasında axtarış əməliyyatı cəmi bir neçə millisaniyə çəkdi.				custom_0447.wav
+custom_0448	Təhsil, Texnologiya və Universitet	Yeri gəlmişkən, robototexnika dərnəyində tələbələr yeni avtonom maşın hazırlayırlar.				custom_0448.wav
+custom_0449	Təhsil, Texnologiya və Universitet	Dünən eşitdim ki, mobil tətbiq vasitəsilə ictimai nəqliyyatın hərəkətini izləmək mümkündür.				custom_0449.wav
+custom_0450	Təhsil, Texnologiya və Universitet	Aydın məsələdir ki, bulud texnologiyaları böyük həcmli məlumatların saxlanmasını asanlaşdırır.				custom_0450.wav

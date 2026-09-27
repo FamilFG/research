@@ -1,0 +1,453 @@
+СПИСОК ПРЕДЛОЖЕНИЙ ДЛЯ ЗАПИСИ ГОЛОСОМ (450 фраз)
+============================================================
+
+[custom_0001] Salam, bu gün hava çox gözəldir, gəl gəzməyə çıxaq.
+[custom_0002] Axşam yeməyinə nə bişirək, bəlkə dolma hazırlayaq?
+[custom_0003] Zəhmət olmasa mənə bir stəkan ilıq su verə bilərsən?
+[custom_0004] Səhər tezdən durub dərslərimi təkrar etməliyəm.
+[custom_0005] Sabah saat doqquzda universitetin həyətində görüşərik.
+[custom_0006] Avtobus dayanacaqda çox gözləməli oldu, tıxac var idi.
+[custom_0007] Bu gün dəniz kənarında gəzinti üçün əla havadır.
+[custom_0008] Uşaqlar həyətdə futbol oynayır və səs-küy salırlar.
+[custom_0009] Mən bazardan təzə meyvə və tərəvəz almağa gedirəm.
+[custom_0010] Telefonumun enerjisi bitir, zaryatka alətini verə bilərsən?
+[custom_0011] Dostumla şəhərin mərkəzindəki yeni kafedə çay içdik.
+[custom_0012] Bu axşam maraqlı bir film izləmək istəyirəm.
+[custom_0013] Yolu keçərkən işıqforun yaşıl işığını gözləmək lazımdır.
+[custom_0014] Anam mənə çox dadlı şorba bişirib, gəl sən də ye.
+[custom_0015] Bazar günü ailəlikcə kəndə, babamgilə gedəcəyik.
+[custom_0016] İmtahana hazırlaşmaq üçün bütün gecəni oyaq qaldım.
+[custom_0017] Kitabxanada səssizlik qaydalarına riayət etmək vacibdir.
+[custom_0018] Səninlə söhbət etmək mənə həmişə xoş əhval-ruhiyyə gətirir.
+[custom_0019] Bu köynəyin rəngi sənə çox yaraşır, hardan almısan?
+[custom_0020] Gələn həftə dostumun ad gününü qeyd etməyə hazırlaşırıq.
+[custom_0021] Məncə, salam, bu gün hava çox gözəldir, gəl gəzməyə çıxaq.
+[custom_0022] Əslində, axşam yeməyinə nə bişirək, bəlkə dolma hazırlayaq?
+[custom_0023] Həqiqətən də, zəhmət olmasa mənə bir stəkan ilıq su verə bilərsən?
+[custom_0024] Yeri gəlmişkən, səhər tezdən durub dərslərimi təkrar etməliyəm.
+[custom_0025] Dünən eşitdim ki, sabah saat doqquzda universitetin həyətində görüşərik.
+[custom_0026] Aydın məsələdir ki, avtobus dayanacaqda çox gözləməli oldu, tıxac var idi.
+[custom_0027] Bir sözlə, bu gün dəniz kənarında gəzinti üçün əla havadır.
+[custom_0028] Bilirsinizmi, uşaqlar həyətdə futbol oynayır və səs-küy salırlar.
+[custom_0029] Deyilənə görə, mən bazardan təzə meyvə və tərəvəz almağa gedirəm.
+[custom_0030] Məncə, telefonumun enerjisi bitir, zaryatka alətini verə bilərsən?
+[custom_0031] Əslində, dostumla şəhərin mərkəzindəki yeni kafedə çay içdik.
+[custom_0032] Həqiqətən də, bu axşam maraqlı bir film izləmək istəyirəm.
+[custom_0033] Yeri gəlmişkən, yolu keçərkən işıqforun yaşıl işığını gözləmək lazımdır.
+[custom_0034] Dünən eşitdim ki, anam mənə çox dadlı şorba bişirib, gəl sən də ye.
+[custom_0035] Aydın məsələdir ki, bazar günü ailəlikcə kəndə, babamgilə gedəcəyik.
+[custom_0036] Bir sözlə, i̇mtahana hazırlaşmaq üçün bütün gecəni oyaq qaldım.
+[custom_0037] Bilirsinizmi, kitabxanada səssizlik qaydalarına riayət etmək vacibdir.
+[custom_0038] Deyilənə görə, səninlə söhbət etmək mənə həmişə xoş əhval-ruhiyyə gətirir.
+[custom_0039] Məncə, bu köynəyin rəngi sənə çox yaraşır, hardan almısan?
+[custom_0040] Əslində, gələn həftə dostumun ad gününü qeyd etməyə hazırlaşırıq.
+[custom_0041] Həqiqətən də, salam, bu gün hava çox gözəldir, gəl gəzməyə çıxaq.
+[custom_0042] Yeri gəlmişkən, axşam yeməyinə nə bişirək, bəlkə dolma hazırlayaq?
+[custom_0043] Dünən eşitdim ki, zəhmət olmasa mənə bir stəkan ilıq su verə bilərsən?
+[custom_0044] Aydın məsələdir ki, səhər tezdən durub dərslərimi təkrar etməliyəm.
+[custom_0045] Bir sözlə, sabah saat doqquzda universitetin həyətində görüşərik.
+[custom_0046] Bilirsinizmi, avtobus dayanacaqda çox gözləməli oldu, tıxac var idi.
+[custom_0047] Deyilənə görə, bu gün dəniz kənarında gəzinti üçün əla havadır.
+[custom_0048] Məncə, uşaqlar həyətdə futbol oynayır və səs-küy salırlar.
+[custom_0049] Əslində, mən bazardan təzə meyvə və tərəvəz almağa gedirəm.
+[custom_0050] Həqiqətən də, telefonumun enerjisi bitir, zaryatka alətini verə bilərsən?
+[custom_0051] Yeri gəlmişkən, dostumla şəhərin mərkəzindəki yeni kafedə çay içdik.
+[custom_0052] Dünən eşitdim ki, bu axşam maraqlı bir film izləmək istəyirəm.
+[custom_0053] Aydın məsələdir ki, yolu keçərkən işıqforun yaşıl işığını gözləmək lazımdır.
+[custom_0054] Bir sözlə, anam mənə çox dadlı şorba bişirib, gəl sən də ye.
+[custom_0055] Bilirsinizmi, bazar günü ailəlikcə kəndə, babamgilə gedəcəyik.
+[custom_0056] Deyilənə görə, i̇mtahana hazırlaşmaq üçün bütün gecəni oyaq qaldım.
+[custom_0057] Məncə, kitabxanada səssizlik qaydalarına riayət etmək vacibdir.
+[custom_0058] Əslində, səninlə söhbət etmək mənə həmişə xoş əhval-ruhiyyə gətirir.
+[custom_0059] Həqiqətən də, bu köynəyin rəngi sənə çox yaraşır, hardan almısan?
+[custom_0060] Yeri gəlmişkən, gələn həftə dostumun ad gününü qeyd etməyə hazırlaşırıq.
+[custom_0061] Dünən eşitdim ki, salam, bu gün hava çox gözəldir, gəl gəzməyə çıxaq.
+[custom_0062] Aydın məsələdir ki, axşam yeməyinə nə bişirək, bəlkə dolma hazırlayaq?
+[custom_0063] Bir sözlə, zəhmət olmasa mənə bir stəkan ilıq su verə bilərsən?
+[custom_0064] Bilirsinizmi, səhər tezdən durub dərslərimi təkrar etməliyəm.
+[custom_0065] Deyilənə görə, sabah saat doqquzda universitetin həyətində görüşərik.
+[custom_0066] Məncə, avtobus dayanacaqda çox gözləməli oldu, tıxac var idi.
+[custom_0067] Əslində, bu gün dəniz kənarında gəzinti üçün əla havadır.
+[custom_0068] Həqiqətən də, uşaqlar həyətdə futbol oynayır və səs-küy salırlar.
+[custom_0069] Yeri gəlmişkən, mən bazardan təzə meyvə və tərəvəz almağa gedirəm.
+[custom_0070] Dünən eşitdim ki, telefonumun enerjisi bitir, zaryatka alətini verə bilərsən?
+[custom_0071] Aydın məsələdir ki, dostumla şəhərin mərkəzindəki yeni kafedə çay içdik.
+[custom_0072] Bir sözlə, bu axşam maraqlı bir film izləmək istəyirəm.
+[custom_0073] Bilirsinizmi, yolu keçərkən işıqforun yaşıl işığını gözləmək lazımdır.
+[custom_0074] Deyilənə görə, anam mənə çox dadlı şorba bişirib, gəl sən də ye.
+[custom_0075] Məncə, bazar günü ailəlikcə kəndə, babamgilə gedəcəyik.
+[custom_0076] Əslində, i̇mtahana hazırlaşmaq üçün bütün gecəni oyaq qaldım.
+[custom_0077] Həqiqətən də, kitabxanada səssizlik qaydalarına riayət etmək vacibdir.
+[custom_0078] Yeri gəlmişkən, səninlə söhbət etmək mənə həmişə xoş əhval-ruhiyyə gətirir.
+[custom_0079] Dünən eşitdim ki, bu köynəyin rəngi sənə çox yaraşır, hardan almısan?
+[custom_0080] Aydın məsələdir ki, gələn həftə dostumun ad gününü qeyd etməyə hazırlaşırıq.
+[custom_0081] Bir sözlə, salam, bu gün hava çox gözəldir, gəl gəzməyə çıxaq.
+[custom_0082] Bilirsinizmi, axşam yeməyinə nə bişirək, bəlkə dolma hazırlayaq?
+[custom_0083] Deyilənə görə, zəhmət olmasa mənə bir stəkan ilıq su verə bilərsən?
+[custom_0084] Məncə, səhər tezdən durub dərslərimi təkrar etməliyəm.
+[custom_0085] Əslində, sabah saat doqquzda universitetin həyətində görüşərik.
+[custom_0086] Həqiqətən də, avtobus dayanacaqda çox gözləməli oldu, tıxac var idi.
+[custom_0087] Yeri gəlmişkən, bu gün dəniz kənarında gəzinti üçün əla havadır.
+[custom_0088] Dünən eşitdim ki, uşaqlar həyətdə futbol oynayır və səs-küy salırlar.
+[custom_0089] Aydın məsələdir ki, mən bazardan təzə meyvə və tərəvəz almağa gedirəm.
+[custom_0090] Bir sözlə, telefonumun enerjisi bitir, zaryatka alətini verə bilərsən?
+[custom_0091] Bilirsinizmi, dostumla şəhərin mərkəzindəki yeni kafedə çay içdik.
+[custom_0092] Deyilənə görə, bu axşam maraqlı bir film izləmək istəyirəm.
+[custom_0093] Məncə, yolu keçərkən işıqforun yaşıl işığını gözləmək lazımdır.
+[custom_0094] Əslində, anam mənə çox dadlı şorba bişirib, gəl sən də ye.
+[custom_0095] Həqiqətən də, bazar günü ailəlikcə kəndə, babamgilə gedəcəyik.
+[custom_0096] Yeri gəlmişkən, i̇mtahana hazırlaşmaq üçün bütün gecəni oyaq qaldım.
+[custom_0097] Dünən eşitdim ki, kitabxanada səssizlik qaydalarına riayət etmək vacibdir.
+[custom_0098] Aydın məsələdir ki, səninlə söhbət etmək mənə həmişə xoş əhval-ruhiyyə gətirir.
+[custom_0099] Bir sözlə, bu köynəyin rəngi sənə çox yaraşır, hardan almısan?
+[custom_0100] Bilirsinizmi, gələn həftə dostumun ad gününü qeyd etməyə hazırlaşırıq.
+[custom_0101] Deyilənə görə, salam, bu gün hava çox gözəldir, gəl gəzməyə çıxaq.
+[custom_0102] Məncə, axşam yeməyinə nə bişirək, bəlkə dolma hazırlayaq?
+[custom_0103] Əslində, zəhmət olmasa mənə bir stəkan ilıq su verə bilərsən?
+[custom_0104] Həqiqətən də, səhər tezdən durub dərslərimi təkrar etməliyəm.
+[custom_0105] Yeri gəlmişkən, sabah saat doqquzda universitetin həyətində görüşərik.
+[custom_0106] Dünən eşitdim ki, avtobus dayanacaqda çox gözləməli oldu, tıxac var idi.
+[custom_0107] Aydın məsələdir ki, bu gün dəniz kənarında gəzinti üçün əla havadır.
+[custom_0108] Bir sözlə, uşaqlar həyətdə futbol oynayır və səs-küy salırlar.
+[custom_0109] Bilirsinizmi, mən bazardan təzə meyvə və tərəvəz almağa gedirəm.
+[custom_0110] Deyilənə görə, telefonumun enerjisi bitir, zaryatka alətini verə bilərsən?
+[custom_0111] Məncə, dostumla şəhərin mərkəzindəki yeni kafedə çay içdik.
+[custom_0112] Əslində, bu axşam maraqlı bir film izləmək istəyirəm.
+[custom_0113] Həqiqətən də, yolu keçərkən işıqforun yaşıl işığını gözləmək lazımdır.
+[custom_0114] Yeri gəlmişkən, anam mənə çox dadlı şorba bişirib, gəl sən də ye.
+[custom_0115] Dünən eşitdim ki, bazar günü ailəlikcə kəndə, babamgilə gedəcəyik.
+[custom_0116] Aydın məsələdir ki, i̇mtahana hazırlaşmaq üçün bütün gecəni oyaq qaldım.
+[custom_0117] Bir sözlə, kitabxanada səssizlik qaydalarına riayət etmək vacibdir.
+[custom_0118] Bilirsinizmi, səninlə söhbət etmək mənə həmişə xoş əhval-ruhiyyə gətirir.
+[custom_0119] Deyilənə görə, bu köynəyin rəngi sənə çox yaraşır, hardan almısan?
+[custom_0120] Məncə, gələn həftə dostumun ad gününü qeyd etməyə hazırlaşırıq.
+[custom_0121] Əslində, salam, bu gün hava çox gözəldir, gəl gəzməyə çıxaq.
+[custom_0122] Həqiqətən də, axşam yeməyinə nə bişirək, bəlkə dolma hazırlayaq?
+[custom_0123] Yeri gəlmişkən, zəhmət olmasa mənə bir stəkan ilıq su verə bilərsən?
+[custom_0124] Dünən eşitdim ki, səhər tezdən durub dərslərimi təkrar etməliyəm.
+[custom_0125] Aydın məsələdir ki, sabah saat doqquzda universitetin həyətində görüşərik.
+[custom_0126] Bir sözlə, avtobus dayanacaqda çox gözləməli oldu, tıxac var idi.
+[custom_0127] Bilirsinizmi, bu gün dəniz kənarında gəzinti üçün əla havadır.
+[custom_0128] Deyilənə görə, uşaqlar həyətdə futbol oynayır və səs-küy salırlar.
+[custom_0129] Məncə, mən bazardan təzə meyvə və tərəvəz almağa gedirəm.
+[custom_0130] Əslində, telefonumun enerjisi bitir, zaryatka alətini verə bilərsən?
+[custom_0131] Həqiqətən də, dostumla şəhərin mərkəzindəki yeni kafedə çay içdik.
+[custom_0132] Yeri gəlmişkən, bu axşam maraqlı bir film izləmək istəyirəm.
+[custom_0133] Dünən eşitdim ki, yolu keçərkən işıqforun yaşıl işığını gözləmək lazımdır.
+[custom_0134] Aydın məsələdir ki, anam mənə çox dadlı şorba bişirib, gəl sən də ye.
+[custom_0135] Bir sözlə, bazar günü ailəlikcə kəndə, babamgilə gedəcəyik.
+[custom_0136] Bilirsinizmi, i̇mtahana hazırlaşmaq üçün bütün gecəni oyaq qaldım.
+[custom_0137] Deyilənə görə, kitabxanada səssizlik qaydalarına riayət etmək vacibdir.
+[custom_0138] Məncə, səninlə söhbət etmək mənə həmişə xoş əhval-ruhiyyə gətirir.
+[custom_0139] Əslində, bu köynəyin rəngi sənə çox yaraşır, hardan almısan?
+[custom_0140] Həqiqətən də, gələn həftə dostumun ad gününü qeyd etməyə hazırlaşırıq.
+[custom_0141] Yeri gəlmişkən, salam, bu gün hava çox gözəldir, gəl gəzməyə çıxaq.
+[custom_0142] Dünən eşitdim ki, axşam yeməyinə nə bişirək, bəlkə dolma hazırlayaq?
+[custom_0143] Aydın məsələdir ki, zəhmət olmasa mənə bir stəkan ilıq su verə bilərsən?
+[custom_0144] Bir sözlə, səhər tezdən durub dərslərimi təkrar etməliyəm.
+[custom_0145] Bilirsinizmi, sabah saat doqquzda universitetin həyətində görüşərik.
+[custom_0146] Deyilənə görə, avtobus dayanacaqda çox gözləməli oldu, tıxac var idi.
+[custom_0147] Məncə, bu gün dəniz kənarında gəzinti üçün əla havadır.
+[custom_0148] Əslində, uşaqlar həyətdə futbol oynayır və səs-küy salırlar.
+[custom_0149] Həqiqətən də, mən bazardan təzə meyvə və tərəvəz almağa gedirəm.
+[custom_0150] Yeri gəlmişkən, telefonumun enerjisi bitir, zaryatka alətini verə bilərsən?
+[custom_0151] Bu kitabın qiyməti on beş manat əlli qəpikdir.
+[custom_0152] Təyyarə saat on dörddə Bakıdan İstanbula uçacaq.
+[custom_0153] Bizim qrupda iyirmi dörd tələbə təhsil alır.
+[custom_0154] Mağazadan iki kiloqram alma və üç litr süd aldım.
+[custom_0155] Görüşümüz martın iyirmi birində, Novruz bayramında olacaq.
+[custom_0156] Binanın on beşinci mərtəbəsindən bütün şəhər görünür.
+[custom_0157] Dərsin başlamasına cəmi on dəqiqə vaxt qalıb.
+[custom_0158] Yeni kompüterin yaddaşı bir terabayt həcmindədir.
+[custom_0159] O, 1998-ci ildə Gəncə şəhərində anadan olub.
+[custom_0160] Biletlərin qiyməti tələbələr üçün əlli faiz endirimlədir.
+[custom_0161] Bank hesabımdakı qalıq yüz yetmiş beş manatdır.
+[custom_0162] Bu gün havanın temperaturu müsbət iyirmi iki dərəcə olacaq.
+[custom_0163] Biz layihəni bitirmək üçün üç həftə fasiləsiz işlədik.
+[custom_0164] Hər gün ən azı səkkiz saat yatmaq sağlamlıq üçün vacibdir.
+[custom_0165] Məktəbin əsas korpusunda qırx səkkiz sinif otağı var.
+[custom_0166] Dünən eşitdim ki, bu kitabın qiyməti on beş manat əlli qəpikdir.
+[custom_0167] Aydın məsələdir ki, təyyarə saat on dörddə Bakıdan İstanbula uçacaq.
+[custom_0168] Bir sözlə, bizim qrupda iyirmi dörd tələbə təhsil alır.
+[custom_0169] Bilirsinizmi, mağazadan iki kiloqram alma və üç litr süd aldım.
+[custom_0170] Deyilənə görə, görüşümüz martın iyirmi birində, Novruz bayramında olacaq.
+[custom_0171] Məncə, binanın on beşinci mərtəbəsindən bütün şəhər görünür.
+[custom_0172] Əslində, dərsin başlamasına cəmi on dəqiqə vaxt qalıb.
+[custom_0173] Həqiqətən də, yeni kompüterin yaddaşı bir terabayt həcmindədir.
+[custom_0174] Yeri gəlmişkən, o, 1998-ci ildə Gəncə şəhərində anadan olub.
+[custom_0175] Dünən eşitdim ki, biletlərin qiyməti tələbələr üçün əlli faiz endirimlədir.
+[custom_0176] Aydın məsələdir ki, bank hesabımdakı qalıq yüz yetmiş beş manatdır.
+[custom_0177] Bir sözlə, bu gün havanın temperaturu müsbət iyirmi iki dərəcə olacaq.
+[custom_0178] Bilirsinizmi, biz layihəni bitirmək üçün üç həftə fasiləsiz işlədik.
+[custom_0179] Deyilənə görə, hər gün ən azı səkkiz saat yatmaq sağlamlıq üçün vacibdir.
+[custom_0180] Məncə, məktəbin əsas korpusunda qırx səkkiz sinif otağı var.
+[custom_0181] Əslində, bu kitabın qiyməti on beş manat əlli qəpikdir.
+[custom_0182] Həqiqətən də, təyyarə saat on dörddə Bakıdan İstanbula uçacaq.
+[custom_0183] Yeri gəlmişkən, bizim qrupda iyirmi dörd tələbə təhsil alır.
+[custom_0184] Dünən eşitdim ki, mağazadan iki kiloqram alma və üç litr süd aldım.
+[custom_0185] Aydın məsələdir ki, görüşümüz martın iyirmi birində, Novruz bayramında olacaq.
+[custom_0186] Bir sözlə, binanın on beşinci mərtəbəsindən bütün şəhər görünür.
+[custom_0187] Bilirsinizmi, dərsin başlamasına cəmi on dəqiqə vaxt qalıb.
+[custom_0188] Deyilənə görə, yeni kompüterin yaddaşı bir terabayt həcmindədir.
+[custom_0189] Məncə, o, 1998-ci ildə Gəncə şəhərində anadan olub.
+[custom_0190] Əslində, biletlərin qiyməti tələbələr üçün əlli faiz endirimlədir.
+[custom_0191] Həqiqətən də, bank hesabımdakı qalıq yüz yetmiş beş manatdır.
+[custom_0192] Yeri gəlmişkən, bu gün havanın temperaturu müsbət iyirmi iki dərəcə olacaq.
+[custom_0193] Dünən eşitdim ki, biz layihəni bitirmək üçün üç həftə fasiləsiz işlədik.
+[custom_0194] Aydın məsələdir ki, hər gün ən azı səkkiz saat yatmaq sağlamlıq üçün vacibdir.
+[custom_0195] Bir sözlə, məktəbin əsas korpusunda qırx səkkiz sinif otağı var.
+[custom_0196] Bilirsinizmi, bu kitabın qiyməti on beş manat əlli qəpikdir.
+[custom_0197] Deyilənə görə, təyyarə saat on dörddə Bakıdan İstanbula uçacaq.
+[custom_0198] Məncə, bizim qrupda iyirmi dörd tələbə təhsil alır.
+[custom_0199] Əslində, mağazadan iki kiloqram alma və üç litr süd aldım.
+[custom_0200] Həqiqətən də, görüşümüz martın iyirmi birində, Novruz bayramında olacaq.
+[custom_0201] Yeri gəlmişkən, binanın on beşinci mərtəbəsindən bütün şəhər görünür.
+[custom_0202] Dünən eşitdim ki, dərsin başlamasına cəmi on dəqiqə vaxt qalıb.
+[custom_0203] Aydın məsələdir ki, yeni kompüterin yaddaşı bir terabayt həcmindədir.
+[custom_0204] Bir sözlə, o, 1998-ci ildə Gəncə şəhərində anadan olub.
+[custom_0205] Bilirsinizmi, biletlərin qiyməti tələbələr üçün əlli faiz endirimlədir.
+[custom_0206] Deyilənə görə, bank hesabımdakı qalıq yüz yetmiş beş manatdır.
+[custom_0207] Məncə, bu gün havanın temperaturu müsbət iyirmi iki dərəcə olacaq.
+[custom_0208] Əslində, biz layihəni bitirmək üçün üç həftə fasiləsiz işlədik.
+[custom_0209] Həqiqətən də, hər gün ən azı səkkiz saat yatmaq sağlamlıq üçün vacibdir.
+[custom_0210] Yeri gəlmişkən, məktəbin əsas korpusunda qırx səkkiz sinif otağı var.
+[custom_0211] Dünən eşitdim ki, bu kitabın qiyməti on beş manat əlli qəpikdir.
+[custom_0212] Aydın məsələdir ki, təyyarə saat on dörddə Bakıdan İstanbula uçacaq.
+[custom_0213] Bir sözlə, bizim qrupda iyirmi dörd tələbə təhsil alır.
+[custom_0214] Bilirsinizmi, mağazadan iki kiloqram alma və üç litr süd aldım.
+[custom_0215] Deyilənə görə, görüşümüz martın iyirmi birində, Novruz bayramında olacaq.
+[custom_0216] Məncə, binanın on beşinci mərtəbəsindən bütün şəhər görünür.
+[custom_0217] Əslində, dərsin başlamasına cəmi on dəqiqə vaxt qalıb.
+[custom_0218] Həqiqətən də, yeni kompüterin yaddaşı bir terabayt həcmindədir.
+[custom_0219] Yeri gəlmişkən, o, 1998-ci ildə Gəncə şəhərində anadan olub.
+[custom_0220] Dünən eşitdim ki, biletlərin qiyməti tələbələr üçün əlli faiz endirimlədir.
+[custom_0221] Aydın məsələdir ki, bank hesabımdakı qalıq yüz yetmiş beş manatdır.
+[custom_0222] Bir sözlə, bu gün havanın temperaturu müsbət iyirmi iki dərəcə olacaq.
+[custom_0223] Bilirsinizmi, biz layihəni bitirmək üçün üç həftə fasiləsiz işlədik.
+[custom_0224] Deyilənə görə, hər gün ən azı səkkiz saat yatmaq sağlamlıq üçün vacibdir.
+[custom_0225] Məncə, məktəbin əsas korpusunda qırx səkkiz sinif otağı var.
+[custom_0226] Əslində, bu kitabın qiyməti on beş manat əlli qəpikdir.
+[custom_0227] Həqiqətən də, təyyarə saat on dörddə Bakıdan İstanbula uçacaq.
+[custom_0228] Yeri gəlmişkən, bizim qrupda iyirmi dörd tələbə təhsil alır.
+[custom_0229] Dünən eşitdim ki, mağazadan iki kiloqram alma və üç litr süd aldım.
+[custom_0230] Aydın məsələdir ki, görüşümüz martın iyirmi birində, Novruz bayramında olacaq.
+[custom_0231] Bir sözlə, binanın on beşinci mərtəbəsindən bütün şəhər görünür.
+[custom_0232] Bilirsinizmi, dərsin başlamasına cəmi on dəqiqə vaxt qalıb.
+[custom_0233] Deyilənə görə, yeni kompüterin yaddaşı bir terabayt həcmindədir.
+[custom_0234] Məncə, o, 1998-ci ildə Gəncə şəhərində anadan olub.
+[custom_0235] Əslində, biletlərin qiyməti tələbələr üçün əlli faiz endirimlədir.
+[custom_0236] Həqiqətən də, bank hesabımdakı qalıq yüz yetmiş beş manatdır.
+[custom_0237] Yeri gəlmişkən, bu gün havanın temperaturu müsbət iyirmi iki dərəcə olacaq.
+[custom_0238] Dünən eşitdim ki, biz layihəni bitirmək üçün üç həftə fasiləsiz işlədik.
+[custom_0239] Aydın məsələdir ki, hər gün ən azı səkkiz saat yatmaq sağlamlıq üçün vacibdir.
+[custom_0240] Bir sözlə, məktəbin əsas korpusunda qırx səkkiz sinif otağı var.
+[custom_0241] Bilirsinizmi, bu kitabın qiyməti on beş manat əlli qəpikdir.
+[custom_0242] Deyilənə görə, təyyarə saat on dörddə Bakıdan İstanbula uçacaq.
+[custom_0243] Məncə, bizim qrupda iyirmi dörd tələbə təhsil alır.
+[custom_0244] Əslində, mağazadan iki kiloqram alma və üç litr süd aldım.
+[custom_0245] Həqiqətən də, görüşümüz martın iyirmi birində, Novruz bayramında olacaq.
+[custom_0246] Yeri gəlmişkən, binanın on beşinci mərtəbəsindən bütün şəhər görünür.
+[custom_0247] Dünən eşitdim ki, dərsin başlamasına cəmi on dəqiqə vaxt qalıb.
+[custom_0248] Aydın məsələdir ki, yeni kompüterin yaddaşı bir terabayt həcmindədir.
+[custom_0249] Bir sözlə, o, 1998-ci ildə Gəncə şəhərində anadan olub.
+[custom_0250] Bilirsinizmi, biletlərin qiyməti tələbələr üçün əlli faiz endirimlədir.
+[custom_0251] Ağacın budağındakı quş şən nəğmələr oxuyur.
+[custom_0252] Qoca bağban bağçadakı qızılgülləri diqqətlə suladı.
+[custom_0253] Yağışdan sonra göy qurşağı səmanı bəzədi.
+[custom_0254] Dostluq və sədaqət həyatın ən qiymətli dəyərləridir.
+[custom_0255] Qış aylarında Şahdağda xizək sürmək çox maraqlıdır.
+[custom_0256] Gözəl şeirlər insan ruhunu həmişə təzələyir.
+[custom_0257] Çəmənlikdəki çiçəklərin ətri ətrafa yayılmışdı.
+[custom_0258] Qonşumuz həyətdə böyük bir qoz ağacı əkdi.
+[custom_0259] Xəzər dənizinin dalğaları sahilə çırpılırdı.
+[custom_0260] Şagirdlər müəllimin izah etdiyi mövzunu maraqla dinlədilər.
+[custom_0261] Köhnə qalanın daş divarları tarixin şahididir.
+[custom_0262] Bulağın buz kimi sərin suyu insanı gümrahlaşdırır.
+[custom_0263] Yaz fəslində təbiət oyanır və hər yer yaşıllaşır.
+[custom_0264] Dənizçilər tufanlı gecədə fənərin işığına doğru üzdülər.
+[custom_0265] Uşağın gözlərində sevinc və maraq qığılcımları parlayırdı.
+[custom_0266] Dünən eşitdim ki, ağacın budağındakı quş şən nəğmələr oxuyur.
+[custom_0267] Aydın məsələdir ki, qoca bağban bağçadakı qızılgülləri diqqətlə suladı.
+[custom_0268] Bir sözlə, yağışdan sonra göy qurşağı səmanı bəzədi.
+[custom_0269] Bilirsinizmi, dostluq və sədaqət həyatın ən qiymətli dəyərləridir.
+[custom_0270] Deyilənə görə, qış aylarında Şahdağda xizək sürmək çox maraqlıdır.
+[custom_0271] Məncə, gözəl şeirlər insan ruhunu həmişə təzələyir.
+[custom_0272] Əslində, çəmənlikdəki çiçəklərin ətri ətrafa yayılmışdı.
+[custom_0273] Həqiqətən də, qonşumuz həyətdə böyük bir qoz ağacı əkdi.
+[custom_0274] Yeri gəlmişkən, xəzər dənizinin dalğaları sahilə çırpılırdı.
+[custom_0275] Dünən eşitdim ki, şagirdlər müəllimin izah etdiyi mövzunu maraqla dinlədilər.
+[custom_0276] Aydın məsələdir ki, köhnə qalanın daş divarları tarixin şahididir.
+[custom_0277] Bir sözlə, bulağın buz kimi sərin suyu insanı gümrahlaşdırır.
+[custom_0278] Bilirsinizmi, yaz fəslində təbiət oyanır və hər yer yaşıllaşır.
+[custom_0279] Deyilənə görə, dənizçilər tufanlı gecədə fənərin işığına doğru üzdülər.
+[custom_0280] Məncə, uşağın gözlərində sevinc və maraq qığılcımları parlayırdı.
+[custom_0281] Əslində, ağacın budağındakı quş şən nəğmələr oxuyur.
+[custom_0282] Həqiqətən də, qoca bağban bağçadakı qızılgülləri diqqətlə suladı.
+[custom_0283] Yeri gəlmişkən, yağışdan sonra göy qurşağı səmanı bəzədi.
+[custom_0284] Dünən eşitdim ki, dostluq və sədaqət həyatın ən qiymətli dəyərləridir.
+[custom_0285] Aydın məsələdir ki, qış aylarında Şahdağda xizək sürmək çox maraqlıdır.
+[custom_0286] Bir sözlə, gözəl şeirlər insan ruhunu həmişə təzələyir.
+[custom_0287] Bilirsinizmi, çəmənlikdəki çiçəklərin ətri ətrafa yayılmışdı.
+[custom_0288] Deyilənə görə, qonşumuz həyətdə böyük bir qoz ağacı əkdi.
+[custom_0289] Məncə, xəzər dənizinin dalğaları sahilə çırpılırdı.
+[custom_0290] Əslində, şagirdlər müəllimin izah etdiyi mövzunu maraqla dinlədilər.
+[custom_0291] Həqiqətən də, köhnə qalanın daş divarları tarixin şahididir.
+[custom_0292] Yeri gəlmişkən, bulağın buz kimi sərin suyu insanı gümrahlaşdırır.
+[custom_0293] Dünən eşitdim ki, yaz fəslində təbiət oyanır və hər yer yaşıllaşır.
+[custom_0294] Aydın məsələdir ki, dənizçilər tufanlı gecədə fənərin işığına doğru üzdülər.
+[custom_0295] Bir sözlə, uşağın gözlərində sevinc və maraq qığılcımları parlayırdı.
+[custom_0296] Bilirsinizmi, ağacın budağındakı quş şən nəğmələr oxuyur.
+[custom_0297] Deyilənə görə, qoca bağban bağçadakı qızılgülləri diqqətlə suladı.
+[custom_0298] Məncə, yağışdan sonra göy qurşağı səmanı bəzədi.
+[custom_0299] Əslində, dostluq və sədaqət həyatın ən qiymətli dəyərləridir.
+[custom_0300] Həqiqətən də, qış aylarında Şahdağda xizək sürmək çox maraqlıdır.
+[custom_0301] Yeri gəlmişkən, gözəl şeirlər insan ruhunu həmişə təzələyir.
+[custom_0302] Dünən eşitdim ki, çəmənlikdəki çiçəklərin ətri ətrafa yayılmışdı.
+[custom_0303] Aydın məsələdir ki, qonşumuz həyətdə böyük bir qoz ağacı əkdi.
+[custom_0304] Bir sözlə, xəzər dənizinin dalğaları sahilə çırpılırdı.
+[custom_0305] Bilirsinizmi, şagirdlər müəllimin izah etdiyi mövzunu maraqla dinlədilər.
+[custom_0306] Deyilənə görə, köhnə qalanın daş divarları tarixin şahididir.
+[custom_0307] Məncə, bulağın buz kimi sərin suyu insanı gümrahlaşdırır.
+[custom_0308] Əslində, yaz fəslində təbiət oyanır və hər yer yaşıllaşır.
+[custom_0309] Həqiqətən də, dənizçilər tufanlı gecədə fənərin işığına doğru üzdülər.
+[custom_0310] Yeri gəlmişkən, uşağın gözlərində sevinc və maraq qığılcımları parlayırdı.
+[custom_0311] Dünən eşitdim ki, ağacın budağındakı quş şən nəğmələr oxuyur.
+[custom_0312] Aydın məsələdir ki, qoca bağban bağçadakı qızılgülləri diqqətlə suladı.
+[custom_0313] Bir sözlə, yağışdan sonra göy qurşağı səmanı bəzədi.
+[custom_0314] Bilirsinizmi, dostluq və sədaqət həyatın ən qiymətli dəyərləridir.
+[custom_0315] Deyilənə görə, qış aylarında Şahdağda xizək sürmək çox maraqlıdır.
+[custom_0316] Məncə, gözəl şeirlər insan ruhunu həmişə təzələyir.
+[custom_0317] Əslində, çəmənlikdəki çiçəklərin ətri ətrafa yayılmışdı.
+[custom_0318] Həqiqətən də, qonşumuz həyətdə böyük bir qoz ağacı əkdi.
+[custom_0319] Yeri gəlmişkən, xəzər dənizinin dalğaları sahilə çırpılırdı.
+[custom_0320] Dünən eşitdim ki, şagirdlər müəllimin izah etdiyi mövzunu maraqla dinlədilər.
+[custom_0321] Aydın məsələdir ki, köhnə qalanın daş divarları tarixin şahididir.
+[custom_0322] Bir sözlə, bulağın buz kimi sərin suyu insanı gümrahlaşdırır.
+[custom_0323] Bilirsinizmi, yaz fəslində təbiət oyanır və hər yer yaşıllaşır.
+[custom_0324] Deyilənə görə, dənizçilər tufanlı gecədə fənərin işığına doğru üzdülər.
+[custom_0325] Məncə, uşağın gözlərində sevinc və maraq qığılcımları parlayırdı.
+[custom_0326] Əslində, ağacın budağındakı quş şən nəğmələr oxuyur.
+[custom_0327] Həqiqətən də, qoca bağban bağçadakı qızılgülləri diqqətlə suladı.
+[custom_0328] Yeri gəlmişkən, yağışdan sonra göy qurşağı səmanı bəzədi.
+[custom_0329] Dünən eşitdim ki, dostluq və sədaqət həyatın ən qiymətli dəyərləridir.
+[custom_0330] Aydın məsələdir ki, qış aylarında Şahdağda xizək sürmək çox maraqlıdır.
+[custom_0331] Bir sözlə, gözəl şeirlər insan ruhunu həmişə təzələyir.
+[custom_0332] Bilirsinizmi, çəmənlikdəki çiçəklərin ətri ətrafa yayılmışdı.
+[custom_0333] Deyilənə görə, qonşumuz həyətdə böyük bir qoz ağacı əkdi.
+[custom_0334] Məncə, xəzər dənizinin dalğaları sahilə çırpılırdı.
+[custom_0335] Əslində, şagirdlər müəllimin izah etdiyi mövzunu maraqla dinlədilər.
+[custom_0336] Həqiqətən də, köhnə qalanın daş divarları tarixin şahididir.
+[custom_0337] Yeri gəlmişkən, bulağın buz kimi sərin suyu insanı gümrahlaşdırır.
+[custom_0338] Dünən eşitdim ki, yaz fəslində təbiət oyanır və hər yer yaşıllaşır.
+[custom_0339] Aydın məsələdir ki, dənizçilər tufanlı gecədə fənərin işığına doğru üzdülər.
+[custom_0340] Bir sözlə, uşağın gözlərində sevinc və maraq qığılcımları parlayırdı.
+[custom_0341] Bilirsinizmi, ağacın budağındakı quş şən nəğmələr oxuyur.
+[custom_0342] Deyilənə görə, qoca bağban bağçadakı qızılgülləri diqqətlə suladı.
+[custom_0343] Məncə, yağışdan sonra göy qurşağı səmanı bəzədi.
+[custom_0344] Əslində, dostluq və sədaqət həyatın ən qiymətli dəyərləridir.
+[custom_0345] Həqiqətən də, qış aylarında Şahdağda xizək sürmək çox maraqlıdır.
+[custom_0346] Yeri gəlmişkən, gözəl şeirlər insan ruhunu həmişə təzələyir.
+[custom_0347] Dünən eşitdim ki, çəmənlikdəki çiçəklərin ətri ətrafa yayılmışdı.
+[custom_0348] Aydın məsələdir ki, qonşumuz həyətdə böyük bir qoz ağacı əkdi.
+[custom_0349] Bir sözlə, xəzər dənizinin dalğaları sahilə çırpılırdı.
+[custom_0350] Bilirsinizmi, şagirdlər müəllimin izah etdiyi mövzunu maraqla dinlədilər.
+[custom_0351] Deyilənə görə, köhnə qalanın daş divarları tarixin şahididir.
+[custom_0352] Məncə, bulağın buz kimi sərin suyu insanı gümrahlaşdırır.
+[custom_0353] Əslində, yaz fəslində təbiət oyanır və hər yer yaşıllaşır.
+[custom_0354] Həqiqətən də, dənizçilər tufanlı gecədə fənərin işığına doğru üzdülər.
+[custom_0355] Yeri gəlmişkən, uşağın gözlərində sevinc və maraq qığılcımları parlayırdı.
+[custom_0356] Dünən eşitdim ki, ağacın budağındakı quş şən nəğmələr oxuyur.
+[custom_0357] Aydın məsələdir ki, qoca bağban bağçadakı qızılgülləri diqqətlə suladı.
+[custom_0358] Bir sözlə, yağışdan sonra göy qurşağı səmanı bəzədi.
+[custom_0359] Bilirsinizmi, dostluq və sədaqət həyatın ən qiymətli dəyərləridir.
+[custom_0360] Deyilənə görə, qış aylarında Şahdağda xizək sürmək çox maraqlıdır.
+[custom_0361] Məncə, gözəl şeirlər insan ruhunu həmişə təzələyir.
+[custom_0362] Əslində, çəmənlikdəki çiçəklərin ətri ətrafa yayılmışdı.
+[custom_0363] Həqiqətən də, qonşumuz həyətdə böyük bir qoz ağacı əkdi.
+[custom_0364] Yeri gəlmişkən, xəzər dənizinin dalğaları sahilə çırpılırdı.
+[custom_0365] Dünən eşitdim ki, şagirdlər müəllimin izah etdiyi mövzunu maraqla dinlədilər.
+[custom_0366] Aydın məsələdir ki, köhnə qalanın daş divarları tarixin şahididir.
+[custom_0367] Bir sözlə, bulağın buz kimi sərin suyu insanı gümrahlaşdırır.
+[custom_0368] Bilirsinizmi, yaz fəslində təbiət oyanır və hər yer yaşıllaşır.
+[custom_0369] Deyilənə görə, dənizçilər tufanlı gecədə fənərin işığına doğru üzdülər.
+[custom_0370] Məncə, uşağın gözlərində sevinc və maraq qığılcımları parlayırdı.
+[custom_0371] Süni intellekt texnologiyaları gündəlik həyatımıza daxil olur.
+[custom_0372] Python proqramlaşdırma dili məlumatların təhlili üçün çox əlverişlidir.
+[custom_0373] Laboratoriyada yeni alqoritmin sınaqları uğurla başa çatdı.
+[custom_0374] Müasir neyron şəbəkələri insan səsini yüksək dəqiqliklə tanıyır.
+[custom_0375] Kompüter elmləri fakültəsində maraqlı mühazirələr təşkil olunur.
+[custom_0376] İnternet sürətinin yüksək olması onlayn dərslər üçün vacibdir.
+[custom_0377] Verilənlər bazasında axtarış əməliyyatı cəmi bir neçə millisaniyə çəkdi.
+[custom_0378] Robototexnika dərnəyində tələbələr yeni avtonom maşın hazırlayırlar.
+[custom_0379] Mobil tətbiq vasitəsilə ictimai nəqliyyatın hərəkətini izləmək mümkündür.
+[custom_0380] Bulud texnologiyaları böyük həcmli məlumatların saxlanmasını asanlaşdırır.
+[custom_0381] Deyilənə görə, süni intellekt texnologiyaları gündəlik həyatımıza daxil olur.
+[custom_0382] Məncə, python proqramlaşdırma dili məlumatların təhlili üçün çox əlverişlidir.
+[custom_0383] Əslində, laboratoriyada yeni alqoritmin sınaqları uğurla başa çatdı.
+[custom_0384] Həqiqətən də, müasir neyron şəbəkələri insan səsini yüksək dəqiqliklə tanıyır.
+[custom_0385] Yeri gəlmişkən, kompüter elmləri fakültəsində maraqlı mühazirələr təşkil olunur.
+[custom_0386] Dünən eşitdim ki, i̇nternet sürətinin yüksək olması onlayn dərslər üçün vacibdir.
+[custom_0387] Aydın məsələdir ki, verilənlər bazasında axtarış əməliyyatı cəmi bir neçə millisaniyə çəkdi.
+[custom_0388] Bir sözlə, robototexnika dərnəyində tələbələr yeni avtonom maşın hazırlayırlar.
+[custom_0389] Bilirsinizmi, mobil tətbiq vasitəsilə ictimai nəqliyyatın hərəkətini izləmək mümkündür.
+[custom_0390] Deyilənə görə, bulud texnologiyaları böyük həcmli məlumatların saxlanmasını asanlaşdırır.
+[custom_0391] Məncə, süni intellekt texnologiyaları gündəlik həyatımıza daxil olur.
+[custom_0392] Əslində, python proqramlaşdırma dili məlumatların təhlili üçün çox əlverişlidir.
+[custom_0393] Həqiqətən də, laboratoriyada yeni alqoritmin sınaqları uğurla başa çatdı.
+[custom_0394] Yeri gəlmişkən, müasir neyron şəbəkələri insan səsini yüksək dəqiqliklə tanıyır.
+[custom_0395] Dünən eşitdim ki, kompüter elmləri fakültəsində maraqlı mühazirələr təşkil olunur.
+[custom_0396] Aydın məsələdir ki, i̇nternet sürətinin yüksək olması onlayn dərslər üçün vacibdir.
+[custom_0397] Bir sözlə, verilənlər bazasında axtarış əməliyyatı cəmi bir neçə millisaniyə çəkdi.
+[custom_0398] Bilirsinizmi, robototexnika dərnəyində tələbələr yeni avtonom maşın hazırlayırlar.
+[custom_0399] Deyilənə görə, mobil tətbiq vasitəsilə ictimai nəqliyyatın hərəkətini izləmək mümkündür.
+[custom_0400] Məncə, bulud texnologiyaları böyük həcmli məlumatların saxlanmasını asanlaşdırır.
+[custom_0401] Əslində, süni intellekt texnologiyaları gündəlik həyatımıza daxil olur.
+[custom_0402] Həqiqətən də, python proqramlaşdırma dili məlumatların təhlili üçün çox əlverişlidir.
+[custom_0403] Yeri gəlmişkən, laboratoriyada yeni alqoritmin sınaqları uğurla başa çatdı.
+[custom_0404] Dünən eşitdim ki, müasir neyron şəbəkələri insan səsini yüksək dəqiqliklə tanıyır.
+[custom_0405] Aydın məsələdir ki, kompüter elmləri fakültəsində maraqlı mühazirələr təşkil olunur.
+[custom_0406] Bir sözlə, i̇nternet sürətinin yüksək olması onlayn dərslər üçün vacibdir.
+[custom_0407] Bilirsinizmi, verilənlər bazasında axtarış əməliyyatı cəmi bir neçə millisaniyə çəkdi.
+[custom_0408] Deyilənə görə, robototexnika dərnəyində tələbələr yeni avtonom maşın hazırlayırlar.
+[custom_0409] Məncə, mobil tətbiq vasitəsilə ictimai nəqliyyatın hərəkətini izləmək mümkündür.
+[custom_0410] Əslində, bulud texnologiyaları böyük həcmli məlumatların saxlanmasını asanlaşdırır.
+[custom_0411] Həqiqətən də, süni intellekt texnologiyaları gündəlik həyatımıza daxil olur.
+[custom_0412] Yeri gəlmişkən, python proqramlaşdırma dili məlumatların təhlili üçün çox əlverişlidir.
+[custom_0413] Dünən eşitdim ki, laboratoriyada yeni alqoritmin sınaqları uğurla başa çatdı.
+[custom_0414] Aydın məsələdir ki, müasir neyron şəbəkələri insan səsini yüksək dəqiqliklə tanıyır.
+[custom_0415] Bir sözlə, kompüter elmləri fakültəsində maraqlı mühazirələr təşkil olunur.
+[custom_0416] Bilirsinizmi, i̇nternet sürətinin yüksək olması onlayn dərslər üçün vacibdir.
+[custom_0417] Deyilənə görə, verilənlər bazasında axtarış əməliyyatı cəmi bir neçə millisaniyə çəkdi.
+[custom_0418] Məncə, robototexnika dərnəyində tələbələr yeni avtonom maşın hazırlayırlar.
+[custom_0419] Əslində, mobil tətbiq vasitəsilə ictimai nəqliyyatın hərəkətini izləmək mümkündür.
+[custom_0420] Həqiqətən də, bulud texnologiyaları böyük həcmli məlumatların saxlanmasını asanlaşdırır.
+[custom_0421] Yeri gəlmişkən, süni intellekt texnologiyaları gündəlik həyatımıza daxil olur.
+[custom_0422] Dünən eşitdim ki, python proqramlaşdırma dili məlumatların təhlili üçün çox əlverişlidir.
+[custom_0423] Aydın məsələdir ki, laboratoriyada yeni alqoritmin sınaqları uğurla başa çatdı.
+[custom_0424] Bir sözlə, müasir neyron şəbəkələri insan səsini yüksək dəqiqliklə tanıyır.
+[custom_0425] Bilirsinizmi, kompüter elmləri fakültəsində maraqlı mühazirələr təşkil olunur.
+[custom_0426] Deyilənə görə, i̇nternet sürətinin yüksək olması onlayn dərslər üçün vacibdir.
+[custom_0427] Məncə, verilənlər bazasında axtarış əməliyyatı cəmi bir neçə millisaniyə çəkdi.
+[custom_0428] Əslində, robototexnika dərnəyində tələbələr yeni avtonom maşın hazırlayırlar.
+[custom_0429] Həqiqətən də, mobil tətbiq vasitəsilə ictimai nəqliyyatın hərəkətini izləmək mümkündür.
+[custom_0430] Yeri gəlmişkən, bulud texnologiyaları böyük həcmli məlumatların saxlanmasını asanlaşdırır.
+[custom_0431] Dünən eşitdim ki, süni intellekt texnologiyaları gündəlik həyatımıza daxil olur.
+[custom_0432] Aydın məsələdir ki, python proqramlaşdırma dili məlumatların təhlili üçün çox əlverişlidir.
+[custom_0433] Bir sözlə, laboratoriyada yeni alqoritmin sınaqları uğurla başa çatdı.
+[custom_0434] Bilirsinizmi, müasir neyron şəbəkələri insan səsini yüksək dəqiqliklə tanıyır.
+[custom_0435] Deyilənə görə, kompüter elmləri fakültəsində maraqlı mühazirələr təşkil olunur.
+[custom_0436] Məncə, i̇nternet sürətinin yüksək olması onlayn dərslər üçün vacibdir.
+[custom_0437] Əslində, verilənlər bazasında axtarış əməliyyatı cəmi bir neçə millisaniyə çəkdi.
+[custom_0438] Həqiqətən də, robototexnika dərnəyində tələbələr yeni avtonom maşın hazırlayırlar.
+[custom_0439] Yeri gəlmişkən, mobil tətbiq vasitəsilə ictimai nəqliyyatın hərəkətini izləmək mümkündür.
+[custom_0440] Dünən eşitdim ki, bulud texnologiyaları böyük həcmli məlumatların saxlanmasını asanlaşdırır.
+[custom_0441] Aydın məsələdir ki, süni intellekt texnologiyaları gündəlik həyatımıza daxil olur.
+[custom_0442] Bir sözlə, python proqramlaşdırma dili məlumatların təhlili üçün çox əlverişlidir.
+[custom_0443] Bilirsinizmi, laboratoriyada yeni alqoritmin sınaqları uğurla başa çatdı.
+[custom_0444] Deyilənə görə, müasir neyron şəbəkələri insan səsini yüksək dəqiqliklə tanıyır.
+[custom_0445] Məncə, kompüter elmləri fakültəsində maraqlı mühazirələr təşkil olunur.
+[custom_0446] Əslində, i̇nternet sürətinin yüksək olması onlayn dərslər üçün vacibdir.
+[custom_0447] Həqiqətən də, verilənlər bazasında axtarış əməliyyatı cəmi bir neçə millisaniyə çəkdi.
+[custom_0448] Yeri gəlmişkən, robototexnika dərnəyində tələbələr yeni avtonom maşın hazırlayırlar.
+[custom_0449] Dünən eşitdim ki, mobil tətbiq vasitəsilə ictimai nəqliyyatın hərəkətini izləmək mümkündür.
+[custom_0450] Aydın məsələdir ki, bulud texnologiyaları böyük həcmli məlumatların saxlanmasını asanlaşdırır.

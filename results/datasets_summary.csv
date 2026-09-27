@@ -1,0 +1,7 @@
+dataset,split,samples,missing,duration_min,duration_hours,vocab_size
+Mozilla Common Voice,test.tsv,126,0,12.18,0.2,736
+Mozilla Common Voice,dev.tsv,93,0,7.6,0.13,533
+Mozilla Common Voice,train.tsv,215,0,18.94,0.32,1173
+Google FLEURS,test.tsv,923,0,194.25,3.24,3691
+Google FLEURS,dev.tsv,400,0,80.97,1.35,1830
+Google FLEURS,train.tsv,2665,0,558.84,9.31,10544
